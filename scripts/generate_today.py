@@ -208,18 +208,28 @@ def append_history(rows: list[dict]) -> None:
         writer.writerows(rows)
 
 
-def pick_seed_row(window_id: str, rows: list[dict], state: dict, rng: random.Random) -> dict:
-    """Pick the next seed row for this window, cycling through the full list
-    before any row repeats. Mutates `state` in place; caller persists it."""
+def peek_next_seed_row(window_id: str, rows: list[dict], state: dict, rng: random.Random) -> dict:
+    """Choose the next seed row for this window, cycling through the full
+    list before any row repeats. Does NOT mutate `state` -- call
+    mark_seed_row_used() only after the row is actually successfully served,
+    so a failed generation doesn't silently burn a cycle slot on a pick
+    nobody ever saw."""
     used = set(state.get(window_id, []))
     remaining = [r for r in rows if r["source"] not in used]
     if not remaining:
-        used = set()
         remaining = rows[:]
-    row = rng.choice(remaining)
+    return rng.choice(remaining)
+
+
+def mark_seed_row_used(window_id: str, row: dict, rows: list[dict], state: dict) -> None:
+    """Record that `row` was actually served. If the cycle was already
+    complete (every row already marked used), start a fresh cycle instead of
+    just adding to an already-full set."""
+    used = set(state.get(window_id, []))
+    if used >= {r["source"] for r in rows}:
+        used = set()
     used.add(row["source"])
     state[window_id] = sorted(used)
-    return row
 
 
 def pick_wildcard_window(today: datetime.date) -> str | None:
@@ -567,16 +577,28 @@ def main():
     state = load_state()
     day_rng = random.Random(f"seedpick-{today.isoformat()}")
 
+    # Start from whatever's already live, so a window that fails today keeps
+    # showing yesterday's (still-good) pick instead of going blank. A bad
+    # run should mean "today didn't update" for that window, never "today
+    # erased it."
     per_window = {}
+    if OUTPUT_PATH.exists():
+        try:
+            previous = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+            per_window = previous.get("perWindow", {})
+        except Exception as err:
+            print(f"(could not read previous {OUTPUT_PATH}, starting empty: {err})", file=sys.stderr)
+
     history_rows = []
     for window_id, info in WINDOWS.items():
         is_wildcard = window_id == wildcard_window
         mode = "wildcard" if is_wildcard else pick_mode(window_id, today)
 
         seed_row = None
+        seed_rows_for_window = None
         if mode == "seed":
-            rows = parse_seed_rows(load_seed_csv_text(info["seed_file"]))
-            seed_row = pick_seed_row(window_id, rows, state, day_rng)
+            seed_rows_for_window = parse_seed_rows(load_seed_csv_text(info["seed_file"]))
+            seed_row = peek_next_seed_row(window_id, seed_rows_for_window, state, day_rng)
             print(f"[{window_id}] {info['label']} -- seed pick ({seed_row['source']}), searching...")
         elif mode == "wildcard":
             print(f"[{window_id}] {info['label']} -- wildcard, searching...")
@@ -592,8 +614,14 @@ def main():
             try:
                 result = call_claude(client, system, user, tool)
             except Exception as err2:
-                print(f"[{window_id}] FAILED after retry: {err2}", file=sys.stderr)
+                kept = "keeping yesterday's pick" if window_id in per_window else "no previous pick to fall back to"
+                print(f"[{window_id}] FAILED after retry: {err2} -- {kept}", file=sys.stderr)
                 continue
+
+        # Only now -- after a real, successful pick -- does this seed row
+        # actually count as served.
+        if seed_row is not None:
+            mark_seed_row_used(window_id, seed_row, seed_rows_for_window, state)
 
         print(f"[{window_id}] pick: {result['title']} -> {result['url']}")
         preview_image, image_source = resolve_preview_image(result["url"], window_id)
@@ -622,12 +650,15 @@ def main():
     save_state(state)
     output = {"generatedAt": today.isoformat(), "perWindow": per_window}
     OUTPUT_PATH.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"\nWrote {OUTPUT_PATH} ({len(per_window)}/5 windows populated)")
+    succeeded = len(history_rows)
+    print(f"\nWrote {OUTPUT_PATH} ({succeeded}/5 windows updated today, {len(per_window)}/5 total populated)")
     print(f"Wrote {STATE_PATH}")
 
     if history_rows:
         append_history(history_rows)
         print(f"Appended {len(history_rows)} row(s) to {HISTORY_PATH}")
+    else:
+        print("No windows succeeded today -- history.csv left untouched.")
 
 
 if __name__ == "__main__":
