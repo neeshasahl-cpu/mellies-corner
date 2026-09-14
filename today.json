@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2026-09-15",
+  "perWindow": {
+    "window-1": {
+      "title": "The Useless Web",
+      "url": "https://theuselessweb.com/",
+      "blurb": "One button, zero purpose, and a trapdoor straight into the handmade weird web — press it twice and you'll come out the other side with three new side-quest ideas.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-1-og.webp"
+    },
+    "window-2": {
+      "title": "They Call Me… Colette: Beautiful Dreamer (NOWNESS)",
+      "url": "https://www.nowness.com/series/they-call-me/colette-beautiful-dreamer-nick-hampson",
+      "blurb": "A punk performance artist who staged her own funeral as art and spent fifty years refusing to be just one person — Mel, this is your patron saint, and the film is as gorgeous and grainy as she deserves.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-2.webp"
+    },
+    "window-3": {
+      "title": "Negroni Mocktail",
+      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/negroni-mocktail-17018703",
+      "blurb": "A bitter, blood-orange-red negroni with zero proof and all the attitude — it's less a drink than a persona you can hold, and it photographs like a dream over one fat ice cube.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-3.webp"
+    },
+    "window-4": {
+      "title": "Sight Unseen: Inside a Vintage-Filled NYC Home",
+      "url": "https://www.sightunseen.com/2025/12/enter-our-12k-furniture-and-lighting-giveaway-tour-a-vintage-filled-nyc-home-and-more/",
+      "blurb": "Every lamp and odd little object in this place clearly got hunted down one at a time, which is the only kind of room worth living in — steal the layering and go raid a thrift store.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-4.webp"
+    },
+    "window-5": {
+      "title": "Visitors, Tanjong Pagar Plaza",
+      "url": "https://thehoneycombers.com/singapore/new-cafes-singapore/",
+      "blurb": "A brand-new Korean cafe hidden in a weathered 1970s HDB podium block alongside three other tiny indie spots — one coffee, four discoveries, and all that terrazzo-and-tile texture you'd photograph anyway.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-5-og.webp"
+    }
+  }
+}

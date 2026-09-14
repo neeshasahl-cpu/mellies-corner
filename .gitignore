@@ -1,0 +1,21 @@
+# Secrets -- never commit these. ANTHROPIC_API_KEY and SNAPRENDER_API_KEY are
+# provided at runtime via environment variable (local) or GitHub Actions
+# secrets of the same names (CI) -- see scripts/generate_today.py and README.
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Dev-only scratch work -- one-off scripts used to measure/derive the window
+# coordinates and a Claude-session preview helper, not part of the deployed
+# site or the daily automation.
+tools/
+artifact-preview.html
+
