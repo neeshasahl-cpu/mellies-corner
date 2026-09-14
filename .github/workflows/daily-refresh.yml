@@ -1,0 +1,58 @@
+name: Daily content refresh
+
+on:
+  schedule:
+    # 0 21 * * * in UTC == 5:00 AM Singapore Time (SGT, UTC+8) the *next*
+    # calendar day. GitHub Actions cron always runs in UTC -- if you're
+    # reading this confused about why it doesn't say "5 0 * * *", that's why.
+    - cron: "0 21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate today's content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SNAPRENDER_API_KEY: ${{ secrets.SNAPRENDER_API_KEY }}
+        run: python scripts/generate_today.py
+
+      # Runs even if generation above failed, so the repo always gets a
+      # fresh commit every day the workflow fires -- see the keep-alive
+      # step below for why that matters.
+      - name: Record run timestamp (keep-alive)
+        if: always()
+        run: |
+          mkdir -p .github
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/last-run.txt
+
+      # today.json/history.csv/seed_usage_state.json/assets/previews/ change
+      # on essentially every successful run on their own, which already
+      # counts as repo activity and should keep the schedule from being
+      # auto-disabled after 60 days of inactivity. .github/last-run.txt is
+      # an explicit backstop: it changes unconditionally (even on a failed
+      # generation run), guaranteeing a commit -- and therefore activity --
+      # every single day the workflow fires, regardless of what else happens.
+      - name: Commit and push updates
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily content refresh"
+          commit_user_name: "mellies-corner-bot"
+          commit_user_email: "actions@github.com"
+          file_pattern: "today.json history.csv scripts/seed_usage_state.json assets/previews/** .github/last-run.txt"
