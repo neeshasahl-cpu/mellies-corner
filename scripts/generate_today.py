@@ -9,9 +9,14 @@ enabled to find one fresh pick per window, resolves a preview image
 Per the taste prompt's "SEED USAGE" rule, about half of each window's picks
 (over time) should be actual links from that window's seed CSV rather than
 open web search -- cycling through the full seed list before repeating any
-row. seed_usage_state.json tracks which seed rows have been used per window
-so that cycle persists across daily runs; it is not a secret and is meant to
-be committed alongside today.json.
+row. Window 1 (Design & Web Toys) is an exception: it skews ~70/30 toward
+seed picks (SEED_PICK_PROBABILITY_OVERRIDES), since open web search for that
+category tends to surface shallow novelty/gag sites rather than the quietly
+crafted web toys Melany actually likes -- see the taste prompt's "WINDOW 1
+EXCEPTION" and "WINDOW 1 CALIBRATION" sections, both passed through verbatim
+in that window's system prompt. seed_usage_state.json tracks which seed rows
+have been used per window so that cycle persists across daily runs; it is
+not a secret and is meant to be committed alongside today.json.
 
 Every run also appends one row per pick to history.csv -- a human-readable,
 append-only log (date, window, category, title, url, source, isWildcard,
@@ -88,6 +93,13 @@ PREVIEWS_DIR = PROJECT_ROOT / "assets" / "previews"
 
 MODEL = "claude-opus-5"
 SEED_PICK_PROBABILITY = 0.5  # "roughly a 50/50 mix over time" per the taste prompt
+
+# Per-window override of SEED_PICK_PROBABILITY. Window 1's own seed list is
+# the strongest calibration for that category, and open web search tends to
+# surface shallow novelty/gag sites there -- so it skews seed-heavy (~70/30)
+# per the taste prompt's "WINDOW 1 EXCEPTION". Windows not listed here use
+# the default 50/50.
+SEED_PICK_PROBABILITY_OVERRIDES = {"window-1": 0.7}
 
 SNAPRENDER_BASE = "https://app.snap-render.com"
 SNAPRENDER_TIMEOUT = 35  # server-side render timeout is 30s; give it margin
@@ -242,11 +254,13 @@ def pick_wildcard_window(today: datetime.date) -> str | None:
 
 
 def pick_mode(window_id: str, today: datetime.date) -> str:
-    """"seed" or "search", independently per window, ~50/50 in expectation.
-    Seeded by date+window (distinct stream from the wildcard RNG) so a
-    same-day re-run is stable."""
+    """"seed" or "search", independently per window, at that window's seed
+    probability (default 50/50, overridden per SEED_PICK_PROBABILITY_OVERRIDES
+    -- e.g. window-1 skews ~70/30 toward seed). Seeded by date+window
+    (distinct stream from the wildcard RNG) so a same-day re-run is stable."""
+    probability = SEED_PICK_PROBABILITY_OVERRIDES.get(window_id, SEED_PICK_PROBABILITY)
     rng = random.Random(f"mode-{today.isoformat()}-{window_id}")
-    return "seed" if rng.random() < SEED_PICK_PROBABILITY else "search"
+    return "seed" if rng.random() < probability else "search"
 
 
 def web_search_tool(allowed_domains: list[str] | None = None) -> dict:

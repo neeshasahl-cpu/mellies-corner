@@ -66,6 +66,12 @@ window's list have been used — cycle through the full list before repeating an
 chose these herself, so they should genuinely appear on rotation, never the same few
 over and over.
 
+WINDOW 1 EXCEPTION: For Window 1 (Design & Web Toys), weight the mix toward the seed
+list — roughly 70% seed picks, 30% fresh web finds — because Melany's own Window 1
+seeds are the strongest calibration of the taste here, and live search for this
+category tends to surface shallow novelty. Still cycle through the seed list without
+repeating (as above).
+
 ## GUARDRAILS
 - NO classical or historical fine art (no old-master paintings, museum-canon stuff).
   Note: the wildcard can visit fantastical/illustrative worlds, but still avoid the
@@ -73,6 +79,15 @@ over and over.
 - Never streamline her toward a single style — mix it up every single day.
 - Favor indie, hand-made, surprising over polished / mainstream / algorithmic.
 - Keep it genuinely cool. When in doubt, weirder and warmer wins.
+
+WINDOW 1 CALIBRATION (Design & Web Toys): New web finds for this window must be
+beautiful, artful, or quietly clever — collaborative net-art, generative or interactive
+art, hand-made web experiments, interactive visual essays, things with real craft or
+emotion (in the spirit of amapof.us, coffeereceiptstories.com, annasgarden.vercel.app,
+belowthesurface.amsterdam, cameronsworld.net, river.maxbittker.com). Do NOT serve
+one-note novelty or gag sites (e.g. "useless web" gimmicks, pointerpointer-style
+jokes, random-button toys) — they read as stupid rather than delightful. The test:
+would Melany find it genuinely lovely or interesting, not just briefly amusing?
 
 ## METHOD
 Use live web search every run to find CURRENT things — new cafes, fresh articles,
