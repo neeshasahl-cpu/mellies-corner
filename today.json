@@ -1,4 +1,40 @@
 {
   "generatedAt": "2026-09-14",
-  "perWindow": {}
+  "perWindow": {
+    "window-1": {
+      "title": "Pointer Pointer",
+      "url": "https://pointerpointer.com/",
+      "blurb": "Someone shot hundreds of photos of people pointing just so a stranger could point at your cursor — that's the exact ratio of absurd effort to dumb payoff you live for.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-1-og.webp"
+    },
+    "window-2": {
+      "title": "Type of Culture",
+      "url": "https://keyavadgama.substack.com/p/a-reintroduction-and-a-rebrand",
+      "blurb": "A one-woman design newsletter that reads type, pop culture and graphic ephemera as one big ongoing conversation — and just rebranded itself mid-run, which is the most Melany move imaginable.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-2.webp"
+    },
+    "window-3": {
+      "title": "Agua Fresca",
+      "url": "https://www.loveandlemons.com/agua-fresca/",
+      "blurb": "It's less a recipe than a formula — blend whatever fruit is ripe with lime and water — so you can make a different jewel-toned pitcher every week and never repeat yourself.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-3-og.webp"
+    },
+    "window-4": {
+      "title": "Home Tour: Tove Jansson's Helsinki atelier",
+      "url": "https://www.kinfolk.com/stories/home-tour-tove-janssons-helsinki-atelier/",
+      "blurb": "The Moomins were born in this cluttered, paint-stained attic tower and it's been left almost exactly as she lived in it — proof that the best rooms are just a creative brain turned inside out.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-4.webp"
+    },
+    "window-5": {
+      "title": "Bibik Violet, Temasek Shophouse",
+      "url": "https://www.aspirantsg.com/bibik-violet/",
+      "blurb": "Grandma-matriarch energy in café form — vintage Peranakan tiles, tasselled lamps, sugee cake and kopi roasted the old way, basically a lived-in heritage mood board you can eat in.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-5.webp"
+    }
+  }
 }
