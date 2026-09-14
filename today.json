@@ -2,16 +2,16 @@
   "generatedAt": "2026-09-14",
   "perWindow": {
     "window-1": {
-      "title": "Infinite Craft",
-      "url": "https://neal.fun/infinite-craft/",
-      "blurb": "You start with Water, Fire, Wind and Earth and somehow end up inventing 'Betty Boop Dragon Sushi' at 2am — it's a pure creative rabbit hole with no rules, exactly your kind of side quest.",
+      "title": "Anna's Secret Garden",
+      "url": "https://annasgarden.vercel.app/",
+      "blurb": "Go draw a wonky little flower and leave it for strangers — it's the sweetest, most hand-made corner of the internet and exactly your kind of collaborative side quest.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1.webp"
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Type of Culture — Keya Vadgama",
-      "url": "https://keyavadgama.substack.com/p/a-reintroduction-and-a-rebrand",
-      "blurb": "A one-woman newsletter that reads type as pop culture rather than portfolio polish — basically a smart friend explaining why that bubble-font shop sign is doing more than it lets on.",
+      "title": "The Substack Stars: 21 Newsletters Your Favorite Writers Can't Get Enough Of",
+      "url": "https://www.culturedmag.com/article/2026/02/25/substack-top-newsletters-2025/",
+      "blurb": "It's a roomful of people with real taste passing you their private reading lists — consider this your rabbit hole for the week, and yes, you're allowed to subscribe to all of them.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
@@ -30,9 +30,9 @@
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Pout Rooftop Cafe, South Bridge Road",
-      "url": "https://therantingpanda.com/2025/11/15/food-review-pout-rooftop-cafe-at-south-bridge-road-hidden-cafe-with-gorgeous-view-of-singapores-skyline/",
-      "blurb": "A secret sixth-floor rooftop you'd never spot from the street, with pastries, a skyline that doesn't look like Singapore, and exactly the kind of golden-hour light your film camera has been waiting for.",
+      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
+      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
+      "blurb": "An old hardware shophouse turned art-deco coffee temple with a 360° island bar you sit around like a stage — bring the film camera, because the green tiles, brass and courtyard light were made for you.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
