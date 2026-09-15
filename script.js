@@ -52,11 +52,13 @@ async function loadPicks() {
 
     // The phone screen isn't actually a rectangle in the artwork (it's drawn
     // at a slight perspective skew), so the card is clipped to its true
-    // quadrilateral via clip-path. The image fills that full clipped shape;
-    // the chrome dots go in the separately-rotated phone-content wrapper so
-    // they sit parallel to the phone's own edges.
+    // quadrilateral via clip-path. Both the chrome dots AND the image go
+    // inside the separately-rotated/skewed phone-content wrapper (captured
+    // at a true phone aspect ratio -- see WINDOW_SCREENSHOT_VIEWPORT in the
+    // generator), so the image lands at the phone's actual tilt instead of
+    // showing through the clip path unrotated.
     card.innerHTML =
-      shape === "phone" ? `${image}<div class="phone-content">${chrome}</div>` : `${image}${chrome}`;
+      shape === "phone" ? `<div class="phone-content">${image}${chrome}</div>` : `${image}${chrome}`;
 
     if (hasImage) {
       const img = card.querySelector(".pick-image");

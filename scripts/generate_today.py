@@ -122,6 +122,33 @@ PREVIEW_QUALITY = 85
 # that window's fallback order is flipped: og:image first, screenshot second.
 OG_IMAGE_FIRST_WINDOWS = {"window-1"}
 
+# Capture each window's screenshot at a viewport that roughly matches that
+# window's own zone shape, so the site's own layout fills it naturally
+# instead of a wide desktop capture getting cropped arbitrarily to fit a
+# tall/narrow or small/square zone. Ratios below are each zone's real pixel
+# aspect (width/height, computed from index.html's stage-relative % against
+# the artwork's 2732x1535), not eyeballed:
+#   window-1 (monitor, ~1.83 landscape) -- close enough to the 1280x800
+#     default already; left as-is per instruction, not listed here.
+#   window-2 (pegboard card, ~0.92) / window-4 (pegboard note, ~0.93) /
+#     window-5 (boombox label, ~0.89) -- all near-square/slightly-portrait
+#     pegboard-style zones.
+#   window-3 (phone) -- rather than just matching the zone's own bounding
+#     box (which is misleading: the box is axis-aligned but the visible
+#     shape inside it is a clip-path'd, rotated true phone screen), this
+#     uses SnapRender's real iPhone device emulation so the *site itself*
+#     renders its actual mobile-responsive layout, not a cropped desktop
+#     view. The corresponding front-end change (script.js/style.css) then
+#     rotates/skews this image the same way the chrome dots already are, so
+#     it lands at the phone's true tilt instead of showing through the clip
+#     path unrotated.
+WINDOW_SCREENSHOT_VIEWPORT = {
+    "window-2": {"width": 900, "height": 980},
+    "window-4": {"width": 900, "height": 970},
+    "window-5": {"width": 850, "height": 960},
+    "window-3": {"device": "iphone_15_pro"},
+}
+
 WINDOWS = {
     "window-1": {
         "label": "Design & Web Toys",
@@ -432,15 +459,15 @@ def capture_screenshot(url: str, window_id: str) -> Path | None:
         print("    (SNAPRENDER_API_KEY not set -- skipping screenshot)", file=sys.stderr)
         return None
 
+    viewport = WINDOW_SCREENSHOT_VIEWPORT.get(window_id, {"width": PREVIEW_MAX_WIDTH, "height": 800})
     params = {
         "url": url,
         "format": "webp",
-        "width": PREVIEW_MAX_WIDTH,
-        "height": 800,
         "quality": PREVIEW_QUALITY,
         "delay": 2000,  # ms to let the page settle before capture
         "block_cookie_banners": "true",
         "block_ads": "true",
+        **viewport,  # either {"width", "height"} or {"device": "..."} -- see WINDOW_SCREENSHOT_VIEWPORT
     }
     try:
         resp = requests.get(

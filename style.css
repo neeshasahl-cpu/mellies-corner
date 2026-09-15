@@ -132,6 +132,12 @@ body {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  /* Each window's screenshot is captured at a viewport roughly matching
+     that zone's shape already (see WINDOW_SCREENSHOT_VIEWPORT in the
+     generator), so cover-cropping should be minor -- but if any is needed,
+     trim from the bottom, not the top: show the top of the page (logo,
+     header, above the fold), never an arbitrary middle slice. */
+  object-position: center top;
   display: block;
 }
 
@@ -153,10 +159,10 @@ body {
 
 /* The phone screen isn't a true rectangle in the artwork (it's drawn at a
    slight perspective skew, so a plain CSS rotate() never sits flush against
-   all four edges) — clip the card to its actual quadrilateral instead, and
-   lay the text out in a separately-rotated inner block so it still reads
-   down the phone's length. Corners measured from the artwork, expressed as
-   % of this element's own box. */
+   all four edges) — clip the card to its actual quadrilateral (a safety-net
+   boundary; phone-content below is already sized/rotated to closely match
+   it). Corners measured from the artwork, expressed as % of this element's
+   own box. */
 .pick-card--phone {
   position: relative;
   clip-path: polygon(0% 51.67%, 74.01% 0%, 100% 51.87%, 24.17% 100%);
@@ -171,10 +177,14 @@ body {
   /* A plain rotate() assumes a rectangle, but the screen is a skewed
      parallelogram in the artwork (its long edges and short edges aren't
      perpendicular) — this matrix() bakes in that skew directly, using the
-     measured unit vectors along the screen's own width and length edges,
-     so the chrome bar and text block sit truly parallel to the real edges. */
+     measured unit vectors along the screen's own width and length edges.
+     Both the image (captured at a real phone aspect ratio -- see
+     WINDOW_SCREENSHOT_VIEWPORT) and the chrome dots live inside this box, so
+     they land at the phone's actual tilt together, instead of the image
+     showing through the outer clip-path unrotated. */
   transform: translate(-50%, -50%) matrix(0.6640, 0.7478, -0.9306, 0.3660, 0, 0);
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 

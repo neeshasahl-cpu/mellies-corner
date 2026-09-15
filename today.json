@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-14",
+  "generatedAt": "2026-09-15",
   "perWindow": {
     "window-1": {
-      "title": "Anna's Secret Garden",
-      "url": "https://annasgarden.vercel.app/",
-      "blurb": "Go draw a wonky little flower and leave it for strangers — it's the sweetest, most hand-made corner of the internet and exactly your kind of collaborative side quest.",
+      "title": "Piano Keyboard 🎹 — dweet d/35177 by dee-gomma",
+      "url": "https://www.dwitter.net/d/35177",
+      "blurb": "Someone built a whole animated piano in 140 characters of code, and there's a remix button right there — which means you're about six minutes away from a new side quest.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "The Substack Stars: 21 Newsletters Your Favorite Writers Can't Get Enough Of",
-      "url": "https://www.culturedmag.com/article/2026/02/25/substack-top-newsletters-2025/",
-      "blurb": "It's a roomful of people with real taste passing you their private reading lists — consider this your rabbit hole for the week, and yes, you're allowed to subscribe to all of them.",
+      "title": "The Mood Board #046 — Brianna Schubert",
+      "url": "https://briannaschubert.substack.com/p/the-mood-board-046",
+      "blurb": "It's one creative person's actual monthly brain-dump — Virgo-season resolutions, the fits she wore in Berlin, jobs, odd little finds — and you'll walk away with three new side quests you didn't ask for.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Summertime Aguas Frescas",
-      "url": "https://cookieandkate.com/aguas-frescas-recipe/",
-      "blurb": "Four ingredients and a blender gets you an endlessly remixable fruit-and-lime cooler — cucumber-mint one day, pineapple the next — perfect for Singapore heat and for dressing up in your prettiest glass.",
+      "title": "Spicy Passion Fruit Mocktail (AKA \"Mockarita\")",
+      "url": "https://minimalistbaker.com/spicy-passion-fruit-mocktail/",
+      "blurb": "Four ingredients, but you get to char a jalapeño over open flame for smoky depth — a tiny bit of theatre for a drink that's tart, tropical, and named like it's in on the joke.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Before & After: A Colorful, Modern Update for a Late 19th-Century Apartment",
-      "url": "https://www.thenordroom.com/before-after-colorful-1880s-stockholm-apartment/",
-      "blurb": "The trick here is painting the trim — window frames, door frames, skirting boards — in colour instead of default white, which turns an old room into something hand-drawn and lived-in, exactly the kind of low-cost, high-commitment side quest you'd finish in a weekend.",
+      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
+      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
+      "blurb": "Four people, one apartment, zero fear of colour or clutter — this is the warm, object-stuffed, every-wall-has-a-story energy you keep chasing, and it proves a home can be maximal without ever feeling messy.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
-      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
-      "blurb": "An old hardware shophouse turned art-deco coffee temple with a 360° island bar you sit around like a stage — bring the film camera, because the green tiles, brass and courtyard light were made for you.",
+      "title": "Cafe Yasuragi, Millenia Walk",
+      "url": "https://thehoneycombers.com/singapore/new-cafes-singapore/",
+      "blurb": "Tucked inside Millenia Walk with deep teal walls and tan leather booths, it's a moody little hideout that basically begs you to bring the film camera and shoot a whole persona in the corner booth.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
