@@ -19,12 +19,16 @@ have been used per window so that cycle persists across daily runs; it is
 not a secret and is meant to be committed alongside today.json.
 
 Every run also appends one row per pick to history.csv -- a human-readable,
-append-only log (date, window, category, title, url, source, isWildcard,
-image_source) for tracking what's been served over time, how often seed vs.
-web picks show up, and how often each preview-image source is landing. This
-is distinct from seed_usage_state.json (that's internal bookkeeping for the
-cycling logic; history.csv is the readable record). Never overwritten, only
-appended to; meant to be committed and grow indefinitely.
+append-only log (date, window, category, title, blurb, url, source,
+isWildcard, image_source) for tracking what's been served over time, how
+often seed vs. web picks show up, how often each preview-image source is
+landing, and -- via blurb -- the curation reasoning behind each pick. The
+blurb is never shown on the site itself (a window is a clean preview of the
+site, not a recommendation card); it's kept here and in today.json purely as
+the log record. history.csv is distinct from seed_usage_state.json (that's
+internal bookkeeping for the cycling logic; history.csv is the readable
+record). Never overwritten, only appended to; meant to be committed and grow
+indefinitely.
 
 Preview images: fallback chain of screenshot (SnapRender) / og:image / plain
 card, with per-window ordering --
@@ -84,6 +88,7 @@ HISTORY_FIELDS = [
     "window",
     "category",
     "title",
+    "blurb",
     "url",
     "source",
     "isWildcard",
@@ -654,6 +659,7 @@ def main():
                 "window": window_id,
                 "category": info["label"],
                 "title": result["title"],
+                "blurb": result["blurb"],
                 "url": result["url"],
                 "source": "seed" if mode == "seed" else "web",
                 "isWildcard": is_wildcard,

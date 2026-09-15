@@ -45,11 +45,15 @@ async function loadPicks() {
          <div class="pick-scrim"></div>`
       : "";
 
+    // The AI-written "why she'd love it" blurb is curation reasoning, not
+    // something the window itself should say -- it's still generated and
+    // kept in today.json/history.csv as the reasoning record, it just never
+    // renders here. A window is a preview of the site, not a rec card: just
+    // the image (if any) and the site's own name.
     const content = `
       ${chrome}
       <div class="pick-body">
         <p class="pick-title">${escapeHtml(pick.title)}</p>
-        <p class="pick-blurb">${escapeHtml(pick.blurb || "")}</p>
       </div>
     `;
 

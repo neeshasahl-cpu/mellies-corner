@@ -108,25 +108,11 @@ body {
   overflow: hidden;
 }
 
-.pick-blurb {
-  margin: 0;
-  font-size: clamp(0.4rem, 0.72vw, 0.68rem);
-  line-height: 1.28;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
 /* screen-style cards (monitor, phone): a little "live site" look with a
    browser-chrome bar, since these will eventually hold real embeds. */
 .pick-card--screen {
   background: var(--screen-bg);
   color: var(--screen-ink);
-}
-
-.pick-card--screen .pick-blurb {
-  color: var(--screen-ink-soft);
 }
 
 .screen-chrome {
@@ -155,10 +141,6 @@ body {
   background: var(--paper);
   color: var(--ink);
   border: 1px solid rgba(58, 36, 21, 0.08);
-}
-
-.pick-card--paper .pick-blurb {
-  color: var(--ink-soft);
 }
 
 /* preview-image cards: the resolved og:image fills the zone, with a scrim
@@ -196,8 +178,7 @@ body {
   justify-content: flex-end;
 }
 
-.pick-card--has-image .pick-title,
-.pick-card--has-image .pick-blurb {
+.pick-card--has-image .pick-title {
   color: #fff9f2;
   text-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
 }
@@ -259,12 +240,6 @@ body {
 .window#window-3 .pick-title,
 .window#window-5 .pick-title {
   font-size: clamp(0.4rem, 0.72vw, 0.62rem);
-  -webkit-line-clamp: 2;
-}
-
-.window#window-3 .pick-blurb,
-.window#window-5 .pick-blurb {
-  font-size: clamp(0.33rem, 0.5vw, 0.48rem);
   -webkit-line-clamp: 2;
 }
 
