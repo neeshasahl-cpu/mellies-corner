@@ -86,28 +86,6 @@ body {
   transform: scale(1.015);
 }
 
-.pick-body {
-  flex: 1;
-  min-height: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 0.2em;
-  padding: 0.5em 0.65em;
-  text-align: left;
-}
-
-.pick-title {
-  margin: 0;
-  font-weight: 700;
-  font-size: clamp(0.5rem, 1.05vw, 0.92rem);
-  line-height: 1.2;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
 /* screen-style cards (monitor, phone): a little "live site" look with a
    browser-chrome bar, since these will eventually hold real embeds. */
 .pick-card--screen {
@@ -143,10 +121,11 @@ body {
   border: 1px solid rgba(58, 36, 21, 0.08);
 }
 
-/* preview-image cards: the resolved og:image fills the zone, with a scrim
-   for legible text over the top. Falls back to the plain step-2 card
-   (solid background, no <img>) whenever previewImage is missing or fails
-   to load -- see the img error handler in script.js. */
+/* preview-image cards: the resolved image fills the whole zone, no overlay
+   -- a window is just a clean preview of the site, nothing rendered on top
+   of it. Falls back to the plain card (solid background, no <img>) whenever
+   previewImage is missing or fails to load -- see the img error handler in
+   script.js. */
 .pick-image {
   position: absolute;
   inset: 0;
@@ -156,52 +135,20 @@ body {
   display: block;
 }
 
-.pick-scrim {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    to top,
-    rgba(20, 10, 5, 0.82) 0%,
-    rgba(20, 10, 5, 0.5) 40%,
-    rgba(20, 10, 5, 0.05) 72%
-  );
-}
-
-.pick-card--has-image .pick-body,
 .pick-card--has-image .screen-chrome {
   position: relative;
   z-index: 1;
-}
-
-.pick-card--has-image .pick-body {
-  /* text sits in the darkest part of the scrim, at the bottom of the image */
-  justify-content: flex-end;
-}
-
-.pick-card--has-image .pick-title {
-  color: #fff9f2;
-  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
 }
 
 .pick-card--has-image.pick-card--paper {
   border-color: transparent;
 }
 
-/* empty / missing-data placeholder */
+/* empty / missing-data placeholder -- just the dashed outline, no copy */
 .pick-card--empty {
   background: rgba(255, 255, 255, 0.55);
   border: 1.5px dashed rgba(58, 36, 21, 0.3);
-  align-items: center;
-  justify-content: center;
   box-shadow: none;
-}
-
-.pick-placeholder {
-  margin: 0;
-  padding: 0.4em;
-  text-align: center;
-  font-size: clamp(0.45rem, 0.85vw, 0.75rem);
-  color: rgba(58, 36, 21, 0.55);
 }
 
 /* The phone screen isn't a true rectangle in the artwork (it's drawn at a
@@ -229,17 +176,5 @@ body {
   transform: translate(-50%, -50%) matrix(0.6640, 0.7478, -0.9306, 0.3660, 0, 0);
   display: flex;
   flex-direction: column;
-}
-
-/* small zones need tighter type */
-.window#window-3 .pick-body,
-.window#window-5 .pick-body {
-  padding: 0.35em 0.5em;
-}
-
-.window#window-3 .pick-title,
-.window#window-5 .pick-title {
-  font-size: clamp(0.4rem, 0.72vw, 0.62rem);
-  -webkit-line-clamp: 2;
 }
 

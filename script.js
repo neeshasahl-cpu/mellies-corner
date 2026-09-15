@@ -18,9 +18,20 @@ async function loadPicks() {
     const pick = perWindow[key];
     const card = el.querySelector(".pick-card");
 
+    // A window is a clean preview of the site, not a recommendation card --
+    // no title, no blurb, no placeholder copy, ever. Title and blurb are
+    // still generated and still land in today.json/history.csv as the
+    // curation record; they just never render here. The chrome dots (a
+    // browser-window visual, not text) are the only thing screen-style
+    // windows show besides the image itself.
+    const chrome =
+      kind === "screen"
+        ? `<div class="screen-chrome"><span></span><span></span><span></span></div>`
+        : "";
+
     if (!pick || !pick.title || !pick.url) {
       card.className = "pick-card pick-card--empty";
-      card.innerHTML = `<p class="pick-placeholder">✨ new pick coming soon</p>`;
+      card.innerHTML = chrome;
       el.removeAttribute("href");
       el.style.cursor = "default";
       return;
@@ -35,44 +46,25 @@ async function loadPicks() {
     // isWildcard is kept in the data (useful for the automation's own logic,
     // e.g. pacing how often it picks one) but deliberately not shown in the UI.
 
-    const chrome =
-      kind === "screen"
-        ? `<div class="screen-chrome"><span></span><span></span><span></span></div>`
-        : "";
-
     const image = hasImage
-      ? `<img class="pick-image" src="${escapeHtml(pick.previewImage)}" alt="" loading="lazy">
-         <div class="pick-scrim"></div>`
+      ? `<img class="pick-image" src="${escapeHtml(pick.previewImage)}" alt="${escapeHtml(pick.title)}" loading="lazy">`
       : "";
-
-    // The AI-written "why she'd love it" blurb is curation reasoning, not
-    // something the window itself should say -- it's still generated and
-    // kept in today.json/history.csv as the reasoning record, it just never
-    // renders here. A window is a preview of the site, not a rec card: just
-    // the image (if any) and the site's own name.
-    const content = `
-      ${chrome}
-      <div class="pick-body">
-        <p class="pick-title">${escapeHtml(pick.title)}</p>
-      </div>
-    `;
 
     // The phone screen isn't actually a rectangle in the artwork (it's drawn
     // at a slight perspective skew), so the card is clipped to its true
     // quadrilateral via clip-path. The image fills that full clipped shape;
-    // only the text (chrome + body) goes inside the separately-rotated
-    // phone-content wrapper, so the photo isn't squeezed into that smaller box.
+    // the chrome dots go in the separately-rotated phone-content wrapper so
+    // they sit parallel to the phone's own edges.
     card.innerHTML =
-      shape === "phone" ? `${image}<div class="phone-content">${content}</div>` : `${image}${content}`;
+      shape === "phone" ? `${image}<div class="phone-content">${chrome}</div>` : `${image}${chrome}`;
 
     if (hasImage) {
       const img = card.querySelector(".pick-image");
       img.addEventListener("error", () => {
         // Share image URL didn't actually resolve to a loadable image --
-        // drop back to the plain step-2 card instead of showing a broken img.
+        // drop back to the plain card instead of showing a broken img.
         card.classList.remove("pick-card--has-image");
         img.remove();
-        card.querySelector(".pick-scrim")?.remove();
       });
     }
   });
