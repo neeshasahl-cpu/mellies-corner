@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-15",
+  "generatedAt": "2026-09-16",
   "perWindow": {
     "window-1": {
-      "title": "WindowSwap",
-      "url": "https://www.window-swap.com/",
-      "blurb": "It drops you into a stranger's window somewhere in the world — ten minutes of someone's laundry line in Tellaro or rain on a Seoul balcony — and it's quiet, weirdly moving, and endlessly re-openable, plus it was built by a couple right there in Singapore.",
+      "title": "Max Bittker's Projects",
+      "url": "https://maxbittker.com/projects/",
+      "blurb": "This is the whole toybox of the guy who made river.maxbittker.com — falling-sand worlds, generative gardens, tiny strange tools — and I think you'll fall down it for an hour and come out with three new side quests.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
       "title": "Charlotte Rohde's new typeface has heart-dotted i's and a plan to overwrite problematic men",
