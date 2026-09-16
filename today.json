@@ -2,39 +2,39 @@
   "generatedAt": "2026-09-16",
   "perWindow": {
     "window-1": {
-      "title": "Max Bittker's Projects",
-      "url": "https://maxbittker.com/projects/",
-      "blurb": "This is the whole toybox of the guy who made river.maxbittker.com — falling-sand worlds, generative gardens, tiny strange tools — and I think you'll fall down it for an hour and come out with three new side quests.",
+      "title": "Poolsuite FM",
+      "url": "https://poolsuite.net",
+      "blurb": "It's an entire sun-bleached 90s computer desktop that plays endless summer radio — the kind of committed-to-the-bit web world you'll want to steal interface ideas from while it scores your next side quest.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1.webp"
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Charlotte Rohde's new typeface has heart-dotted i's and a plan to overwrite problematic men",
-      "url": "https://www.itsnicethat.com/articles/charlotte-rohde-oficia-mono-typography-graphic-design-project-190826",
-      "blurb": "A typeface designed as a full character — heart-dotted i's, a feminist bit committed all the way to the end, and a launch campaign shot to look like a photocopier running out of toner — which is exactly the kind of type-as-persona nonsense you'd stay up all night making yourself.",
+      "title": "Naive Weekly",
+      "url": "https://www.naiveweekly.com/",
+      "blurb": "It's a weekly letter from the quiet corners of the internet — hand-made sites, net art, digital gardens — basically the reading version of every web toy you've ever fallen down a hole with.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Spicy Passion Fruit Mocktail (AKA \"Mockarita\")",
-      "url": "https://minimalistbaker.com/spicy-passion-fruit-mocktail/",
-      "blurb": "Four ingredients, but you get to char a jalapeño over open flame for smoky depth — a tiny bit of theatre for a drink that's tart, tropical, and named like it's in on the joke.",
+      "title": "Calamansi Sparkling Margarita Mocktail",
+      "url": "https://drinksanzo.com/blogs/recipe-blog/calamansi-sparkling-margarita-mocktail",
+      "blurb": "A margarita rerouted through calamansi — that auntie-kitchen citrus you already know by heart — salted rim and all, and endlessly riffable with a chilli-salt rim or a float of pandan syrup.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
-      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
-      "blurb": "This is a rental absolutely crammed with color and collected junk-with-soul, and it'll give you permission to stop leaving empty walls and just hang the thing.",
+      "title": "Earthy, Layered Interiors in a Notting Hill Apartment",
+      "url": "https://www.thenordroom.com/earthy-layered-interiors-notting-hill-apartment/",
+      "blurb": "This one's a masterclass in making a room feel warm through texture alone — clay tones, worn textiles, soft pools of lamplight — and I think it'd be a dream reference for that lived-in corner you keep almost building.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Cookboys, I12 Katong",
-      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
-      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
+      "title": "Yunma Bakehouse, Purvis Street",
+      "url": "https://thesmartlocal.com/read/restaurants-cafes-2026/",
+      "blurb": "A brand-new bakehouse hiding behind construction scaffolding off Purvis Street slinging $2.20 pastries — go now, shoot it on film, and feel smug that you found it before the hoarding comes down.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-5-og.webp"
+      "previewImage": "assets/previews/window-5.webp"
     }
   }
 }
