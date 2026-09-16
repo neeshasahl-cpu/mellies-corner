@@ -46,8 +46,18 @@ async function loadPicks() {
     // isWildcard is kept in the data (useful for the automation's own logic,
     // e.g. pacing how often it picks one) but deliberately not shown in the UI.
 
+    // Preview images live at a fixed filename per window (e.g.
+    // assets/previews/window-4.webp) that gets overwritten in place every
+    // day, so browsers/CDNs can hold onto yesterday's cached bytes under
+    // that same URL well past a normal refresh. Busting on generatedAt (the
+    // one thing that reliably changes once a day) forces a fresh fetch
+    // whenever today.json actually changes, without needing a real
+    // cache-control change on the static host.
+    const imageSrc = hasImage
+      ? `${pick.previewImage}?v=${encodeURIComponent(data.generatedAt || "")}`
+      : "";
     const image = hasImage
-      ? `<img class="pick-image" src="${escapeHtml(pick.previewImage)}" alt="${escapeHtml(pick.title)}" loading="lazy">`
+      ? `<img class="pick-image" src="${escapeHtml(imageSrc)}" alt="${escapeHtml(pick.title)}" loading="lazy">`
       : "";
 
     // The phone screen isn't actually a rectangle in the artwork (it's drawn
