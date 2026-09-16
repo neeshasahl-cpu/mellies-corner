@@ -276,6 +276,30 @@ def mark_seed_row_used(window_id: str, row: dict, rows: list[dict], state: dict)
     state[window_id] = sorted(used)
 
 
+def recent_picks_for_window(window_id: str, today: datetime.date, days: int = 21) -> list[dict]:
+    """Titles/urls already served in this window over the last `days` days,
+    read from history.csv, so a fresh web search doesn't land on the exact
+    same pick again (mode="search" has no memory of its own -- it's an
+    independent search each run, so with no signal it can easily re-find
+    yesterday's article)."""
+    if not HISTORY_PATH.exists():
+        return []
+    cutoff = today - datetime.timedelta(days=days)
+    picks = []
+    with open(HISTORY_PATH, "r", encoding="utf-8-sig", newline="") as f:
+        for row in csv.DictReader(f):
+            if row.get("window") != window_id:
+                continue
+            try:
+                row_date = datetime.date.fromisoformat(row["date"])
+            except (ValueError, KeyError):
+                continue
+            if row_date < cutoff:
+                continue
+            picks.append({"title": row.get("title", ""), "url": row.get("url", "")})
+    return picks
+
+
 def pick_wildcard_window(today: datetime.date) -> str | None:
     """Roughly once a week, one window's pick is an off-theme wildcard.
     Seeded by date so re-running the script the same day is stable."""
@@ -309,6 +333,7 @@ def build_messages(
     is_wildcard: bool,
     mode: str,
     seed_row: dict | None,
+    recent_picks: list[dict] | None = None,
 ):
     system = f"""You are the daily curator for "Mellie's Corner", a personal gift website for \
 Melany. Follow this taste brief exactly:
@@ -369,6 +394,14 @@ Use this specific seed source -- do not substitute a different one:
 Today is this window's turn for a FRESH FIND, per the taste brief's seed-usage rule -- \
 find something CURRENT via open web search in the same spirit as this window's seed \
 list, rather than picking directly from that list.
+"""
+
+    if recent_picks:
+        recent_list = "\n".join(f"  - {p['title']} ({p['url']})" for p in recent_picks)
+        system += f"""
+Do NOT repeat any of these picks already served in this window recently -- find \
+something different:
+{recent_list}
 """
 
     system += """
@@ -651,12 +684,28 @@ def main():
         else:
             print(f"[{window_id}] {info['label']} -- fresh find, searching...")
 
-        system, user, tool = build_messages(window_id, info, taste_prompt, is_wildcard, mode, seed_row)
+        recent_picks = recent_picks_for_window(window_id, today)
+        system, user, tool = build_messages(window_id, info, taste_prompt, is_wildcard, mode, seed_row, recent_picks)
 
         try:
             result = call_claude(client, system, user, tool)
         except Exception as err:
-            print(f"[{window_id}] first attempt failed ({err}), retrying once...", file=sys.stderr)
+            if mode == "seed":
+                # A seed failure is often the seed's own domain being blocked
+                # from the search tool's crawler -- a deterministic error, so
+                # retrying with the exact same restricted request would just
+                # fail the same way again. Fall back to a fresh unrestricted
+                # search instead, so the window still gets updated today.
+                print(
+                    f"[{window_id}] seed pick failed ({err}); falling back to a fresh "
+                    "unrestricted search instead of retrying the same source...",
+                    file=sys.stderr,
+                )
+                mode = "search"
+                seed_row = None
+                system, user, tool = build_messages(window_id, info, taste_prompt, is_wildcard, mode, seed_row, recent_picks)
+            else:
+                print(f"[{window_id}] first attempt failed ({err}), retrying once...", file=sys.stderr)
             try:
                 result = call_claude(client, system, user, tool)
             except Exception as err2:
