@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-16",
+  "generatedAt": "2026-09-17",
   "perWindow": {
     "window-1": {
-      "title": "Internet Artifacts",
-      "url": "https://neal.fun/internet-artifacts/",
-      "blurb": "It's a scrollable museum of the early internet where you can actually poke the floppy disks and ICQ pings — pure Y2K-nostalgia raw material for your next persona shoot.",
+      "title": "Every Place at Once",
+      "url": "https://everynoise.com/everyplace.cgi",
+      "blurb": "It's the Every Noise map rebuilt as cities instead of genres — click Singapore and find out which places on earth are listening like you are, then fall down a rabbit hole into someone else's hometown radio.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "Web Curios",
-      "url": "https://www.webcurios.co.uk/",
-      "blurb": "It's one guy, every week, dragging back armfuls of the weirdest and most wonderful things on the internet with running commentary that's funnier than it has any right to be — pure side-quest fuel for you.",
+      "title": "Dirt",
+      "url": "https://dirt.fyi",
+      "blurb": "It's the culture newsletter that treats a Ghibli frame, a dead website and a pop star's tour merch with equal seriousness — exactly your brain, but in essay form.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Doctor Pepo's Tonic (Zero-Proof)",
-      "url": "https://imbibemagazine.com/recipe/zero-proof-recipe-doctor-pepos-tonic/",
-      "blurb": "This one's got apothecary energy — a little spice, a little bitterness, a name fully committed to the bit — and it's exactly the kind of drink worth building a whole evening persona around.",
+      "title": "Chrysanthemum Osmanthus Citrus Sparkler",
+      "url": "https://www.teatherapy.com.sg/blogs/wellness/chrysanthemum-osmanthus-citrus-sparkler-a-floral-mocktail-for-gut-health-glow",
+      "blurb": "It's your grandma's dried-flower tea jar turned into a golden, fizzy spritz — heritage flavors you already know by heart, dressed up enough to photograph.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Freunde von Freunden — Home Visits",
-      "url": "https://www.freundevonfreunden.com/",
-      "blurb": "It's the nosy-friend archive of creatives' actual apartments — unstyled shelves, thrifted lamps, projects mid-sprawl — and it'll convince you that a room full of your own side-quest evidence beats any showroom.",
+      "title": "A Clinton Hill Brownstone with Chinese Inflections by Bespoke Only",
+      "url": "https://www.remodelista.com/posts/bespoke-only-clinton-hill-project-chinese-design-influence/",
+      "blurb": "It's 19th-century Shanghai smuggled into a Brooklyn brownstone — proof you can build heritage into a room as texture and mood instead of hanging it on the wall like a souvenir.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "MOZmoji 陌迹, Chinatown",
-      "url": "https://confirmgood.com/post/new-cafe-opening-mozmoji/",
-      "blurb": "You climb a staircase off Temple Street into a shophouse ceramics gallery where you get to pick your own handmade cup — each one modelled after a season or festival in the Chinese calendar — and then just sit there with cotton cheesecake and black sesame coffee like you live there.",
+      "title": "Inner Teahouse, Chinatown",
+      "url": "https://www.timeout.com/singapore/news/5-cool-new-cafes-in-singapore-to-check-out-this-april-2026-041326",
+      "blurb": "A second-floor shophouse teahouse born out of a pottery studio, where the cups are as considered as the tea — exactly the kind of quiet, hand-made hideout you'd claim as your own and accidentally leave with a new side quest.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
