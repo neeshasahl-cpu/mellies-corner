@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-17",
+  "generatedAt": "2026-09-18",
   "perWindow": {
     "window-1": {
-      "title": "Every Place at Once",
-      "url": "https://everynoise.com/everyplace.cgi",
-      "blurb": "It's the Every Noise map rebuilt as cities instead of genres — click Singapore and find out which places on earth are listening like you are, then fall down a rabbit hole into someone else's hometown radio.",
+      "title": "laurel.world — Laurel Schwulst's site",
+      "url": "https://laurelschwulst.com",
+      "blurb": "It's less a portfolio than a soft cream-colored room you wander through, where every project links sideways to another by year, medium, or friend — the kind of hand-made web object that'll make you want to rebuild your own site by midnight.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1.webp"
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Dirt",
-      "url": "https://dirt.fyi",
-      "blurb": "It's the culture newsletter that treats a Ghibli frame, a dead website and a pop star's tour merch with equal seriousness — exactly your brain, but in essay form.",
+      "title": "★ july newsletter ★ — film friends",
+      "url": "https://filmfriends.substack.com/p/july-newsletter",
+      "blurb": "It's a scrappy little film-photography newsletter that reads like a group chat of people who all shoot on expired stock and actually finish their rolls — grainy, warm, and exactly the kind of thing that'll have you digging out the point-and-shoot by Saturday.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Chrysanthemum Osmanthus Citrus Sparkler",
-      "url": "https://www.teatherapy.com.sg/blogs/wellness/chrysanthemum-osmanthus-citrus-sparkler-a-floral-mocktail-for-gut-health-glow",
-      "blurb": "It's your grandma's dried-flower tea jar turned into a golden, fizzy spritz — heritage flavors you already know by heart, dressed up enough to photograph.",
+      "title": "Lychee Mocktail With Rose",
+      "url": "https://mindfulmocktail.com/lychee-mocktail/",
+      "blurb": "Canned lychee syrup, rosewater and lime in a glass — it's basically a childhood dessert-stall memory turned into a drink, and that shameless pink is going to photograph beautifully on film.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "A Clinton Hill Brownstone with Chinese Inflections by Bespoke Only",
-      "url": "https://www.remodelista.com/posts/bespoke-only-clinton-hill-project-chinese-design-influence/",
-      "blurb": "It's 19th-century Shanghai smuggled into a Brooklyn brownstone — proof you can build heritage into a room as texture and mood instead of hanging it on the wall like a souvenir.",
+      "title": "The Modern House — Journal",
+      "url": "https://www.themodernhouse.com/journal/",
+      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Inner Teahouse, Chinatown",
-      "url": "https://www.timeout.com/singapore/news/5-cool-new-cafes-in-singapore-to-check-out-this-april-2026-041326",
-      "blurb": "A second-floor shophouse teahouse born out of a pottery studio, where the cups are as considered as the tea — exactly the kind of quiet, hand-made hideout you'd claim as your own and accidentally leave with a new side quest.",
+      "title": "Dona Manis Heritage Bakehouse, Katong",
+      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
+      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
