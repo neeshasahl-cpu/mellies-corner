@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-18",
+  "generatedAt": "2026-09-19",
   "perWindow": {
     "window-1": {
-      "title": "laurel.world — Laurel Schwulst's site",
-      "url": "https://laurelschwulst.com",
-      "blurb": "It's less a portfolio than a soft cream-colored room you wander through, where every project links sideways to another by year, medium, or friend — the kind of hand-made web object that'll make you want to rebuild your own site by midnight.",
+      "title": "ssh.place — Timelapses",
+      "url": "https://ssh.place/timelapse",
+      "blurb": "Watch a whole day of strangers quietly fighting and collaborating over one 200×60 pixel canvas replay as a GIF — it's a tiny communal folk-art archive made entirely in a terminal, and I think you'll want to go claim a corner of it.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "★ july newsletter ★ — film friends",
-      "url": "https://filmfriends.substack.com/p/july-newsletter",
-      "blurb": "It's a scrappy little film-photography newsletter that reads like a group chat of people who all shoot on expired stock and actually finish their rolls — grainy, warm, and exactly the kind of thing that'll have you digging out the point-and-shoot by Saturday.",
+      "title": "The radical reasons why you dream of making things by hand",
+      "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
+      "blurb": "This one makes the case that your hand-sewn costumes and ancestry archives aren't hobbies but a quiet rebellion — a whole essay arguing that the urge to master something with your hands is the most radical thing you can do.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Lychee Mocktail With Rose",
-      "url": "https://mindfulmocktail.com/lychee-mocktail/",
-      "blurb": "Canned lychee syrup, rosewater and lime in a glass — it's basically a childhood dessert-stall memory turned into a drink, and that shameless pink is going to photograph beautifully on film.",
+      "title": "Classic Vietnamese Plum Soda (Soda Xí Muội)",
+      "url": "https://greenheartlove.com/classic-vietnamese-plum-soda/",
+      "blurb": "Salty-sour preserved plum drowned in fizz over cracked ice — it's the nostalgic, slightly feral cousin of every polite floral mocktail, and you get to eat the plum at the end like a prize.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "The Modern House — Journal",
-      "url": "https://www.themodernhouse.com/journal/",
-      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
+      "title": "Barcelona Remodel by Conti Cert: '70s Style Redux",
+      "url": "https://www.remodelista.com/posts/conti-cert-mitre-project-barcelona/",
+      "blurb": "You already know how to commit to a persona, so here's a whole apartment doing it — '70s Barcelona reworked with real warmth instead of costume-y nostalgia, and about five ideas in here you could steal for one corner of your place this weekend.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Dona Manis Heritage Bakehouse, Katong",
-      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
-      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
+      "title": "Slow Boat Vinyl Listening Café, Tanjong Pagar",
+      "url": "https://www.factmagazines.com/singapore/nightlife/the-best-listening-bars-in-singapore-for-vibes-vinyl-and-cocktails",
+      "blurb": "A sibling-run listening café up a shophouse staircase where you pay by the hour and DJ your own afternoon — analogue, unhurried, and made for you and a disposable camera.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
