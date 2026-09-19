@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-16",
+  "generatedAt": "2026-09-18",
   "perWindow": {
     "window-1": {
-      "title": "Poolsuite FM",
-      "url": "https://poolsuite.net",
-      "blurb": "It's an entire sun-bleached 90s computer desktop that plays endless summer radio — the kind of committed-to-the-bit web world you'll want to steal interface ideas from while it scores your next side quest.",
+      "title": "laurel.world — Laurel Schwulst's site",
+      "url": "https://laurelschwulst.com",
+      "blurb": "It's less a portfolio than a soft cream-colored room you wander through, where every project links sideways to another by year, medium, or friend — the kind of hand-made web object that'll make you want to rebuild your own site by midnight.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Naive Weekly",
-      "url": "https://www.naiveweekly.com/",
-      "blurb": "It's a weekly letter from the quiet corners of the internet — hand-made sites, net art, digital gardens — basically the reading version of every web toy you've ever fallen down a hole with.",
+      "title": "★ july newsletter ★ — film friends",
+      "url": "https://filmfriends.substack.com/p/july-newsletter",
+      "blurb": "It's a scrappy little film-photography newsletter that reads like a group chat of people who all shoot on expired stock and actually finish their rolls — grainy, warm, and exactly the kind of thing that'll have you digging out the point-and-shoot by Saturday.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Calamansi Sparkling Margarita Mocktail",
-      "url": "https://drinksanzo.com/blogs/recipe-blog/calamansi-sparkling-margarita-mocktail",
-      "blurb": "A margarita rerouted through calamansi — that auntie-kitchen citrus you already know by heart — salted rim and all, and endlessly riffable with a chilli-salt rim or a float of pandan syrup.",
+      "title": "Lychee Mocktail With Rose",
+      "url": "https://mindfulmocktail.com/lychee-mocktail/",
+      "blurb": "Canned lychee syrup, rosewater and lime in a glass — it's basically a childhood dessert-stall memory turned into a drink, and that shameless pink is going to photograph beautifully on film.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Earthy, Layered Interiors in a Notting Hill Apartment",
-      "url": "https://www.thenordroom.com/earthy-layered-interiors-notting-hill-apartment/",
-      "blurb": "This one's a masterclass in making a room feel warm through texture alone — clay tones, worn textiles, soft pools of lamplight — and I think it'd be a dream reference for that lived-in corner you keep almost building.",
+      "title": "The Modern House — Journal",
+      "url": "https://www.themodernhouse.com/journal/",
+      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Yunma Bakehouse, Purvis Street",
-      "url": "https://thesmartlocal.com/read/restaurants-cafes-2026/",
-      "blurb": "A brand-new bakehouse hiding behind construction scaffolding off Purvis Street slinging $2.20 pastries — go now, shoot it on film, and feel smug that you found it before the hoarding comes down.",
+      "title": "Dona Manis Heritage Bakehouse, Katong",
+      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
+      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
