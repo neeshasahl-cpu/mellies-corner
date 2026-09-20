@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-19",
+  "generatedAt": "2026-09-20",
   "perWindow": {
     "window-1": {
-      "title": "ssh.place — Timelapses",
-      "url": "https://ssh.place/timelapse",
-      "blurb": "Watch a whole day of strangers quietly fighting and collaborating over one 200×60 pixel canvas replay as a GIF — it's a tiny communal folk-art archive made entirely in a terminal, and I think you'll want to go claim a corner of it.",
+      "title": "WigglyPaint",
+      "url": "https://www.wigglypaint.art/",
+      "blurb": "Every line you draw squirms and squeaks like it's alive, and you can export the whole wobbly mess as a GIF — it's the most charmingly imperfect drawing tool on the internet and I fully expect to see it in your next persona shoot's title cards.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1.webp"
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "The radical reasons why you dream of making things by hand",
-      "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
-      "blurb": "This one makes the case that your hand-sewn costumes and ancestry archives aren't hobbies but a quiet rebellion — a whole essay arguing that the urge to master something with your hands is the most radical thing you can do.",
+      "title": "Tedium: The Dull Side of the Internet",
+      "url": "https://tedium.co",
+      "blurb": "It goes absurdly deep on the unglamorous stuff — dead software, forgotten gadgets, weird old fonts — and every issue reads like a side quest someone left out for you to pick up.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Classic Vietnamese Plum Soda (Soda Xí Muội)",
-      "url": "https://greenheartlove.com/classic-vietnamese-plum-soda/",
-      "blurb": "Salty-sour preserved plum drowned in fizz over cracked ice — it's the nostalgic, slightly feral cousin of every polite floral mocktail, and you get to eat the plum at the end like a prize.",
+      "title": "Pandan Colada (Mocktail)",
+      "url": "https://mathieuteisseire.com/inspiration/recipes/pandan-colada/",
+      "blurb": "It's kaya toast and pandan chiffon cake reincarnated as a creamy green tiki drink — zero proof, absurdly photogenic, and exactly the kind of thing you'd make a whole persona shoot around.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Barcelona Remodel by Conti Cert: '70s Style Redux",
-      "url": "https://www.remodelista.com/posts/conti-cert-mitre-project-barcelona/",
-      "blurb": "You already know how to commit to a persona, so here's a whole apartment doing it — '70s Barcelona reworked with real warmth instead of costume-y nostalgia, and about five ideas in here you could steal for one corner of your place this weekend.",
+      "title": "The Selby — Inside Creative People's Homes",
+      "url": "https://theselby.com/",
+      "blurb": "It's basically permission to let your rooms look like your brain — every shelf, taped photo and inherited lamp doing the decorating for you.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Slow Boat Vinyl Listening Café, Tanjong Pagar",
-      "url": "https://www.factmagazines.com/singapore/nightlife/the-best-listening-bars-in-singapore-for-vibes-vinyl-and-cocktails",
-      "blurb": "A sibling-run listening café up a shophouse staircase where you pay by the hour and DJ your own afternoon — analogue, unhurried, and made for you and a disposable camera.",
+      "title": "Labyrinth — Asia's 50 Best 2026, No. 40",
+      "url": "https://www.theworlds50best.com/asia/en/the-list/Labyrinth.html",
+      "blurb": "It's your whole heritage-meets-remix obsession plated up — chai tao kuay and chilli crab reimagined by a chef who refuses to serve anything that didn't grow here, and exactly the kind of place worth inventing an occasion for.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
