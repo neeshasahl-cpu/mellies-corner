@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-22",
+  "generatedAt": "2026-09-23",
   "perWindow": {
     "window-1": {
-      "title": "Below the Surface — Flippo disk (1995)",
-      "url": "https://belowthesurface.amsterdam/en/vondst/NZD1.00044KST002",
-      "blurb": "A 1995 crisp-packet pog dredged from the Amstel and catalogued as seriously as a medieval coin — scroll the whole gorgeous river-mud archive, then start building and remixing your own display case, because you will not be able to stop at one object.",
-      "isWildcard": false,
+      "title": "The Deep Sea",
+      "url": "https://neal.fun/deep-sea/",
+      "blurb": "Wildcard detour — scroll straight down eleven kilometres into the black and watch the light die out as glowing, impossible creatures drift past at their real depths; it's the most patient, eerie, beautiful thing on the web and I guarantee you'll come out the other end wanting to build an anglerfish costume.",
+      "isWildcard": true,
       "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "Strictly Sweden — the strict list",
-      "url": "https://strictlythegoodstuff.substack.com/p/strictly-sweden",
-      "blurb": "Denna curates like you do — obsessively specific, zero filler — and this fresh Sweden deep-dive is basically a side quest itinerary waiting for you to claim it.",
+      "title": "Announcing the 2026 LensCulture Art Photography Award Winners",
+      "url": "https://www.lensculture.com/articles/laura-sackett-announcing-the-2026-lensculture-art-photography-award-winners",
+      "blurb": "A fresh dump of photographers nobody's told you about yet — staged worlds, strange grain, invented selves — basically a scroll designed to give you your next shoot idea before you finish it.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Shirley Temple (with real grenadine)",
-      "url": "https://www.acouplecooks.com/shirley-temple/",
-      "blurb": "The most gloriously kitsch drink ever invented, made with actual pomegranate grenadine instead of the radioactive stuff — pure diner-counter nostalgia that deserves a flash photo and three cherries.",
+      "title": "Carrot Shrub (Nonalcoholic)",
+      "url": "https://punchdrink.com/recipes/carrot-shrub/",
+      "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "10 Ceramic Table Lamps from Contemporary Pottery Studios",
-      "url": "https://www.remodelista.com/posts/10-ceramic-table-lamps-from-contemporary-studio-potteries-trend-alert/",
-      "blurb": "One lumpy, hand-thrown ceramic lamp does more for a room than a whole furniture haul, and knowing you, you'll look at these and immediately start googling pottery classes so you can make your own.",
+      "title": "Best of 2025: Living Rooms (The Nordroom)",
+      "url": "https://www.thenordroom.com/best-of-2025-living-rooms/",
+      "blurb": "A whole year of warm, collected, lamp-lit living rooms in one scroll — the kind where every object clearly has a story, which is exactly how your place already works.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Kuro Kare, Havelock II",
-      "url": "https://www.timeout.com/singapore/news/5-new-restaurants-in-singapore-to-check-out-this-september-2026-090326",
-      "blurb": "An 18-seat basement hideout where two ex-fine-dining chefs spend 36 hours on one pot of black curry — that level of unhinged commitment to a single bit is so completely your language, and the off-menu rotation means there's always a reason to go back.",
+      "title": "Behind Clay — the hidden room behind the pizza oven",
+      "url": "https://thesmartlocal.com/read/restaurants-cafes-2026/",
+      "blurb": "There's no sign and no door — you walk straight through a riverside pizzeria, past the wood-fired oven, into a secret 52-seat lounge serving mala pork belly out of a paper bag and foie gras pizza with tamarind, which feels like a place built specifically for you to show up overdressed and make an entire night of it.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
