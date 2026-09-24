@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-23",
+  "generatedAt": "2026-09-24",
   "perWindow": {
     "window-1": {
-      "title": "The Deep Sea",
-      "url": "https://neal.fun/deep-sea/",
-      "blurb": "Wildcard detour — scroll straight down eleven kilometres into the black and watch the light die out as glowing, impossible creatures drift past at their real depths; it's the most patient, eerie, beautiful thing on the web and I guarantee you'll come out the other end wanting to build an anglerfish costume.",
-      "isWildcard": true,
+      "title": "net-art.org — Collaborative",
+      "url": "https://net-art.org/collaborative",
+      "blurb": "A whole index of net art that only exists because strangers keep showing up to add to it — exactly your kind of internet, and I fully expect you to end up building your own by Sunday.",
+      "isWildcard": false,
       "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "Announcing the 2026 LensCulture Art Photography Award Winners",
-      "url": "https://www.lensculture.com/articles/laura-sackett-announcing-the-2026-lensculture-art-photography-award-winners",
-      "blurb": "A fresh dump of photographers nobody's told you about yet — staged worlds, strange grain, invented selves — basically a scroll designed to give you your next shoot idea before you finish it.",
+      "title": "Cool but not “cool cool” — Kiko Mizuhara on Blackbird Spyplane",
+      "url": "https://www.blackbirdspyplane.com/p/cool-but-not-cool-cool-kiko-mizuhara-interview",
+      "blurb": "Spyplane at its goofiest and most obsessive, interviewing a Tokyo shapeshifter who acts, models, and designs — basically your side-quest energy in interview form.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Carrot Shrub (Nonalcoholic)",
-      "url": "https://punchdrink.com/recipes/carrot-shrub/",
-      "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
+      "title": "Red Shiso Mocktail",
+      "url": "https://www.nishikidori.com/en/blog/japanese-cocktail-recipe-red-shiso-mocktail-n119",
+      "blurb": "Red shiso steeps into a shocking electric-magenta that flips color the second citrus hits it, so you get a drink that's half herbal Japanese summer, half chemistry-set party trick — fully worth the photo.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Best of 2025: Living Rooms (The Nordroom)",
-      "url": "https://www.thenordroom.com/best-of-2025-living-rooms/",
-      "blurb": "A whole year of warm, collected, lamp-lit living rooms in one scroll — the kind where every object clearly has a story, which is exactly how your place already works.",
+      "title": "Ignant — Interiors & Home Visits",
+      "url": "https://www.ignant.com/category/interiors/",
+      "blurb": "It's a rolling feed of real people's homes — the kind stacked with books, odd ceramics and lamps with a story — and you'll want to rearrange your whole living room within ten minutes of scrolling.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Behind Clay — the hidden room behind the pizza oven",
-      "url": "https://thesmartlocal.com/read/restaurants-cafes-2026/",
-      "blurb": "There's no sign and no door — you walk straight through a riverside pizzeria, past the wood-fired oven, into a secret 52-seat lounge serving mala pork belly out of a paper bag and foie gras pizza with tamarind, which feels like a place built specifically for you to show up overdressed and make an entire night of it.",
+      "title": "Miura, Joo Chiat",
+      "url": "https://eatbook.sg/miura-joo-chiat/",
+      "blurb": "You have to walk through a three-storey Joo Chiat shophouse full of independent labels before you find this tiny matcha-and-wagashi counter hiding at the back, which makes getting a daifuku feel like a small side quest you completed.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
