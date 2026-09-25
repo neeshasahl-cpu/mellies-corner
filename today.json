@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-24",
+  "generatedAt": "2026-09-25",
   "perWindow": {
     "window-1": {
-      "title": "net-art.org — Collaborative",
-      "url": "https://net-art.org/collaborative",
-      "blurb": "A whole index of net art that only exists because strangers keep showing up to add to it — exactly your kind of internet, and I fully expect you to end up building your own by Sunday.",
+      "title": "net-art.org — Art projects",
+      "url": "https://net-art.org/",
+      "blurb": "It's a whole archive of browser-made art by people who just wanted to build something odd and lovely, which is exactly the kind of rabbit hole you disappear into and come out of with three new side quests.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "Cool but not “cool cool” — Kiko Mizuhara on Blackbird Spyplane",
-      "url": "https://www.blackbirdspyplane.com/p/cool-but-not-cool-cool-kiko-mizuhara-interview",
-      "blurb": "Spyplane at its goofiest and most obsessive, interviewing a Tokyo shapeshifter who acts, models, and designs — basically your side-quest energy in interview form.",
+      "title": "Garbage Day",
+      "url": "https://www.garbageday.email",
+      "blurb": "It's the sharpest, funniest autopsy of why the internet is being weird this week — perfect fuel for someone who turns memes and viral aesthetics into whole personas.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Red Shiso Mocktail",
-      "url": "https://www.nishikidori.com/en/blog/japanese-cocktail-recipe-red-shiso-mocktail-n119",
-      "blurb": "Red shiso steeps into a shocking electric-magenta that flips color the second citrus hits it, so you get a drink that's half herbal Japanese summer, half chemistry-set party trick — fully worth the photo.",
+      "title": "Spiced Tamarind Mocktail",
+      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
+      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Ignant — Interiors & Home Visits",
-      "url": "https://www.ignant.com/category/interiors/",
-      "blurb": "It's a rolling feed of real people's homes — the kind stacked with books, odd ceramics and lamps with a story — and you'll want to rearrange your whole living room within ten minutes of scrolling.",
+      "title": "Inside Jen Mankins' Scandi-Inspired Brooklyn Brownstone, Redone",
+      "url": "https://www.remodelista.com/posts/scandi-style-brooklyn/",
+      "blurb": "This one's the home of the woman who built Brooklyn's coolest indie boutique, so every corner has that shop-owner's eye — collected, warm, zero showroom energy — and I think you'll steal at least three ideas from the small details.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Miura, Joo Chiat",
-      "url": "https://eatbook.sg/miura-joo-chiat/",
-      "blurb": "You have to walk through a three-storey Joo Chiat shophouse full of independent labels before you find this tiny matcha-and-wagashi counter hiding at the back, which makes getting a daifuku feel like a small side quest you completed.",
+      "title": "Toriei, Cuppage Plaza",
+      "url": "https://therantingpanda.com/2026/09/01/food-scoops-new-and-buzzing-singapore-restaurants-in-september-2026/",
+      "blurb": "A brand-new ten-seat yakitori counter buried on the fourth floor of Cuppage Plaza's gloriously time-warped 80s maze — the kind of place you have to hunt for, then smugly tell everyone about.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
