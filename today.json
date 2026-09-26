@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-25",
+  "generatedAt": "2026-09-26",
   "perWindow": {
     "window-1": {
-      "title": "net-art.org — Art projects",
-      "url": "https://net-art.org/",
-      "blurb": "It's a whole archive of browser-made art by people who just wanted to build something odd and lovely, which is exactly the kind of rabbit hole you disappear into and come out of with three new side quests.",
+      "title": "River — a visual connection engine",
+      "url": "https://river.maxbittker.com/",
+      "blurb": "It's an image-drift toy where every picture pulls you sideways into the next one — put on the \"find Ancient Ceramics\" or \"Cool Sword\" challenge and you'll surface twenty minutes later with a whole moodboard you didn't know you were building.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1.webp"
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Garbage Day",
-      "url": "https://www.garbageday.email",
-      "blurb": "It's the sharpest, funniest autopsy of why the internet is being weird this week — perfect fuel for someone who turns memes and viral aesthetics into whole personas.",
+      "title": "Colossal",
+      "url": "https://www.thisiscolossal.com",
+      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Spiced Tamarind Mocktail",
-      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
-      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
+      "title": "Salted Plum Soda (and a Salted Plum Americano)",
+      "url": "https://messyvegancook.com/salted-plum-soda-recipe-salted-plum-americano-coffee/",
+      "blurb": "It turns those jarred salted plums from the Asian provision shop into a fizzy, salty-sour soda — and then dares you to pour it over espresso, which is exactly the kind of committed-to-the-bit move you'd pull at your own dinner party.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
