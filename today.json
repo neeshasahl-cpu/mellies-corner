@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-26",
+  "generatedAt": "2026-09-27",
   "perWindow": {
     "window-1": {
-      "title": "River — a visual connection engine",
-      "url": "https://river.maxbittker.com/",
-      "blurb": "It's an image-drift toy where every picture pulls you sideways into the next one — put on the \"find Ancient Ceramics\" or \"Cool Sword\" challenge and you'll surface twenty minutes later with a whole moodboard you didn't know you were building.",
+      "title": "Silk — Interactive Generative Art",
+      "url": "https://weavesilk.com/",
+      "blurb": "Drag your cursor across the black and it blooms into mirrored threads of light — the rare web toy that feels hand-made and meditative rather than clever, and I think you'll lose a happy twenty minutes to it before screenshotting half of them as pattern refs.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Colossal",
-      "url": "https://www.thisiscolossal.com",
-      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
+      "title": "Moats That Matter, Cross-Species Communication, & Taking Back Our Attention",
+      "url": "https://www.implications.com/p/cross-species-communication-the-moat",
+      "blurb": "Belsky reads the near-future like a designer rather than a tech bro, and this one detours from what makes an idea truly yours into AI-decoded animal language and clawing your attention back — basically three side quests in one newsletter.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Salted Plum Soda (and a Salted Plum Americano)",
-      "url": "https://messyvegancook.com/salted-plum-soda-recipe-salted-plum-americano-coffee/",
-      "blurb": "It turns those jarred salted plums from the Asian provision shop into a fizzy, salty-sour soda — and then dares you to pour it over espresso, which is exactly the kind of committed-to-the-bit move you'd pull at your own dinner party.",
+      "title": "Sparkling Hibiscus Sangria Mocktail",
+      "url": "https://mindfulmocktail.com/sparkling-hibiscus-sangria-mocktail/",
+      "blurb": "It's a whole magenta pitcher of hibiscus and floating fruit — basically built to be batched for your people, photographed on 35mm, and refilled twice before anyone notices there's no booze in it.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Inside Jen Mankins' Scandi-Inspired Brooklyn Brownstone, Redone",
-      "url": "https://www.remodelista.com/posts/scandi-style-brooklyn/",
-      "blurb": "This one's the home of the woman who built Brooklyn's coolest indie boutique, so every corner has that shop-owner's eye — collected, warm, zero showroom energy — and I think you'll steal at least three ideas from the small details.",
+      "title": "This Eclectic, Treasure-Filled Apartment Is Maximalism Done Right",
+      "url": "https://theeverygirl.com/lowe-saddler-home-tour/",
+      "blurb": "A recovering minimalist turned full trinket-maximalist who furnished her whole character-filled apartment through Craigslist finds and sheer love of stuff — basically your interiors side quest, already in progress.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Toriei, Cuppage Plaza",
-      "url": "https://therantingpanda.com/2026/09/01/food-scoops-new-and-buzzing-singapore-restaurants-in-september-2026/",
-      "blurb": "A brand-new ten-seat yakitori counter buried on the fourth floor of Cuppage Plaza's gloriously time-warped 80s maze — the kind of place you have to hunt for, then smugly tell everyone about.",
+      "title": "Elijah Pies Joo Chiat (new flagship)",
+      "url": "https://ordinarypatrons.com/2026/09/13/elijah-pies-joo-chiat-review/",
+      "blurb": "A snow crab laksa pie is exactly the kind of heritage-meets-nonsense mashup you'd invent yourself, so go eat one in Joo Chiat before someone else claims the idea.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
