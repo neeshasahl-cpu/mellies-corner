@@ -96,7 +96,7 @@ HISTORY_FIELDS = [
 ]
 PREVIEWS_DIR = PROJECT_ROOT / "assets" / "previews"
 
-MODEL = "claude-opus-5"
+MODEL = "claude-haiku-4-5-20251001"
 SEED_PICK_PROBABILITY = 0.5  # "roughly a 50/50 mix over time" per the taste prompt
 
 # Per-window override of SEED_PICK_PROBABILITY. Window 1's own seed list is
