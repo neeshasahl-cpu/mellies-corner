@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-18",
+  "generatedAt": "2026-09-29",
   "perWindow": {
     "window-1": {
-      "title": "laurel.world — Laurel Schwulst's site",
-      "url": "https://laurelschwulst.com",
-      "blurb": "It's less a portfolio than a soft cream-colored room you wander through, where every project links sideways to another by year, medium, or friend — the kind of hand-made web object that'll make you want to rebuild your own site by midnight.",
+      "title": "Koalas to the Max",
+      "url": "https://www.koalastothemax.com/",
+      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "★ july newsletter ★ — film friends",
-      "url": "https://filmfriends.substack.com/p/july-newsletter",
-      "blurb": "It's a scrappy little film-photography newsletter that reads like a group chat of people who all shoot on expired stock and actually finish their rolls — grainy, warm, and exactly the kind of thing that'll have you digging out the point-and-shoot by Saturday.",
+      "title": "Forget AI. 2026 Is the Year of the Fashion Illustrator",
+      "url": "https://www.highsnobiety.com/p/2026-is-the-year-of-the-fashion-illustrator/",
+      "blurb": "Everyone's outsourcing images to a machine and meanwhile the girls with markers are quietly winning — this is your permission slip to draw the whole lookbook by hand.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Lychee Mocktail With Rose",
-      "url": "https://mindfulmocktail.com/lychee-mocktail/",
-      "blurb": "Canned lychee syrup, rosewater and lime in a glass — it's basically a childhood dessert-stall memory turned into a drink, and that shameless pink is going to photograph beautifully on film.",
+      "title": "Non-Alcoholic Espresso Stout Martini",
+      "url": "https://www.somegoodcleanfun.com/blog/guinness-00-stout-espresso-martini-mocktail",
+      "blurb": "A zero-proof espresso martini crossed with a stout — dark, foamy, absurdly photogenic in a coupe, and exactly the kind of committed-to-the-bit drink you'd hand someone at 10pm just to watch their face.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "The Modern House — Journal",
-      "url": "https://www.themodernhouse.com/journal/",
-      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
+      "title": "Apartamento × LOEWE: Carlota Guerrero at Home, shot by Coco Capitán",
+      "url": "https://www.apartamentomagazine.com/stories/carlota-guerrero/",
+      "blurb": "Three women artists photographed inside their own homes by Coco Capitán — rooms styled like self-portraits, which is basically your whole thesis on living, so go build yourself a corner that photographs like a story about you.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Dona Manis Heritage Bakehouse, Katong",
-      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
-      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
+      "title": "Takara House, Haji Lane",
+      "url": "https://hungrygowhere.com/food-news/takara-house-haji-lane/",
+      "blurb": "A blue-fronted vintage shop with a tiny patisserie hiding up the stairs — you'd go for the tart, stay two hours digging through the trinkets, and leave with three new project ideas and a roll of photobooth strips.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
