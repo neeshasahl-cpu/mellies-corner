@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-27",
+  "generatedAt": "2026-09-29",
   "perWindow": {
     "window-1": {
-      "title": "Silk — Interactive Generative Art",
-      "url": "https://weavesilk.com/",
-      "blurb": "Drag your cursor across the black and it blooms into mirrored threads of light — the rare web toy that feels hand-made and meditative rather than clever, and I think you'll lose a happy twenty minutes to it before screenshotting half of them as pattern refs.",
+      "title": "Koalas to the Max",
+      "url": "https://www.koalastothemax.com/",
+      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "Moats That Matter, Cross-Species Communication, & Taking Back Our Attention",
-      "url": "https://www.implications.com/p/cross-species-communication-the-moat",
-      "blurb": "Belsky reads the near-future like a designer rather than a tech bro, and this one detours from what makes an idea truly yours into AI-decoded animal language and clawing your attention back — basically three side quests in one newsletter.",
+      "title": "Forget AI. 2026 Is the Year of the Fashion Illustrator",
+      "url": "https://www.highsnobiety.com/p/2026-is-the-year-of-the-fashion-illustrator/",
+      "blurb": "Everyone's outsourcing images to a machine and meanwhile the girls with markers are quietly winning — this is your permission slip to draw the whole lookbook by hand.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Sparkling Hibiscus Sangria Mocktail",
-      "url": "https://mindfulmocktail.com/sparkling-hibiscus-sangria-mocktail/",
-      "blurb": "It's a whole magenta pitcher of hibiscus and floating fruit — basically built to be batched for your people, photographed on 35mm, and refilled twice before anyone notices there's no booze in it.",
+      "title": "Non-Alcoholic Espresso Stout Martini",
+      "url": "https://www.somegoodcleanfun.com/blog/guinness-00-stout-espresso-martini-mocktail",
+      "blurb": "A zero-proof espresso martini crossed with a stout — dark, foamy, absurdly photogenic in a coupe, and exactly the kind of committed-to-the-bit drink you'd hand someone at 10pm just to watch their face.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "This Eclectic, Treasure-Filled Apartment Is Maximalism Done Right",
-      "url": "https://theeverygirl.com/lowe-saddler-home-tour/",
-      "blurb": "A recovering minimalist turned full trinket-maximalist who furnished her whole character-filled apartment through Craigslist finds and sheer love of stuff — basically your interiors side quest, already in progress.",
+      "title": "Apartamento × LOEWE: Carlota Guerrero at Home, shot by Coco Capitán",
+      "url": "https://www.apartamentomagazine.com/stories/carlota-guerrero/",
+      "blurb": "Three women artists photographed inside their own homes by Coco Capitán — rooms styled like self-portraits, which is basically your whole thesis on living, so go build yourself a corner that photographs like a story about you.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Elijah Pies Joo Chiat (new flagship)",
-      "url": "https://ordinarypatrons.com/2026/09/13/elijah-pies-joo-chiat-review/",
-      "blurb": "A snow crab laksa pie is exactly the kind of heritage-meets-nonsense mashup you'd invent yourself, so go eat one in Joo Chiat before someone else claims the idea.",
+      "title": "Takara House, Haji Lane",
+      "url": "https://hungrygowhere.com/food-news/takara-house-haji-lane/",
+      "blurb": "A blue-fronted vintage shop with a tiny patisserie hiding up the stairs — you'd go for the tart, stay two hours digging through the trinkets, and leave with three new project ideas and a roll of photobooth strips.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-5.webp"
     }
