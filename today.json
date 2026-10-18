@@ -2,39 +2,39 @@
   "generatedAt": "2026-10-18",
   "perWindow": {
     "window-1": {
-      "title": "Orb Farm",
-      "url": "https://orb.farm/",
-      "blurb": "It's a tiny sealed pixel ecosystem you seed with sand, algae and little shrimp and then fuss over for hours — basically a side quest in a jar, and I know you'll name the fish.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "title": "Koalas to the Max",
+      "url": "https://www.koalastothemax.com/",
+      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
+      "previewImage": "assets/previews/window-1.webp",
+      "isWildcard": false
     },
     "window-2": {
-      "title": "The end of short-form content — Embedded",
-      "url": "https://embedded.substack.com/p/the-end-of-short-form-content",
-      "blurb": "Kate Lindsay calls the time of death on the endless scroll and makes the case for going long — which feels like permission for exactly the kind of elaborate, deep-dive side quests you already throw yourself into.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-2.webp"
+      "title": "Colossal",
+      "url": "https://www.thisiscolossal.com",
+      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
+      "previewImage": "assets/previews/window-2.webp",
+      "isWildcard": false
     },
     "window-3": {
-      "title": "Pandan Mocktail",
-      "url": "https://seenandgreen.com/pandan-mocktail/",
-      "blurb": "Pandan is your hometown flavour — grassy, vanilla-sweet, kueh-coded — and steeping it into a bright green mocktail feels like the drink version of one of your heritage remixes, begging to be styled with a silly straw and shot on flash.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-3.webp"
+      "title": "Calamansi Sparkling Margarita Mocktail",
+      "url": "https://drinksanzo.com/blogs/recipe-blog/calamansi-sparkling-margarita-mocktail",
+      "blurb": "A margarita rerouted through calamansi — that auntie-kitchen citrus you already know by heart — salted rim and all, and endlessly riffable with a chilli-salt rim or a float of pandan syrup.",
+      "previewImage": "assets/previews/window-3.webp",
+      "isWildcard": false
     },
     "window-4": {
-      "title": "Berghain As An Apartment, Suntanned Furniture, a Parisian Tiny House, and More",
-      "url": "https://www.sightunseen.com/2025/09/berghain-as-an-apartment-suntanned-furniture-a-parisian-tiny-house-and-more/",
-      "blurb": "Someone built their apartment to feel like Berghain and honestly that's the most Melany-coded commitment to a bit I've seen all week — plus sun-bleached furniture and a tiny Parisian house to steal ideas from.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-4.webp"
+      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
+      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
+      "blurb": "This is a rental absolutely crammed with color and collected junk-with-soul, and it'll give you permission to stop leaving empty walls and just hang the thing.",
+      "previewImage": "assets/previews/window-4.webp",
+      "isWildcard": false
     },
     "window-5": {
-      "title": "Wok & Toast 街坊, Serangoon",
-      "url": "https://eatbook.sg/wok-and-toast/",
-      "blurb": "The Neighbourwok crew just opened a kopitiam-meets-wok-kitchen called 街坊 — literally \"neighbour\" — where $5.80 kaya toast sets share a counter with proper charred Hokkien mee, and it's exactly the kind of unglamorous heritage remix you'd end up photographing on film and building a whole mood around.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-5.webp"
+      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
+      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
+      "blurb": "",
+      "previewImage": "assets/previews/window-5.webp",
+      "isWildcard": false
     }
   }
 }
