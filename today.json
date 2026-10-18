@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-18",
+  "generatedAt": "2026-10-19",
   "perWindow": {
     "window-1": {
-      "title": "Koalas to the Max",
-      "url": "https://www.koalastothemax.com/",
-      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
-      "previewImage": "assets/previews/window-1.webp",
-      "isWildcard": false
+      "title": "Le Random",
+      "url": "https://www.lerandom.art/",
+      "blurb": "It's a whole independent archive of generative art — decades of people making images out of code — and I think you'll fall straight down the timeline and come out the other side with three new project ideas.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Colossal",
-      "url": "https://www.thisiscolossal.com",
-      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
-      "previewImage": "assets/previews/window-2.webp",
-      "isWildcard": false
+      "title": "Supersystème: typography as image",
+      "url": "https://www.itsnicethat.com/articles/supersyteme-graphic-design-discover-210726",
+      "blurb": "A studio that treats letterforms like full-blown images rather than words — exactly the kind of expressive, world-building type play you'd end up hand-drawing at 2am for a project nobody asked for.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Calamansi Sparkling Margarita Mocktail",
-      "url": "https://drinksanzo.com/blogs/recipe-blog/calamansi-sparkling-margarita-mocktail",
-      "blurb": "A margarita rerouted through calamansi — that auntie-kitchen citrus you already know by heart — salted rim and all, and endlessly riffable with a chilli-salt rim or a float of pandan syrup.",
-      "previewImage": "assets/previews/window-3.webp",
-      "isWildcard": false
+      "title": "Lychee Mocktail With Rose",
+      "url": "https://mindfulmocktail.com/lychee-mocktail/",
+      "blurb": "Tinned lychee syrup is pure Chinese-restaurant-childhood nostalgia, and here it goes full glamour — hot pink, rose petals floating on top, a drink that practically asks to be shot on flash with a cheongsam sleeve in frame.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
-      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
-      "blurb": "This is a rental absolutely crammed with color and collected junk-with-soul, and it'll give you permission to stop leaving empty walls and just hang the thing.",
-      "previewImage": "assets/previews/window-4.webp",
-      "isWildcard": false
+      "title": "The Lafayette Hotel's Vintage Lamps",
+      "url": "https://www.homesandgardens.com/interior-design/lafayette-hotel-inspired-table-lamp",
+      "blurb": "You already know a room lives or dies by its lamps — this one's a love letter to the moody, thrifted, hotel-lobby glow you'd absolutely build a whole shoot around.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
-      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
-      "blurb": "",
-      "previewImage": "assets/previews/window-5.webp",
-      "isWildcard": false
+      "title": "Soft Order, Bukit Merah",
+      "url": "https://thehoneycombers.com/singapore/soft-order-review-singapore/",
+      "blurb": "A barely-opened Bukit Merah cafe with Seoul-cool bones, an in-house bakery and drinks too pretty to drink — go now while it still feels like your discovery, and bring the film camera.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-5.webp"
     }
   }
 }
