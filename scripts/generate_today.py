@@ -96,7 +96,7 @@ HISTORY_FIELDS = [
 ]
 PREVIEWS_DIR = PROJECT_ROOT / "assets" / "previews"
 
-MODEL = "claude-sonnet-5"
+MODEL = "claude-opus-5"
 SEED_PICK_PROBABILITY = 0.5  # "roughly a 50/50 mix over time" per the taste prompt
 
 # Per-window override of SEED_PICK_PROBABILITY. Window 1's own seed list is
@@ -615,6 +615,39 @@ def _try_og_image(url: str, window_id: str) -> tuple[str, str] | None:
     return None
 
 
+def pick_from_history(window_id: str, today: datetime.date) -> dict | None:
+    """Pick a random entry from history.csv for this window, excluding yesterday's
+    pick so there's variety day-to-day."""
+    if not HISTORY_PATH.exists():
+        return None
+
+    yesterday = today - datetime.timedelta(days=1)
+    yesterday_str = yesterday.isoformat()
+    today_str = today.isoformat()
+
+    candidates = []
+    with open(HISTORY_PATH, "r", encoding="utf-8-sig", newline="") as f:
+        for row in csv.DictReader(f):
+            # Skip rows from today (shouldn't be any) and yesterday
+            if row.get("window") != window_id:
+                continue
+            if row.get("date") in (today_str, yesterday_str):
+                continue
+            candidates.append(row)
+
+    if not candidates:
+        return None
+
+    picked = random.choice(candidates)
+    return {
+        "title": picked.get("title", ""),
+        "url": picked.get("url", ""),
+        "blurb": picked.get("blurb", ""),
+        "previewImage": picked.get("image_source"),  # reuse the old preview
+        "isWildcard": picked.get("isWildcard", "false").lower() == "true",
+    }
+
+
 def resolve_preview_image(url: str, window_id: str) -> tuple[str | None, str]:
     """The fallback chain: screenshot -> og:image -> card for most windows;
     og:image -> screenshot -> card for OG_IMAGE_FIRST_WINDOWS (see its
@@ -635,6 +668,34 @@ def resolve_preview_image(url: str, window_id: str) -> tuple[str | None, str]:
 
 
 def main():
+    today = datetime.date.today()
+    is_monday = today.weekday() == 0  # 0 = Monday
+
+    # On non-Mondays, just pick from history and exit early
+    if not is_monday:
+        print(f"Today is {today.strftime('%A')} -- picking from history instead of generating new picks.")
+        per_window = {}
+        if OUTPUT_PATH.exists():
+            try:
+                previous = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+                per_window = previous.get("perWindow", {})
+            except Exception:
+                pass
+
+        for window_id in WINDOWS.keys():
+            picked = pick_from_history(window_id, today)
+            if picked:
+                per_window[window_id] = picked
+                print(f"[{window_id}] pick from history: {picked['title']}")
+            else:
+                print(f"[{window_id}] no history available, keeping previous")
+
+        output = {"generatedAt": today.isoformat(), "perWindow": per_window}
+        OUTPUT_PATH.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"\nWrote {OUTPUT_PATH} (picks from history, {len([w for w in per_window.values() if w.get('title')])}/5 populated)")
+        return
+
+    # Monday: full generation
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         print(
@@ -646,9 +707,9 @@ def main():
         )
         sys.exit(1)
 
+    print("Monday: generating 5 new picks...")
     client = anthropic.Anthropic(api_key=api_key)
     taste_prompt = load_taste_prompt()
-    today = datetime.date.today()
     wildcard_window = pick_wildcard_window(today)
     if wildcard_window:
         print(f"Today is a wildcard day for {wildcard_window}.")
