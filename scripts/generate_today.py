@@ -680,9 +680,10 @@ def resolve_preview_image(url: str, window_id: str) -> tuple[str | None, str]:
 def main():
     today = datetime.date.today()
     is_monday = today.weekday() == 0  # 0 = Monday
+    force_generate = os.environ.get("FORCE_GENERATE") == "true"
 
-    # On non-Mondays, just pick from history and exit early
-    if not is_monday:
+    # On non-Mondays, just pick from history and exit early (unless forced)
+    if not is_monday and not force_generate:
         print(f"Today is {today.strftime('%A')} -- picking from history instead of generating new picks.")
         per_window = {}
         if OUTPUT_PATH.exists():
