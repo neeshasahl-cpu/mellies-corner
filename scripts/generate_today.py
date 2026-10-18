@@ -639,11 +639,21 @@ def pick_from_history(window_id: str, today: datetime.date) -> dict | None:
         return None
 
     picked = random.choice(candidates)
+
+    # Reconstruct the preview image path based on the image_source
+    preview_image = None
+    image_source = picked.get("image_source", "")
+    if image_source == "screenshot":
+        preview_image = f"assets/previews/{window_id}.webp"
+    elif image_source == "og:image":
+        preview_image = f"assets/previews/{window_id}-og.webp"
+    # else: "card" has no preview_image
+
     return {
         "title": picked.get("title", ""),
         "url": picked.get("url", ""),
         "blurb": picked.get("blurb", ""),
-        "previewImage": picked.get("image_source"),  # reuse the old preview
+        "previewImage": preview_image,
         "isWildcard": picked.get("isWildcard", "false").lower() == "true",
     }
 
