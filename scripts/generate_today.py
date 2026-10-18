@@ -640,14 +640,19 @@ def pick_from_history(window_id: str, today: datetime.date) -> dict | None:
 
     picked = random.choice(candidates)
 
-    # Reconstruct the preview image path based on the image_source
+    # For historical picks, try to fetch a fresh og:image from the URL
+    # (old preview files may have been cleaned up)
     preview_image = None
-    image_source = picked.get("image_source", "")
-    if image_source == "screenshot":
-        preview_image = f"assets/previews/{window_id}.webp"
-    elif image_source == "og:image":
-        preview_image = f"assets/previews/{window_id}-og.webp"
-    # else: "card" has no preview_image
+    url = picked.get("url", "")
+    if url:
+        og_url = fetch_og_image(url)
+        if og_url:
+            try:
+                path = save_remote_image(og_url, window_id)
+                if path:
+                    preview_image = path.relative_to(PROJECT_ROOT).as_posix()
+            except Exception:
+                pass  # Fall back to no image if fetch fails
 
     return {
         "title": picked.get("title", ""),
