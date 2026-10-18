@@ -2,38 +2,38 @@
   "generatedAt": "2026-10-18",
   "perWindow": {
     "window-1": {
-      "title": "Max Bittker's Projects",
-      "url": "https://maxbittker.com/projects/",
-      "blurb": "This is the whole toybox of the guy who made river.maxbittker.com — falling-sand worlds, generative gardens, tiny strange tools — and I think you'll fall down it for an hour and come out with three new side quests.",
-      "previewImage": "screenshot",
+      "title": "ssh.place — Timelapses",
+      "url": "https://ssh.place/timelapse",
+      "blurb": "Watch a whole day of strangers quietly fighting and collaborating over one 200×60 pixel canvas replay as a GIF — it's a tiny communal folk-art archive made entirely in a terminal, and I think you'll want to go claim a corner of it.",
+      "previewImage": "assets/previews/window-1.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "★ july newsletter ★ — film friends",
-      "url": "https://filmfriends.substack.com/p/july-newsletter",
-      "blurb": "It's a scrappy little film-photography newsletter that reads like a group chat of people who all shoot on expired stock and actually finish their rolls — grainy, warm, and exactly the kind of thing that'll have you digging out the point-and-shoot by Saturday.",
-      "previewImage": "screenshot",
+      "title": "Colossal",
+      "url": "https://www.thisiscolossal.com",
+      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
+      "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
       "title": "Carrot Shrub (Nonalcoholic)",
       "url": "https://punchdrink.com/recipes/carrot-shrub/",
       "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
-      "previewImage": "screenshot",
+      "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Before & After: A Colorful, Modern Update for a Late 19th-Century Apartment",
-      "url": "https://www.thenordroom.com/before-after-colorful-1880s-stockholm-apartment/",
-      "blurb": "",
-      "previewImage": "screenshot",
+      "title": "Freunde von Freunden — Home Visits",
+      "url": "https://www.freundevonfreunden.com/",
+      "blurb": "It's the nosy-friend archive of creatives' actual apartments — unstyled shelves, thrifted lamps, projects mid-sprawl — and it'll convince you that a room full of your own side-quest evidence beats any showroom.",
+      "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Elijah Pies Joo Chiat (new flagship)",
-      "url": "https://ordinarypatrons.com/2026/09/13/elijah-pies-joo-chiat-review/",
-      "blurb": "A snow crab laksa pie is exactly the kind of heritage-meets-nonsense mashup you'd invent yourself, so go eat one in Joo Chiat before someone else claims the idea.",
-      "previewImage": "screenshot",
+      "title": "Toriei, Cuppage Plaza",
+      "url": "https://therantingpanda.com/2026/09/01/food-scoops-new-and-buzzing-singapore-restaurants-in-september-2026/",
+      "blurb": "A brand-new ten-seat yakitori counter buried on the fourth floor of Cuppage Plaza's gloriously time-warped 80s maze — the kind of place you have to hunt for, then smugly tell everyone about.",
+      "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
   }
