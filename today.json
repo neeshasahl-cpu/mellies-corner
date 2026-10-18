@@ -2,39 +2,39 @@
   "generatedAt": "2026-10-18",
   "perWindow": {
     "window-1": {
-      "title": "Koalas to the Max",
-      "url": "https://www.koalastothemax.com/",
-      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-1.webp"
+      "title": "Max Bittker's Projects",
+      "url": "https://maxbittker.com/projects/",
+      "blurb": "This is the whole toybox of the guy who made river.maxbittker.com — falling-sand worlds, generative gardens, tiny strange tools — and I think you'll fall down it for an hour and come out with three new side quests.",
+      "previewImage": "screenshot",
+      "isWildcard": false
     },
     "window-2": {
-      "title": "Forget AI. 2026 Is the Year of the Fashion Illustrator",
-      "url": "https://www.highsnobiety.com/p/2026-is-the-year-of-the-fashion-illustrator/",
-      "blurb": "Everyone's outsourcing images to a machine and meanwhile the girls with markers are quietly winning — this is your permission slip to draw the whole lookbook by hand.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-2.webp"
+      "title": "★ july newsletter ★ — film friends",
+      "url": "https://filmfriends.substack.com/p/july-newsletter",
+      "blurb": "It's a scrappy little film-photography newsletter that reads like a group chat of people who all shoot on expired stock and actually finish their rolls — grainy, warm, and exactly the kind of thing that'll have you digging out the point-and-shoot by Saturday.",
+      "previewImage": "screenshot",
+      "isWildcard": false
     },
     "window-3": {
-      "title": "Non-Alcoholic Espresso Stout Martini",
-      "url": "https://www.somegoodcleanfun.com/blog/guinness-00-stout-espresso-martini-mocktail",
-      "blurb": "A zero-proof espresso martini crossed with a stout — dark, foamy, absurdly photogenic in a coupe, and exactly the kind of committed-to-the-bit drink you'd hand someone at 10pm just to watch their face.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-3.webp"
+      "title": "Carrot Shrub (Nonalcoholic)",
+      "url": "https://punchdrink.com/recipes/carrot-shrub/",
+      "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
+      "previewImage": "screenshot",
+      "isWildcard": false
     },
     "window-4": {
-      "title": "Apartamento × LOEWE: Carlota Guerrero at Home, shot by Coco Capitán",
-      "url": "https://www.apartamentomagazine.com/stories/carlota-guerrero/",
-      "blurb": "Three women artists photographed inside their own homes by Coco Capitán — rooms styled like self-portraits, which is basically your whole thesis on living, so go build yourself a corner that photographs like a story about you.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-4.webp"
+      "title": "Before & After: A Colorful, Modern Update for a Late 19th-Century Apartment",
+      "url": "https://www.thenordroom.com/before-after-colorful-1880s-stockholm-apartment/",
+      "blurb": "",
+      "previewImage": "screenshot",
+      "isWildcard": false
     },
     "window-5": {
-      "title": "Takara House, Haji Lane",
-      "url": "https://hungrygowhere.com/food-news/takara-house-haji-lane/",
-      "blurb": "A blue-fronted vintage shop with a tiny patisserie hiding up the stairs — you'd go for the tart, stay two hours digging through the trinkets, and leave with three new project ideas and a roll of photobooth strips.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-5.webp"
+      "title": "Elijah Pies Joo Chiat (new flagship)",
+      "url": "https://ordinarypatrons.com/2026/09/13/elijah-pies-joo-chiat-review/",
+      "blurb": "A snow crab laksa pie is exactly the kind of heritage-meets-nonsense mashup you'd invent yourself, so go eat one in Joo Chiat before someone else claims the idea.",
+      "previewImage": "screenshot",
+      "isWildcard": false
     }
   }
 }
