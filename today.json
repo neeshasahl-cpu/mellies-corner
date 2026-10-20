@@ -2,30 +2,30 @@
   "generatedAt": "2026-10-19",
   "perWindow": {
     "window-1": {
-      "title": "Le Random",
-      "url": "https://www.lerandom.art/",
-      "blurb": "It's a whole independent archive of generative art — decades of people making images out of code — and I think you'll fall straight down the timeline and come out the other side with three new project ideas.",
+      "title": "Artcontext",
+      "url": "https://www.artcontext.org/en/",
+      "blurb": "It's one artist's decades-deep warren of collaborative browser drawing tools and net experiments, and you can actually leave your own marks inside it — old-web, zero polish, exactly your kind of rabbit hole.",
       "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "previewImage": "assets/previews/window-1.webp"
     },
     "window-2": {
-      "title": "Supersystème: typography as image",
-      "url": "https://www.itsnicethat.com/articles/supersyteme-graphic-design-discover-210726",
-      "blurb": "A studio that treats letterforms like full-blown images rather than words — exactly the kind of expressive, world-building type play you'd end up hand-drawing at 2am for a project nobody asked for.",
+      "title": "Dirt",
+      "url": "https://dirt.fyi",
+      "blurb": "A rotating cast of sharp writers taking internet ephemera, movies and fandom as seriously as you do — it's the newsletter that'll hand you three references before breakfast and leave you itching to remix them.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Lychee Mocktail With Rose",
-      "url": "https://mindfulmocktail.com/lychee-mocktail/",
-      "blurb": "Tinned lychee syrup is pure Chinese-restaurant-childhood nostalgia, and here it goes full glamour — hot pink, rose petals floating on top, a drink that practically asks to be shot on flash with a cheongsam sleeve in frame.",
+      "title": "Golden Hour Chrysanthemum Mocktail",
+      "url": "https://www.meijergardens.org/golden-hour-chrysanthemum-mocktail/",
+      "blurb": "It takes the dried chrysanthemum flowers sitting in your grandma's tea tin and shakes them into something golden and bar-worthy with maple and lemon — heritage drink, full persona change.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "The Lafayette Hotel's Vintage Lamps",
-      "url": "https://www.homesandgardens.com/interior-design/lafayette-hotel-inspired-table-lamp",
-      "blurb": "You already know a room lives or dies by its lamps — this one's a love letter to the moody, thrifted, hotel-lobby glow you'd absolutely build a whole shoot around.",
+      "title": "Inside a Maximalist Home Filled with Art, Antiques & Community",
+      "url": "https://www.youtube.com/watch?v=qmJyugDDOt4",
+      "blurb": "It's a house where nothing matches and everything has a story behind it, narrated by the person who dragged each piece home — exactly the kind of warm, overstuffed, friend-filled room you'd want to build and then throw a party in.",
       "isWildcard": false,
       "previewImage": "assets/previews/window-4.webp"
     },
