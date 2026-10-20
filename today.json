@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-19",
+  "generatedAt": "2026-10-20",
   "perWindow": {
     "window-1": {
-      "title": "Artcontext",
-      "url": "https://www.artcontext.org/en/",
-      "blurb": "It's one artist's decades-deep warren of collaborative browser drawing tools and net experiments, and you can actually leave your own marks inside it — old-web, zero polish, exactly your kind of rabbit hole.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-1.webp"
+      "title": "Every Place at Once",
+      "url": "https://everynoise.com/everyplace.cgi",
+      "blurb": "It's the Every Noise map rebuilt as cities instead of genres — click Singapore and find out which places on earth are listening like you are, then fall down a rabbit hole into someone else's hometown radio.",
+      "previewImage": null,
+      "isWildcard": false
     },
     "window-2": {
-      "title": "Dirt",
-      "url": "https://dirt.fyi",
-      "blurb": "A rotating cast of sharp writers taking internet ephemera, movies and fandom as seriously as you do — it's the newsletter that'll hand you three references before breakfast and leave you itching to remix them.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-2.webp"
+      "title": "Moats That Matter, Cross-Species Communication, & Taking Back Our Attention",
+      "url": "https://www.implications.com/p/cross-species-communication-the-moat",
+      "blurb": "Belsky reads the near-future like a designer rather than a tech bro, and this one detours from what makes an idea truly yours into AI-decoded animal language and clawing your attention back — basically three side quests in one newsletter.",
+      "previewImage": "assets/previews/window-2-og.webp",
+      "isWildcard": false
     },
     "window-3": {
-      "title": "Golden Hour Chrysanthemum Mocktail",
-      "url": "https://www.meijergardens.org/golden-hour-chrysanthemum-mocktail/",
-      "blurb": "It takes the dried chrysanthemum flowers sitting in your grandma's tea tin and shakes them into something golden and bar-worthy with maple and lemon — heritage drink, full persona change.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-3.webp"
+      "title": "Non-Alcoholic Old-Fashioned Mocktail",
+      "url": "https://feastandwest.com/old-fashioned-mocktail/",
+      "blurb": "",
+      "previewImage": "assets/previews/window-3-og.webp",
+      "isWildcard": false
     },
     "window-4": {
-      "title": "Inside a Maximalist Home Filled with Art, Antiques & Community",
-      "url": "https://www.youtube.com/watch?v=qmJyugDDOt4",
-      "blurb": "It's a house where nothing matches and everything has a story behind it, narrated by the person who dragged each piece home — exactly the kind of warm, overstuffed, friend-filled room you'd want to build and then throw a party in.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-4.webp"
+      "title": "10 Ceramic Table Lamps from Contemporary Pottery Studios",
+      "url": "https://www.remodelista.com/posts/10-ceramic-table-lamps-from-contemporary-studio-potteries-trend-alert/",
+      "blurb": "One lumpy, hand-thrown ceramic lamp does more for a room than a whole furniture haul, and knowing you, you'll look at these and immediately start googling pottery classes so you can make your own.",
+      "previewImage": "assets/previews/window-4-og.webp",
+      "isWildcard": false
     },
     "window-5": {
-      "title": "Soft Order, Bukit Merah",
-      "url": "https://thehoneycombers.com/singapore/soft-order-review-singapore/",
-      "blurb": "A barely-opened Bukit Merah cafe with Seoul-cool bones, an in-house bakery and drinks too pretty to drink — go now while it still feels like your discovery, and bring the film camera.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-5.webp"
+      "title": "Inner Teahouse, Chinatown",
+      "url": "https://www.timeout.com/singapore/news/5-cool-new-cafes-in-singapore-to-check-out-this-april-2026-041326",
+      "blurb": "A second-floor shophouse teahouse born out of a pottery studio, where the cups are as considered as the tea — exactly the kind of quiet, hand-made hideout you'd claim as your own and accidentally leave with a new side quest.",
+      "previewImage": null,
+      "isWildcard": false
     }
   }
 }
