@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-20",
+  "generatedAt": "2026-10-21",
   "perWindow": {
     "window-1": {
-      "title": "Every Place at Once",
-      "url": "https://everynoise.com/everyplace.cgi",
-      "blurb": "It's the Every Noise map rebuilt as cities instead of genres — click Singapore and find out which places on earth are listening like you are, then fall down a rabbit hole into someone else's hometown radio.",
+      "title": "net-art.org — Art projects",
+      "url": "https://net-art.org/",
+      "blurb": "It's a whole archive of browser-made art by people who just wanted to build something odd and lovely, which is exactly the kind of rabbit hole you disappear into and come out of with three new side quests.",
       "previewImage": null,
       "isWildcard": false
     },
     "window-2": {
-      "title": "Moats That Matter, Cross-Species Communication, & Taking Back Our Attention",
-      "url": "https://www.implications.com/p/cross-species-communication-the-moat",
-      "blurb": "Belsky reads the near-future like a designer rather than a tech bro, and this one detours from what makes an idea truly yours into AI-decoded animal language and clawing your attention back — basically three side quests in one newsletter.",
+      "title": "Naive Weekly",
+      "url": "https://www.naiveweekly.com/",
+      "blurb": "It's a weekly letter from the quiet corners of the internet — hand-made sites, net art, digital gardens — basically the reading version of every web toy you've ever fallen down a hole with.",
       "previewImage": "assets/previews/window-2-og.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Non-Alcoholic Old-Fashioned Mocktail",
-      "url": "https://feastandwest.com/old-fashioned-mocktail/",
+      "title": "Sixth Hour, A Zero-Proof Drink",
+      "url": "https://imbibemagazine.com/recipe/sixth-hour-a-zero-proof-drink/",
       "blurb": "",
       "previewImage": "assets/previews/window-3-og.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "10 Ceramic Table Lamps from Contemporary Pottery Studios",
-      "url": "https://www.remodelista.com/posts/10-ceramic-table-lamps-from-contemporary-studio-potteries-trend-alert/",
-      "blurb": "One lumpy, hand-thrown ceramic lamp does more for a room than a whole furniture haul, and knowing you, you'll look at these and immediately start googling pottery classes so you can make your own.",
-      "previewImage": "assets/previews/window-4-og.webp",
+      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
+      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
+      "blurb": "Four people, one apartment, zero fear of colour or clutter — this is the warm, object-stuffed, every-wall-has-a-story energy you keep chasing, and it proves a home can be maximal without ever feeling messy.",
+      "previewImage": null,
       "isWildcard": false
     },
     "window-5": {
-      "title": "Inner Teahouse, Chinatown",
-      "url": "https://www.timeout.com/singapore/news/5-cool-new-cafes-in-singapore-to-check-out-this-april-2026-041326",
-      "blurb": "A second-floor shophouse teahouse born out of a pottery studio, where the cups are as considered as the tea — exactly the kind of quiet, hand-made hideout you'd claim as your own and accidentally leave with a new side quest.",
-      "previewImage": null,
+      "title": "Honeycombers: New Cafes in Singapore (Sept 2026)",
+      "url": "https://thehoneycombers.com/singapore/new-cafes-singapore/",
+      "blurb": "",
+      "previewImage": "assets/previews/window-5-og.webp",
       "isWildcard": false
     }
   }
