@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-21",
+  "generatedAt": "2026-10-22",
   "perWindow": {
     "window-1": {
-      "title": "net-art.org — Art projects",
-      "url": "https://net-art.org/",
-      "blurb": "It's a whole archive of browser-made art by people who just wanted to build something odd and lovely, which is exactly the kind of rabbit hole you disappear into and come out of with three new side quests.",
+      "title": "Max Bittker's Projects",
+      "url": "https://maxbittker.com/projects/",
+      "blurb": "This is the whole toybox of the guy who made river.maxbittker.com — falling-sand worlds, generative gardens, tiny strange tools — and I think you'll fall down it for an hour and come out with three new side quests.",
       "previewImage": null,
       "isWildcard": false
     },
     "window-2": {
-      "title": "Naive Weekly",
-      "url": "https://www.naiveweekly.com/",
-      "blurb": "It's a weekly letter from the quiet corners of the internet — hand-made sites, net art, digital gardens — basically the reading version of every web toy you've ever fallen down a hole with.",
-      "previewImage": "assets/previews/window-2-og.webp",
+      "title": "The end of short-form content — Embedded",
+      "url": "https://embedded.substack.com/p/the-end-of-short-form-content",
+      "blurb": "Kate Lindsay calls the time of death on the endless scroll and makes the case for going long — which feels like permission for exactly the kind of elaborate, deep-dive side quests you already throw yourself into.",
+      "previewImage": null,
       "isWildcard": false
     },
     "window-3": {
-      "title": "Sixth Hour, A Zero-Proof Drink",
-      "url": "https://imbibemagazine.com/recipe/sixth-hour-a-zero-proof-drink/",
+      "title": "Summertime Aguas Frescas",
+      "url": "https://cookieandkate.com/aguas-frescas-recipe/",
       "blurb": "",
       "previewImage": "assets/previews/window-3-og.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
-      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
-      "blurb": "Four people, one apartment, zero fear of colour or clutter — this is the warm, object-stuffed, every-wall-has-a-story energy you keep chasing, and it proves a home can be maximal without ever feeling messy.",
+      "title": "Inside a Maximalist Home Filled with Art, Antiques & Community",
+      "url": "https://www.youtube.com/watch?v=qmJyugDDOt4",
+      "blurb": "It's a house where nothing matches and everything has a story behind it, narrated by the person who dragged each piece home — exactly the kind of warm, overstuffed, friend-filled room you'd want to build and then throw a party in.",
       "previewImage": null,
       "isWildcard": false
     },
     "window-5": {
-      "title": "Honeycombers: New Cafes in Singapore (Sept 2026)",
-      "url": "https://thehoneycombers.com/singapore/new-cafes-singapore/",
-      "blurb": "",
+      "title": "Wok & Toast 街坊, Serangoon",
+      "url": "https://eatbook.sg/wok-and-toast/",
+      "blurb": "The Neighbourwok crew just opened a kopitiam-meets-wok-kitchen called 街坊 — literally \"neighbour\" — where $5.80 kaya toast sets share a counter with proper charred Hokkien mee, and it's exactly the kind of unglamorous heritage remix you'd end up photographing on film and building a whole mood around.",
       "previewImage": "assets/previews/window-5-og.webp",
       "isWildcard": false
     }
