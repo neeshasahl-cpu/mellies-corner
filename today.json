@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-22",
+  "generatedAt": "2026-10-23",
   "perWindow": {
     "window-1": {
-      "title": "Max Bittker's Projects",
-      "url": "https://maxbittker.com/projects/",
-      "blurb": "This is the whole toybox of the guy who made river.maxbittker.com — falling-sand worlds, generative gardens, tiny strange tools — and I think you'll fall down it for an hour and come out with three new side quests.",
-      "previewImage": null,
+      "title": "laurel.world — Laurel Schwulst's site",
+      "url": "https://laurelschwulst.com",
+      "blurb": "It's less a portfolio than a soft cream-colored room you wander through, where every project links sideways to another by year, medium, or friend — the kind of hand-made web object that'll make you want to rebuild your own site by midnight.",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "The end of short-form content — Embedded",
-      "url": "https://embedded.substack.com/p/the-end-of-short-form-content",
-      "blurb": "Kate Lindsay calls the time of death on the endless scroll and makes the case for going long — which feels like permission for exactly the kind of elaborate, deep-dive side quests you already throw yourself into.",
-      "previewImage": null,
+      "title": "Charlotte Rohde's new typeface has heart-dotted i's and a plan to overwrite problematic men",
+      "url": "https://www.itsnicethat.com/articles/charlotte-rohde-oficia-mono-typography-graphic-design-project-190826",
+      "blurb": "A typeface designed as a full character — heart-dotted i's, a feminist bit committed all the way to the end, and a launch campaign shot to look like a photocopier running out of toner — which is exactly the kind of type-as-persona nonsense you'd stay up all night making yourself.",
+      "previewImage": "assets/previews/window-2-og.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Summertime Aguas Frescas",
-      "url": "https://cookieandkate.com/aguas-frescas-recipe/",
-      "blurb": "",
+      "title": "Non-Alcoholic Espresso Stout Martini",
+      "url": "https://www.somegoodcleanfun.com/blog/guinness-00-stout-espresso-martini-mocktail",
+      "blurb": "A zero-proof espresso martini crossed with a stout — dark, foamy, absurdly photogenic in a coupe, and exactly the kind of committed-to-the-bit drink you'd hand someone at 10pm just to watch their face.",
       "previewImage": "assets/previews/window-3-og.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Inside a Maximalist Home Filled with Art, Antiques & Community",
-      "url": "https://www.youtube.com/watch?v=qmJyugDDOt4",
-      "blurb": "It's a house where nothing matches and everything has a story behind it, narrated by the person who dragged each piece home — exactly the kind of warm, overstuffed, friend-filled room you'd want to build and then throw a party in.",
-      "previewImage": null,
+      "title": "The Selby — Inside Creative People's Homes",
+      "url": "https://theselby.com/",
+      "blurb": "It's basically permission to let your rooms look like your brain — every shelf, taped photo and inherited lamp doing the decorating for you.",
+      "previewImage": "assets/previews/window-4-og.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Wok & Toast 街坊, Serangoon",
-      "url": "https://eatbook.sg/wok-and-toast/",
-      "blurb": "The Neighbourwok crew just opened a kopitiam-meets-wok-kitchen called 街坊 — literally \"neighbour\" — where $5.80 kaya toast sets share a counter with proper charred Hokkien mee, and it's exactly the kind of unglamorous heritage remix you'd end up photographing on film and building a whole mood around.",
+      "title": "Pout Rooftop Cafe, South Bridge Road",
+      "url": "https://therantingpanda.com/2025/11/15/food-review-pout-rooftop-cafe-at-south-bridge-road-hidden-cafe-with-gorgeous-view-of-singapores-skyline/",
+      "blurb": "",
       "previewImage": "assets/previews/window-5-og.webp",
       "isWildcard": false
     }
