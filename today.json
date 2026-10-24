@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-23",
+  "generatedAt": "2026-10-24",
   "perWindow": {
     "window-1": {
-      "title": "laurel.world — Laurel Schwulst's site",
-      "url": "https://laurelschwulst.com",
-      "blurb": "It's less a portfolio than a soft cream-colored room you wander through, where every project links sideways to another by year, medium, or friend — the kind of hand-made web object that'll make you want to rebuild your own site by midnight.",
-      "previewImage": "assets/previews/window-1-og.webp",
+      "title": "Artcontext",
+      "url": "https://www.artcontext.org/en/",
+      "blurb": "It's one artist's decades-deep warren of collaborative browser drawing tools and net experiments, and you can actually leave your own marks inside it — old-web, zero polish, exactly your kind of rabbit hole.",
+      "previewImage": null,
       "isWildcard": false
     },
     "window-2": {
-      "title": "Charlotte Rohde's new typeface has heart-dotted i's and a plan to overwrite problematic men",
-      "url": "https://www.itsnicethat.com/articles/charlotte-rohde-oficia-mono-typography-graphic-design-project-190826",
-      "blurb": "A typeface designed as a full character — heart-dotted i's, a feminist bit committed all the way to the end, and a launch campaign shot to look like a photocopier running out of toner — which is exactly the kind of type-as-persona nonsense you'd stay up all night making yourself.",
-      "previewImage": "assets/previews/window-2-og.webp",
+      "title": "Web Curios",
+      "url": "https://www.webcurios.co.uk/",
+      "blurb": "It's one guy, every week, dragging back armfuls of the weirdest and most wonderful things on the internet with running commentary that's funnier than it has any right to be — pure side-quest fuel for you.",
+      "previewImage": null,
       "isWildcard": false
     },
     "window-3": {
-      "title": "Non-Alcoholic Espresso Stout Martini",
-      "url": "https://www.somegoodcleanfun.com/blog/guinness-00-stout-espresso-martini-mocktail",
-      "blurb": "A zero-proof espresso martini crossed with a stout — dark, foamy, absurdly photogenic in a coupe, and exactly the kind of committed-to-the-bit drink you'd hand someone at 10pm just to watch their face.",
+      "title": "Classic Vietnamese Plum Soda (Soda Xí Muội)",
+      "url": "https://greenheartlove.com/classic-vietnamese-plum-soda/",
+      "blurb": "Salty-sour preserved plum drowned in fizz over cracked ice — it's the nostalgic, slightly feral cousin of every polite floral mocktail, and you get to eat the plum at the end like a prize.",
       "previewImage": "assets/previews/window-3-og.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "The Selby — Inside Creative People's Homes",
-      "url": "https://theselby.com/",
-      "blurb": "It's basically permission to let your rooms look like your brain — every shelf, taped photo and inherited lamp doing the decorating for you.",
+      "title": "Sight Unseen: Inside a Vintage-Filled NYC Home",
+      "url": "https://www.sightunseen.com/2025/12/enter-our-12k-furniture-and-lighting-giveaway-tour-a-vintage-filled-nyc-home-and-more/",
+      "blurb": "",
       "previewImage": "assets/previews/window-4-og.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Pout Rooftop Cafe, South Bridge Road",
-      "url": "https://therantingpanda.com/2025/11/15/food-review-pout-rooftop-cafe-at-south-bridge-road-hidden-cafe-with-gorgeous-view-of-singapores-skyline/",
-      "blurb": "",
+      "title": "Cookboys, I12 Katong",
+      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
+      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
       "previewImage": "assets/previews/window-5-og.webp",
       "isWildcard": false
     }
