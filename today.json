@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-19",
+  "generatedAt": "2026-10-24",
   "perWindow": {
     "window-1": {
-      "title": "Le Random",
-      "url": "https://www.lerandom.art/",
-      "blurb": "It's a whole independent archive of generative art — decades of people making images out of code — and I think you'll fall straight down the timeline and come out the other side with three new project ideas.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "title": "Artcontext",
+      "url": "https://www.artcontext.org/en/",
+      "blurb": "It's one artist's decades-deep warren of collaborative browser drawing tools and net experiments, and you can actually leave your own marks inside it — old-web, zero polish, exactly your kind of rabbit hole.",
+      "previewImage": null,
+      "isWildcard": false
     },
     "window-2": {
-      "title": "Supersystème: typography as image",
-      "url": "https://www.itsnicethat.com/articles/supersyteme-graphic-design-discover-210726",
-      "blurb": "A studio that treats letterforms like full-blown images rather than words — exactly the kind of expressive, world-building type play you'd end up hand-drawing at 2am for a project nobody asked for.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-2.webp"
+      "title": "Web Curios",
+      "url": "https://www.webcurios.co.uk/",
+      "blurb": "It's one guy, every week, dragging back armfuls of the weirdest and most wonderful things on the internet with running commentary that's funnier than it has any right to be — pure side-quest fuel for you.",
+      "previewImage": null,
+      "isWildcard": false
     },
     "window-3": {
-      "title": "Lychee Mocktail With Rose",
-      "url": "https://mindfulmocktail.com/lychee-mocktail/",
-      "blurb": "Tinned lychee syrup is pure Chinese-restaurant-childhood nostalgia, and here it goes full glamour — hot pink, rose petals floating on top, a drink that practically asks to be shot on flash with a cheongsam sleeve in frame.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-3.webp"
+      "title": "Classic Vietnamese Plum Soda (Soda Xí Muội)",
+      "url": "https://greenheartlove.com/classic-vietnamese-plum-soda/",
+      "blurb": "Salty-sour preserved plum drowned in fizz over cracked ice — it's the nostalgic, slightly feral cousin of every polite floral mocktail, and you get to eat the plum at the end like a prize.",
+      "previewImage": "assets/previews/window-3-og.webp",
+      "isWildcard": false
     },
     "window-4": {
-      "title": "The Lafayette Hotel's Vintage Lamps",
-      "url": "https://www.homesandgardens.com/interior-design/lafayette-hotel-inspired-table-lamp",
-      "blurb": "You already know a room lives or dies by its lamps — this one's a love letter to the moody, thrifted, hotel-lobby glow you'd absolutely build a whole shoot around.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-4.webp"
+      "title": "Sight Unseen: Inside a Vintage-Filled NYC Home",
+      "url": "https://www.sightunseen.com/2025/12/enter-our-12k-furniture-and-lighting-giveaway-tour-a-vintage-filled-nyc-home-and-more/",
+      "blurb": "",
+      "previewImage": "assets/previews/window-4-og.webp",
+      "isWildcard": false
     },
     "window-5": {
-      "title": "Soft Order, Bukit Merah",
-      "url": "https://thehoneycombers.com/singapore/soft-order-review-singapore/",
-      "blurb": "A barely-opened Bukit Merah cafe with Seoul-cool bones, an in-house bakery and drinks too pretty to drink — go now while it still feels like your discovery, and bring the film camera.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-5.webp"
+      "title": "Cookboys, I12 Katong",
+      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
+      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
+      "previewImage": "assets/previews/window-5-og.webp",
+      "isWildcard": false
     }
   }
 }
