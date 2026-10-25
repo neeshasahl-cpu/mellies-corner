@@ -615,25 +615,23 @@ def _try_og_image(url: str, window_id: str) -> tuple[str, str] | None:
     return None
 
 
-def pick_from_history(window_id: str, today: datetime.date) -> dict | None:
-    """Pick a random entry from history.csv for this window, excluding yesterday's
-    pick so there's variety day-to-day."""
+def pick_from_history(window_id: str, today: datetime.date, in_use: set[str]) -> dict | None:
+    """Pick a random history entry for this window. Avoids URLs already showing in
+    another window, and this window's picks from the last 21 days, so nothing
+    repeats across windows or day-to-day. Relaxes to any entry if nothing is left."""
     if not HISTORY_PATH.exists():
         return None
 
-    yesterday = today - datetime.timedelta(days=1)
-    yesterday_str = yesterday.isoformat()
-    today_str = today.isoformat()
+    cutoff = (today - datetime.timedelta(days=21)).isoformat()
 
-    candidates = []
+    all_rows = []
     with open(HISTORY_PATH, "r", encoding="utf-8-sig", newline="") as f:
         for row in csv.DictReader(f):
-            # Skip rows from today (shouldn't be any) and yesterday
-            if row.get("window") != window_id:
-                continue
-            if row.get("date") in (today_str, yesterday_str):
-                continue
-            candidates.append(row)
+            if row.get("window") == window_id:
+                all_rows.append(row)
+
+    fresh = [r for r in all_rows if r.get("url") not in in_use and r.get("date", "") < cutoff]
+    candidates = fresh or [r for r in all_rows if r.get("url") not in in_use] or all_rows
 
     if not candidates:
         return None
@@ -687,7 +685,8 @@ def main():
                 pass
 
         for window_id in WINDOWS.keys():
-            picked = pick_from_history(window_id, today)
+            in_use = {w["url"] for wid, w in per_window.items() if wid != window_id and w.get("url")}
+            picked = pick_from_history(window_id, today, in_use)
             if picked:
                 per_window[window_id] = picked
                 print(f"[{window_id}] pick from history: {picked['title']}")
