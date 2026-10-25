@@ -2,38 +2,38 @@
   "generatedAt": "2026-10-24",
   "perWindow": {
     "window-1": {
-      "title": "Artcontext",
-      "url": "https://www.artcontext.org/en/",
-      "blurb": "It's one artist's decades-deep warren of collaborative browser drawing tools and net experiments, and you can actually leave your own marks inside it — old-web, zero polish, exactly your kind of rabbit hole.",
-      "previewImage": null,
+      "title": "Poolsuite FM",
+      "url": "https://poolsuite.net",
+      "blurb": "It's an entire sun-bleached 90s computer desktop that plays endless summer radio — the kind of committed-to-the-bit web world you'll want to steal interface ideas from while it scores your next side quest.",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
       "title": "Web Curios",
       "url": "https://www.webcurios.co.uk/",
       "blurb": "It's one guy, every week, dragging back armfuls of the weirdest and most wonderful things on the internet with running commentary that's funnier than it has any right to be — pure side-quest fuel for you.",
-      "previewImage": null,
+      "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
       "title": "Classic Vietnamese Plum Soda (Soda Xí Muội)",
       "url": "https://greenheartlove.com/classic-vietnamese-plum-soda/",
       "blurb": "Salty-sour preserved plum drowned in fizz over cracked ice — it's the nostalgic, slightly feral cousin of every polite floral mocktail, and you get to eat the plum at the end like a prize.",
-      "previewImage": "assets/previews/window-3-og.webp",
+      "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
       "title": "Sight Unseen: Inside a Vintage-Filled NYC Home",
       "url": "https://www.sightunseen.com/2025/12/enter-our-12k-furniture-and-lighting-giveaway-tour-a-vintage-filled-nyc-home-and-more/",
       "blurb": "",
-      "previewImage": "assets/previews/window-4-og.webp",
+      "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
       "title": "Cookboys, I12 Katong",
       "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
       "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
-      "previewImage": "assets/previews/window-5-og.webp",
+      "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
   }
