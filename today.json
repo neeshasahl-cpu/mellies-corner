@@ -2,37 +2,37 @@
   "generatedAt": "2026-10-25",
   "perWindow": {
     "window-1": {
-      "title": "net-art.org — Art projects",
-      "url": "https://net-art.org/",
-      "blurb": "It's a whole archive of browser-made art by people who just wanted to build something odd and lovely, which is exactly the kind of rabbit hole you disappear into and come out of with three new side quests.",
-      "previewImage": "assets/previews/window-1.webp",
+      "title": "WigglyPaint",
+      "url": "https://www.wigglypaint.art/",
+      "blurb": "Every line you draw squirms and squeaks like it's alive, and you can export the whole wobbly mess as a GIF — it's the most charmingly imperfect drawing tool on the internet and I fully expect to see it in your next persona shoot's title cards.",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "The radical reasons why you dream of making things by hand",
-      "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
-      "blurb": "This one makes the case that your hand-sewn costumes and ancestry archives aren't hobbies but a quiet rebellion — a whole essay arguing that the urge to master something with your hands is the most radical thing you can do.",
+      "title": "Colossal",
+      "url": "https://www.thisiscolossal.com",
+      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Spicy Passion Fruit Mocktail (AKA \"Mockarita\")",
-      "url": "https://minimalistbaker.com/spicy-passion-fruit-mocktail/",
-      "blurb": "Four ingredients, but you get to char a jalapeño over open flame for smoky depth — a tiny bit of theatre for a drink that's tart, tropical, and named like it's in on the joke.",
+      "title": "Calamansi Sparkling Margarita Mocktail",
+      "url": "https://drinksanzo.com/blogs/recipe-blog/calamansi-sparkling-margarita-mocktail",
+      "blurb": "A margarita rerouted through calamansi — that auntie-kitchen citrus you already know by heart — salted rim and all, and endlessly riffable with a chilli-salt rim or a float of pandan syrup.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Ignant — Interiors & Home Visits",
-      "url": "https://www.ignant.com/category/interiors/",
-      "blurb": "It's a rolling feed of real people's homes — the kind stacked with books, odd ceramics and lamps with a story — and you'll want to rearrange your whole living room within ten minutes of scrolling.",
+      "title": "This Eclectic, Treasure-Filled Apartment Is Maximalism Done Right",
+      "url": "https://theeverygirl.com/lowe-saddler-home-tour/",
+      "blurb": "A recovering minimalist turned full trinket-maximalist who furnished her whole character-filled apartment through Craigslist finds and sheer love of stuff — basically your interiors side quest, already in progress.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Miura, Joo Chiat",
-      "url": "https://eatbook.sg/miura-joo-chiat/",
-      "blurb": "You have to walk through a three-storey Joo Chiat shophouse full of independent labels before you find this tiny matcha-and-wagashi counter hiding at the back, which makes getting a daifuku feel like a small side quest you completed.",
+      "title": "Cookboys, I12 Katong",
+      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
+      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
