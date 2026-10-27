@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-25",
+  "generatedAt": "2026-10-27",
   "perWindow": {
     "window-1": {
-      "title": "WigglyPaint",
-      "url": "https://www.wigglypaint.art/",
-      "blurb": "Every line you draw squirms and squeaks like it's alive, and you can export the whole wobbly mess as a GIF — it's the most charmingly imperfect drawing tool on the internet and I fully expect to see it in your next persona shoot's title cards.",
-      "previewImage": "assets/previews/window-1-og.webp",
+      "title": "ssh.place — Timelapses",
+      "url": "https://ssh.place/timelapse",
+      "blurb": "Watch a whole day of strangers quietly fighting and collaborating over one 200×60 pixel canvas replay as a GIF — it's a tiny communal folk-art archive made entirely in a terminal, and I think you'll want to go claim a corner of it.",
+      "previewImage": null,
       "isWildcard": false
     },
     "window-2": {
-      "title": "Colossal",
-      "url": "https://www.thisiscolossal.com",
-      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
+      "title": "Cool but not “cool cool” — Kiko Mizuhara on Blackbird Spyplane",
+      "url": "https://www.blackbirdspyplane.com/p/cool-but-not-cool-cool-kiko-mizuhara-interview",
+      "blurb": "Spyplane at its goofiest and most obsessive, interviewing a Tokyo shapeshifter who acts, models, and designs — basically your side-quest energy in interview form.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Calamansi Sparkling Margarita Mocktail",
-      "url": "https://drinksanzo.com/blogs/recipe-blog/calamansi-sparkling-margarita-mocktail",
-      "blurb": "A margarita rerouted through calamansi — that auntie-kitchen citrus you already know by heart — salted rim and all, and endlessly riffable with a chilli-salt rim or a float of pandan syrup.",
+      "title": "Shirley Temple (with real grenadine)",
+      "url": "https://www.acouplecooks.com/shirley-temple/",
+      "blurb": "The most gloriously kitsch drink ever invented, made with actual pomegranate grenadine instead of the radioactive stuff — pure diner-counter nostalgia that deserves a flash photo and three cherries.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "This Eclectic, Treasure-Filled Apartment Is Maximalism Done Right",
-      "url": "https://theeverygirl.com/lowe-saddler-home-tour/",
-      "blurb": "A recovering minimalist turned full trinket-maximalist who furnished her whole character-filled apartment through Craigslist finds and sheer love of stuff — basically your interiors side quest, already in progress.",
+      "title": "The Selby — Inside Creative People's Homes",
+      "url": "https://theselby.com/",
+      "blurb": "It's basically permission to let your rooms look like your brain — every shelf, taped photo and inherited lamp doing the decorating for you.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Cookboys, I12 Katong",
-      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
-      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
+      "title": "Dona Manis Heritage Bakehouse, Katong",
+      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
+      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
