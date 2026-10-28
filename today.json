@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-27",
+  "generatedAt": "2026-10-28",
   "perWindow": {
     "window-1": {
-      "title": "ssh.place — Timelapses",
-      "url": "https://ssh.place/timelapse",
-      "blurb": "Watch a whole day of strangers quietly fighting and collaborating over one 200×60 pixel canvas replay as a GIF — it's a tiny communal folk-art archive made entirely in a terminal, and I think you'll want to go claim a corner of it.",
-      "previewImage": null,
+      "title": "Pointer Pointer",
+      "url": "https://pointerpointer.com/",
+      "blurb": "",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Cool but not “cool cool” — Kiko Mizuhara on Blackbird Spyplane",
-      "url": "https://www.blackbirdspyplane.com/p/cool-but-not-cool-cool-kiko-mizuhara-interview",
-      "blurb": "Spyplane at its goofiest and most obsessive, interviewing a Tokyo shapeshifter who acts, models, and designs — basically your side-quest energy in interview form.",
+      "title": "The return of the 'OG Instagram' aesthetic",
+      "url": "https://www.dazeddigital.com/life-culture/article/68363/1/return-og-instagram-aesthetic-curation-social-media-sepia-addison-rae-steve-lacy",
+      "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Shirley Temple (with real grenadine)",
-      "url": "https://www.acouplecooks.com/shirley-temple/",
-      "blurb": "The most gloriously kitsch drink ever invented, made with actual pomegranate grenadine instead of the radioactive stuff — pure diner-counter nostalgia that deserves a flash photo and three cherries.",
+      "title": "Spiced Tamarind Mocktail",
+      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
+      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "The Selby — Inside Creative People's Homes",
-      "url": "https://theselby.com/",
-      "blurb": "It's basically permission to let your rooms look like your brain — every shelf, taped photo and inherited lamp doing the decorating for you.",
+      "title": "Earthy, Layered Interiors in a Notting Hill Apartment",
+      "url": "https://www.thenordroom.com/earthy-layered-interiors-notting-hill-apartment/",
+      "blurb": "This one's a masterclass in making a room feel warm through texture alone — clay tones, worn textiles, soft pools of lamplight — and I think it'd be a dream reference for that lived-in corner you keep almost building.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Dona Manis Heritage Bakehouse, Katong",
-      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
-      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
+      "title": "Behind Clay — the hidden room behind the pizza oven",
+      "url": "https://thesmartlocal.com/read/restaurants-cafes-2026/",
+      "blurb": "There's no sign and no door — you walk straight through a riverside pizzeria, past the wood-fired oven, into a secret 52-seat lounge serving mala pork belly out of a paper bag and foie gras pizza with tamarind, which feels like a place built specifically for you to show up overdressed and make an entire night of it.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
