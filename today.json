@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-28",
+  "generatedAt": "2026-10-29",
   "perWindow": {
     "window-1": {
-      "title": "Pointer Pointer",
-      "url": "https://pointerpointer.com/",
+      "title": "Patatap: Mellow Waves",
+      "url": "https://cornelius.patatap.com/",
       "blurb": "",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "The return of the 'OG Instagram' aesthetic",
-      "url": "https://www.dazeddigital.com/life-culture/article/68363/1/return-og-instagram-aesthetic-curation-social-media-sepia-addison-rae-steve-lacy",
-      "blurb": "",
+      "title": "Dirt",
+      "url": "https://dirt.fyi",
+      "blurb": "It's the culture newsletter that treats a Ghibli frame, a dead website and a pop star's tour merch with equal seriousness — exactly your brain, but in essay form.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Spiced Tamarind Mocktail",
-      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
-      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
+      "title": "Classic Vietnamese Plum Soda (Soda Xí Muội)",
+      "url": "https://greenheartlove.com/classic-vietnamese-plum-soda/",
+      "blurb": "Salty-sour preserved plum drowned in fizz over cracked ice — it's the nostalgic, slightly feral cousin of every polite floral mocktail, and you get to eat the plum at the end like a prize.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Earthy, Layered Interiors in a Notting Hill Apartment",
-      "url": "https://www.thenordroom.com/earthy-layered-interiors-notting-hill-apartment/",
-      "blurb": "This one's a masterclass in making a room feel warm through texture alone — clay tones, worn textiles, soft pools of lamplight — and I think it'd be a dream reference for that lived-in corner you keep almost building.",
+      "title": "Yellowtrace — Home Tours",
+      "url": "https://www.yellowtrace.com.au/",
+      "blurb": "It's a properly indie design journal full of warm, object-crammed homes — vintage lamps, hand-thrown pottery, colour used with nerve — and its Asia-Pacific eye means you'll actually see rooms that feel like they could exist near you.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Behind Clay — the hidden room behind the pizza oven",
-      "url": "https://thesmartlocal.com/read/restaurants-cafes-2026/",
-      "blurb": "There's no sign and no door — you walk straight through a riverside pizzeria, past the wood-fired oven, into a secret 52-seat lounge serving mala pork belly out of a paper bag and foie gras pizza with tamarind, which feels like a place built specifically for you to show up overdressed and make an entire night of it.",
+      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
+      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
+      "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
