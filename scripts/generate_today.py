@@ -71,6 +71,7 @@ import random
 import re
 import sys
 import urllib.request
+import zoneinfo
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -669,7 +670,7 @@ def resolve_preview_image(url: str, window_id: str) -> tuple[str | None, str]:
 
 
 def main():
-    today = datetime.date.today()
+    today = datetime.datetime.now(zoneinfo.ZoneInfo("Asia/Singapore")).date()
     is_monday = today.weekday() == 0  # 0 = Monday
     force_generate = os.environ.get("FORCE_GENERATE") == "true"
 
