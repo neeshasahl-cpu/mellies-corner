@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-25",
+  "generatedAt": "2026-10-30",
   "perWindow": {
     "window-1": {
-      "title": "net-art.org — Art projects",
-      "url": "https://net-art.org/",
-      "blurb": "It's a whole archive of browser-made art by people who just wanted to build something odd and lovely, which is exactly the kind of rabbit hole you disappear into and come out of with three new side quests.",
-      "previewImage": "assets/previews/window-1.webp",
+      "title": "Anna's Secret Garden",
+      "url": "https://annasgarden.vercel.app/",
+      "blurb": "",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "The radical reasons why you dream of making things by hand",
-      "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
-      "blurb": "This one makes the case that your hand-sewn costumes and ancestry archives aren't hobbies but a quiet rebellion — a whole essay arguing that the urge to master something with your hands is the most radical thing you can do.",
+      "title": "Cool Friends: Ellen Van Dusen (Dusen Dusen)",
+      "url": "https://www.coolstuff.nyc/cool-friends/ellen-van-dusen",
+      "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Spicy Passion Fruit Mocktail (AKA \"Mockarita\")",
-      "url": "https://minimalistbaker.com/spicy-passion-fruit-mocktail/",
-      "blurb": "Four ingredients, but you get to char a jalapeño over open flame for smoky depth — a tiny bit of theatre for a drink that's tart, tropical, and named like it's in on the joke.",
+      "title": "Summertime Aguas Frescas",
+      "url": "https://cookieandkate.com/aguas-frescas-recipe/",
+      "blurb": "",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Ignant — Interiors & Home Visits",
-      "url": "https://www.ignant.com/category/interiors/",
-      "blurb": "It's a rolling feed of real people's homes — the kind stacked with books, odd ceramics and lamps with a story — and you'll want to rearrange your whole living room within ten minutes of scrolling.",
+      "title": "Home Tour | Collector's House by Betsy Brown",
+      "url": "https://estliving.com/home-tour-collectors-house-betsy-brown-shepard-davis-architects/",
+      "blurb": "",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Miura, Joo Chiat",
-      "url": "https://eatbook.sg/miura-joo-chiat/",
-      "blurb": "You have to walk through a three-storey Joo Chiat shophouse full of independent labels before you find this tiny matcha-and-wagashi counter hiding at the back, which makes getting a daifuku feel like a small side quest you completed.",
+      "title": "Dona Manis Heritage Bakehouse, Katong",
+      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
+      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
