@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-29",
+  "generatedAt": "2026-10-30",
   "perWindow": {
     "window-1": {
-      "title": "Patatap: Mellow Waves",
-      "url": "https://cornelius.patatap.com/",
+      "title": "Anna's Secret Garden",
+      "url": "https://annasgarden.vercel.app/",
       "blurb": "",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Dirt",
-      "url": "https://dirt.fyi",
-      "blurb": "It's the culture newsletter that treats a Ghibli frame, a dead website and a pop star's tour merch with equal seriousness — exactly your brain, but in essay form.",
+      "title": "Cool Friends: Ellen Van Dusen (Dusen Dusen)",
+      "url": "https://www.coolstuff.nyc/cool-friends/ellen-van-dusen",
+      "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Classic Vietnamese Plum Soda (Soda Xí Muội)",
-      "url": "https://greenheartlove.com/classic-vietnamese-plum-soda/",
-      "blurb": "Salty-sour preserved plum drowned in fizz over cracked ice — it's the nostalgic, slightly feral cousin of every polite floral mocktail, and you get to eat the plum at the end like a prize.",
+      "title": "Summertime Aguas Frescas",
+      "url": "https://cookieandkate.com/aguas-frescas-recipe/",
+      "blurb": "",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Yellowtrace — Home Tours",
-      "url": "https://www.yellowtrace.com.au/",
-      "blurb": "It's a properly indie design journal full of warm, object-crammed homes — vintage lamps, hand-thrown pottery, colour used with nerve — and its Asia-Pacific eye means you'll actually see rooms that feel like they could exist near you.",
+      "title": "Home Tour | Collector's House by Betsy Brown",
+      "url": "https://estliving.com/home-tour-collectors-house-betsy-brown-shepard-davis-architects/",
+      "blurb": "",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
-      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
-      "blurb": "",
+      "title": "Dona Manis Heritage Bakehouse, Katong",
+      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
+      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
