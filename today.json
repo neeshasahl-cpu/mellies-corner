@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-30",
+  "generatedAt": "2026-10-31",
   "perWindow": {
     "window-1": {
-      "title": "Anna's Secret Garden",
-      "url": "https://annasgarden.vercel.app/",
+      "title": "Patatap: Mellow Waves",
+      "url": "https://cornelius.patatap.com/",
       "blurb": "",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Cool Friends: Ellen Van Dusen (Dusen Dusen)",
-      "url": "https://www.coolstuff.nyc/cool-friends/ellen-van-dusen",
+      "title": "Type of Culture — Keya Vadgama",
+      "url": "https://keyavadgama.substack.com/p/a-reintroduction-and-a-rebrand",
       "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Summertime Aguas Frescas",
-      "url": "https://cookieandkate.com/aguas-frescas-recipe/",
-      "blurb": "",
+      "title": "Spiced Tamarind Mocktail",
+      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
+      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Home Tour | Collector's House by Betsy Brown",
-      "url": "https://estliving.com/home-tour-collectors-house-betsy-brown-shepard-davis-architects/",
-      "blurb": "",
+      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
+      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
+      "blurb": "Four people, one apartment, zero fear of colour or clutter — this is the warm, object-stuffed, every-wall-has-a-story energy you keep chasing, and it proves a home can be maximal without ever feeling messy.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Dona Manis Heritage Bakehouse, Katong",
-      "url": "https://sethlui.com/dona-manis-heritage-bakehouse-katong-singapore-jan-2026/",
-      "blurb": "The 30-year-old basement banana pie legend finally got a sit-down room in Katong — and it doubles as a stop on a city-wide Monopoly heritage trail, so your pastry run comes with a built-in side quest.",
+      "title": "Takara House, Haji Lane",
+      "url": "https://hungrygowhere.com/food-news/takara-house-haji-lane/",
+      "blurb": "A blue-fronted vintage shop with a tiny patisserie hiding up the stairs — you'd go for the tart, stay two hours digging through the trinkets, and leave with three new project ideas and a roll of photobooth strips.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
