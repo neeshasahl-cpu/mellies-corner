@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-31",
+  "generatedAt": "2026-11-01",
   "perWindow": {
     "window-1": {
-      "title": "Patatap: Mellow Waves",
-      "url": "https://cornelius.patatap.com/",
-      "blurb": "",
-      "previewImage": "assets/previews/window-1-og.webp",
+      "title": "Koalas to the Max",
+      "url": "https://www.koalastothemax.com/",
+      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
+      "previewImage": "assets/previews/window-1.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Type of Culture — Keya Vadgama",
-      "url": "https://keyavadgama.substack.com/p/a-reintroduction-and-a-rebrand",
+      "title": "They Call Me… Colette: Beautiful Dreamer (NOWNESS)",
+      "url": "https://www.nowness.com/series/they-call-me/colette-beautiful-dreamer-nick-hampson",
       "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Spiced Tamarind Mocktail",
-      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
-      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
+      "title": "25 Best Mocktail Recipes for 2026",
+      "url": "https://thecraftpour.com/articles/mocktail-recipes-2026-trending-non-alcoholic-drinks",
+      "blurb": "",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
-      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
-      "blurb": "Four people, one apartment, zero fear of colour or clutter — this is the warm, object-stuffed, every-wall-has-a-story energy you keep chasing, and it proves a home can be maximal without ever feeling messy.",
+      "title": "A Clinton Hill Brownstone with Chinese Inflections by Bespoke Only",
+      "url": "https://www.remodelista.com/posts/bespoke-only-clinton-hill-project-chinese-design-influence/",
+      "blurb": "It's 19th-century Shanghai smuggled into a Brooklyn brownstone — proof you can build heritage into a room as texture and mood instead of hanging it on the wall like a souvenir.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Takara House, Haji Lane",
-      "url": "https://hungrygowhere.com/food-news/takara-house-haji-lane/",
-      "blurb": "A blue-fronted vintage shop with a tiny patisserie hiding up the stairs — you'd go for the tart, stay two hours digging through the trinkets, and leave with three new project ideas and a roll of photobooth strips.",
+      "title": "Elijah Pies Joo Chiat (new flagship)",
+      "url": "https://ordinarypatrons.com/2026/09/13/elijah-pies-joo-chiat-review/",
+      "blurb": "A snow crab laksa pie is exactly the kind of heritage-meets-nonsense mashup you'd invent yourself, so go eat one in Joo Chiat before someone else claims the idea.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
