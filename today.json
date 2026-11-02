@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-01",
+  "generatedAt": "2026-11-02",
   "perWindow": {
     "window-1": {
-      "title": "Koalas to the Max",
-      "url": "https://www.koalastothemax.com/",
-      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
-      "previewImage": "assets/previews/window-1.webp",
-      "isWildcard": false
+      "title": "Cameron's World",
+      "url": "https://www.cameronsworld.net/",
+      "blurb": "An endless scroll of salvaged GeoCities GIFs and glitter dividers that feels like digging through a stranger's 1998 scrapbook — your DIY-typography, old-web heart is going to lose it.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "They Call Me… Colette: Beautiful Dreamer (NOWNESS)",
-      "url": "https://www.nowness.com/series/they-call-me/colette-beautiful-dreamer-nick-hampson",
-      "blurb": "",
-      "previewImage": "assets/previews/window-2.webp",
-      "isWildcard": false
+      "title": "Soon You Will Die: A History of the Culinary Selfie — Vittles",
+      "url": "https://vittles.substack.com/p/soon-you-will-die-a-history-of-the",
+      "blurb": "It's a whole cultural history of why we point cameras at our dinner — flash, grain, vanity, memory and all — and I think it'll hand you a shoot concept before you finish it.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
       "title": "25 Best Mocktail Recipes for 2026",
@@ -23,18 +23,18 @@
       "isWildcard": false
     },
     "window-4": {
-      "title": "A Clinton Hill Brownstone with Chinese Inflections by Bespoke Only",
-      "url": "https://www.remodelista.com/posts/bespoke-only-clinton-hill-project-chinese-design-influence/",
-      "blurb": "It's 19th-century Shanghai smuggled into a Brooklyn brownstone — proof you can build heritage into a room as texture and mood instead of hanging it on the wall like a souvenir.",
-      "previewImage": "assets/previews/window-4.webp",
-      "isWildcard": false
+      "title": "Home for the Holidays with Apartamento",
+      "url": "https://www.apartamentomagazine.com/stories/home-for-the-holidays-with-apartamento/",
+      "blurb": "Apartamento never styles a room so much as lets it accumulate, and this is a whole edit of odd lamps, lumpy ceramics and good books to build a space out of — which is basically your decorating philosophy already, just with better taste in clutter.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Elijah Pies Joo Chiat (new flagship)",
-      "url": "https://ordinarypatrons.com/2026/09/13/elijah-pies-joo-chiat-review/",
-      "blurb": "A snow crab laksa pie is exactly the kind of heritage-meets-nonsense mashup you'd invent yourself, so go eat one in Joo Chiat before someone else claims the idea.",
-      "previewImage": "assets/previews/window-5.webp",
-      "isWildcard": false
+      "title": "Three Bowls: Sabah Style Pork Chop Kolo Mee",
+      "url": "https://ieatishootipost.sg/three-bowls-sabah-style-pork-chop-kolo-mee/",
+      "blurb": "Dr Leslie just found a hawker doing Sabah-style kolo mee with a crispy pork chop on top — a noodle you can't get anywhere else here, which makes it exactly the kind of one-stall pilgrimage you'd turn into a whole Saturday.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-5.webp"
     }
   }
 }
