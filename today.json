@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-02",
+  "generatedAt": "2026-11-03",
   "perWindow": {
     "window-1": {
-      "title": "Cameron's World",
-      "url": "https://www.cameronsworld.net/",
-      "blurb": "An endless scroll of salvaged GeoCities GIFs and glitter dividers that feels like digging through a stranger's 1998 scrapbook — your DIY-typography, old-web heart is going to lose it.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "title": "ssh.place — Timelapses",
+      "url": "https://ssh.place/timelapse",
+      "blurb": "Watch a whole day of strangers quietly fighting and collaborating over one 200×60 pixel canvas replay as a GIF — it's a tiny communal folk-art archive made entirely in a terminal, and I think you'll want to go claim a corner of it.",
+      "previewImage": null,
+      "isWildcard": false
     },
     "window-2": {
-      "title": "Soon You Will Die: A History of the Culinary Selfie — Vittles",
-      "url": "https://vittles.substack.com/p/soon-you-will-die-a-history-of-the",
-      "blurb": "It's a whole cultural history of why we point cameras at our dinner — flash, grain, vanity, memory and all — and I think it'll hand you a shoot concept before you finish it.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-2.webp"
+      "title": "2026 is the Year of the Zine — Commonplace Zines",
+      "url": "https://commonplacezines.substack.com/p/2026-is-the-year-of-the-zine",
+      "blurb": "A tiny independent newsletter making the case that folded, stapled, gloriously imperfect paper is having its moment again — which feels like an engraved invitation for you to start a zine as your next side quest.",
+      "previewImage": "assets/previews/window-2.webp",
+      "isWildcard": false
     },
     "window-3": {
-      "title": "25 Best Mocktail Recipes for 2026",
-      "url": "https://thecraftpour.com/articles/mocktail-recipes-2026-trending-non-alcoholic-drinks",
-      "blurb": "",
+      "title": "Pandan Colada (Mocktail)",
+      "url": "https://mathieuteisseire.com/inspiration/recipes/pandan-colada/",
+      "blurb": "It's kaya toast and pandan chiffon cake reincarnated as a creamy green tiki drink — zero proof, absurdly photogenic, and exactly the kind of thing you'd make a whole persona shoot around.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Home for the Holidays with Apartamento",
-      "url": "https://www.apartamentomagazine.com/stories/home-for-the-holidays-with-apartamento/",
-      "blurb": "Apartamento never styles a room so much as lets it accumulate, and this is a whole edit of odd lamps, lumpy ceramics and good books to build a space out of — which is basically your decorating philosophy already, just with better taste in clutter.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-4.webp"
+      "title": "10 Ceramic Table Lamps from Contemporary Pottery Studios",
+      "url": "https://www.remodelista.com/posts/10-ceramic-table-lamps-from-contemporary-studio-potteries-trend-alert/",
+      "blurb": "One lumpy, hand-thrown ceramic lamp does more for a room than a whole furniture haul, and knowing you, you'll look at these and immediately start googling pottery classes so you can make your own.",
+      "previewImage": "assets/previews/window-4.webp",
+      "isWildcard": false
     },
     "window-5": {
-      "title": "Three Bowls: Sabah Style Pork Chop Kolo Mee",
-      "url": "https://ieatishootipost.sg/three-bowls-sabah-style-pork-chop-kolo-mee/",
-      "blurb": "Dr Leslie just found a hawker doing Sabah-style kolo mee with a crispy pork chop on top — a noodle you can't get anywhere else here, which makes it exactly the kind of one-stall pilgrimage you'd turn into a whole Saturday.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-5.webp"
+      "title": "Miura, Joo Chiat",
+      "url": "https://eatbook.sg/miura-joo-chiat/",
+      "blurb": "You have to walk through a three-storey Joo Chiat shophouse full of independent labels before you find this tiny matcha-and-wagashi counter hiding at the back, which makes getting a daifuku feel like a small side quest you completed.",
+      "previewImage": "assets/previews/window-5.webp",
+      "isWildcard": false
     }
   }
 }
