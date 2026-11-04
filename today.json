@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-03",
+  "generatedAt": "2026-11-04",
   "perWindow": {
     "window-1": {
-      "title": "ssh.place — Timelapses",
-      "url": "https://ssh.place/timelapse",
-      "blurb": "Watch a whole day of strangers quietly fighting and collaborating over one 200×60 pixel canvas replay as a GIF — it's a tiny communal folk-art archive made entirely in a terminal, and I think you'll want to go claim a corner of it.",
-      "previewImage": null,
+      "title": "WigglyPaint",
+      "url": "https://www.wigglypaint.art/",
+      "blurb": "Every line you draw squirms and squeaks like it's alive, and you can export the whole wobbly mess as a GIF — it's the most charmingly imperfect drawing tool on the internet and I fully expect to see it in your next persona shoot's title cards.",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "2026 is the Year of the Zine — Commonplace Zines",
-      "url": "https://commonplacezines.substack.com/p/2026-is-the-year-of-the-zine",
-      "blurb": "A tiny independent newsletter making the case that folded, stapled, gloriously imperfect paper is having its moment again — which feels like an engraved invitation for you to start a zine as your next side quest.",
+      "title": "Colossal",
+      "url": "https://www.thisiscolossal.com",
+      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Pandan Colada (Mocktail)",
-      "url": "https://mathieuteisseire.com/inspiration/recipes/pandan-colada/",
-      "blurb": "It's kaya toast and pandan chiffon cake reincarnated as a creamy green tiki drink — zero proof, absurdly photogenic, and exactly the kind of thing you'd make a whole persona shoot around.",
+      "title": "Negroni Mocktail",
+      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/negroni-mocktail-17018703",
+      "blurb": "",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "10 Ceramic Table Lamps from Contemporary Pottery Studios",
-      "url": "https://www.remodelista.com/posts/10-ceramic-table-lamps-from-contemporary-studio-potteries-trend-alert/",
-      "blurb": "One lumpy, hand-thrown ceramic lamp does more for a room than a whole furniture haul, and knowing you, you'll look at these and immediately start googling pottery classes so you can make your own.",
+      "title": "A Clinton Hill Brownstone with Chinese Inflections by Bespoke Only",
+      "url": "https://www.remodelista.com/posts/bespoke-only-clinton-hill-project-chinese-design-influence/",
+      "blurb": "It's 19th-century Shanghai smuggled into a Brooklyn brownstone — proof you can build heritage into a room as texture and mood instead of hanging it on the wall like a souvenir.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Miura, Joo Chiat",
-      "url": "https://eatbook.sg/miura-joo-chiat/",
-      "blurb": "You have to walk through a three-storey Joo Chiat shophouse full of independent labels before you find this tiny matcha-and-wagashi counter hiding at the back, which makes getting a daifuku feel like a small side quest you completed.",
+      "title": "Visitors, Tanjong Pagar Plaza",
+      "url": "https://thehoneycombers.com/singapore/new-cafes-singapore/",
+      "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
