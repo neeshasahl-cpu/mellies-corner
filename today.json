@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-04",
+  "generatedAt": "2026-11-05",
   "perWindow": {
     "window-1": {
-      "title": "WigglyPaint",
-      "url": "https://www.wigglypaint.art/",
-      "blurb": "Every line you draw squirms and squeaks like it's alive, and you can export the whole wobbly mess as a GIF — it's the most charmingly imperfect drawing tool on the internet and I fully expect to see it in your next persona shoot's title cards.",
+      "title": "Patatap: Mellow Waves",
+      "url": "https://cornelius.patatap.com/",
+      "blurb": "",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Colossal",
-      "url": "https://www.thisiscolossal.com",
-      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
+      "title": "Cool Friends: Ellen Van Dusen (Dusen Dusen)",
+      "url": "https://www.coolstuff.nyc/cool-friends/ellen-van-dusen",
+      "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Negroni Mocktail",
-      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/negroni-mocktail-17018703",
-      "blurb": "",
+      "title": "Salted Plum Soda (and a Salted Plum Americano)",
+      "url": "https://messyvegancook.com/salted-plum-soda-recipe-salted-plum-americano-coffee/",
+      "blurb": "It turns those jarred salted plums from the Asian provision shop into a fizzy, salty-sour soda — and then dares you to pour it over espresso, which is exactly the kind of committed-to-the-bit move you'd pull at your own dinner party.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "A Clinton Hill Brownstone with Chinese Inflections by Bespoke Only",
-      "url": "https://www.remodelista.com/posts/bespoke-only-clinton-hill-project-chinese-design-influence/",
-      "blurb": "It's 19th-century Shanghai smuggled into a Brooklyn brownstone — proof you can build heritage into a room as texture and mood instead of hanging it on the wall like a souvenir.",
+      "title": "Sight Unseen: Inside a Vintage-Filled NYC Home",
+      "url": "https://www.sightunseen.com/2025/12/enter-our-12k-furniture-and-lighting-giveaway-tour-a-vintage-filled-nyc-home-and-more/",
+      "blurb": "",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Visitors, Tanjong Pagar Plaza",
-      "url": "https://thehoneycombers.com/singapore/new-cafes-singapore/",
+      "title": "Heap Seng Leong — Kaya Butter Toast & Kopi Gu You",
+      "url": "https://www.burpple.com/dishes/1053601/kaya-butter-toast",
       "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
