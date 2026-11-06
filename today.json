@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-05",
+  "generatedAt": "2026-11-06",
   "perWindow": {
     "window-1": {
-      "title": "Patatap: Mellow Waves",
-      "url": "https://cornelius.patatap.com/",
-      "blurb": "",
-      "previewImage": "assets/previews/window-1-og.webp",
+      "title": "Every Place at Once",
+      "url": "https://everynoise.com/everyplace.cgi",
+      "blurb": "It's the Every Noise map rebuilt as cities instead of genres — click Singapore and find out which places on earth are listening like you are, then fall down a rabbit hole into someone else's hometown radio.",
+      "previewImage": "assets/previews/window-1.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Cool Friends: Ellen Van Dusen (Dusen Dusen)",
-      "url": "https://www.coolstuff.nyc/cool-friends/ellen-van-dusen",
+      "title": "type.today journal — August 2026 digest",
+      "url": "https://type.today/en/journal/aug26",
       "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Salted Plum Soda (and a Salted Plum Americano)",
-      "url": "https://messyvegancook.com/salted-plum-soda-recipe-salted-plum-americano-coffee/",
-      "blurb": "It turns those jarred salted plums from the Asian provision shop into a fizzy, salty-sour soda — and then dares you to pour it over espresso, which is exactly the kind of committed-to-the-bit move you'd pull at your own dinner party.",
+      "title": "Pandan Colada (Mocktail)",
+      "url": "https://mathieuteisseire.com/inspiration/recipes/pandan-colada/",
+      "blurb": "It's kaya toast and pandan chiffon cake reincarnated as a creamy green tiki drink — zero proof, absurdly photogenic, and exactly the kind of thing you'd make a whole persona shoot around.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Sight Unseen: Inside a Vintage-Filled NYC Home",
-      "url": "https://www.sightunseen.com/2025/12/enter-our-12k-furniture-and-lighting-giveaway-tour-a-vintage-filled-nyc-home-and-more/",
-      "blurb": "",
+      "title": "A Clinton Hill Brownstone with Chinese Inflections by Bespoke Only",
+      "url": "https://www.remodelista.com/posts/bespoke-only-clinton-hill-project-chinese-design-influence/",
+      "blurb": "It's 19th-century Shanghai smuggled into a Brooklyn brownstone — proof you can build heritage into a room as texture and mood instead of hanging it on the wall like a souvenir.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Heap Seng Leong — Kaya Butter Toast & Kopi Gu You",
-      "url": "https://www.burpple.com/dishes/1053601/kaya-butter-toast",
+      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
+      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
       "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
