@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-06",
+  "generatedAt": "2026-11-07",
   "perWindow": {
     "window-1": {
-      "title": "Every Place at Once",
-      "url": "https://everynoise.com/everyplace.cgi",
-      "blurb": "It's the Every Noise map rebuilt as cities instead of genres — click Singapore and find out which places on earth are listening like you are, then fall down a rabbit hole into someone else's hometown radio.",
-      "previewImage": "assets/previews/window-1.webp",
+      "title": "Poolsuite FM",
+      "url": "https://poolsuite.net",
+      "blurb": "It's an entire sun-bleached 90s computer desktop that plays endless summer radio — the kind of committed-to-the-bit web world you'll want to steal interface ideas from while it scores your next side quest.",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "type.today journal — August 2026 digest",
-      "url": "https://type.today/en/journal/aug26",
-      "blurb": "",
+      "title": "Tedium: The Dull Side of the Internet",
+      "url": "https://tedium.co",
+      "blurb": "It goes absurdly deep on the unglamorous stuff — dead software, forgotten gadgets, weird old fonts — and every issue reads like a side quest someone left out for you to pick up.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Pandan Colada (Mocktail)",
-      "url": "https://mathieuteisseire.com/inspiration/recipes/pandan-colada/",
-      "blurb": "It's kaya toast and pandan chiffon cake reincarnated as a creamy green tiki drink — zero proof, absurdly photogenic, and exactly the kind of thing you'd make a whole persona shoot around.",
+      "title": "Spiced Tamarind Mocktail",
+      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
+      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "A Clinton Hill Brownstone with Chinese Inflections by Bespoke Only",
-      "url": "https://www.remodelista.com/posts/bespoke-only-clinton-hill-project-chinese-design-influence/",
-      "blurb": "It's 19th-century Shanghai smuggled into a Brooklyn brownstone — proof you can build heritage into a room as texture and mood instead of hanging it on the wall like a souvenir.",
+      "title": "An Epic Use of Glass Blocks (Sight Unseen)",
+      "url": "https://www.sightunseen.com/2025/09/a-new-nyc-vintage-source-an-epic-use-of-glass-blocks-brutalist-furniture-in-london-and-more/",
+      "blurb": "",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
-      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
-      "blurb": "",
+      "title": "Behind Clay — the hidden room behind the pizza oven",
+      "url": "https://thesmartlocal.com/read/restaurants-cafes-2026/",
+      "blurb": "There's no sign and no door — you walk straight through a riverside pizzeria, past the wood-fired oven, into a secret 52-seat lounge serving mala pork belly out of a paper bag and foie gras pizza with tamarind, which feels like a place built specifically for you to show up overdressed and make an entire night of it.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
