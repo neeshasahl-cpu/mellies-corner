@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-07",
+  "generatedAt": "2026-11-08",
   "perWindow": {
     "window-1": {
-      "title": "Poolsuite FM",
-      "url": "https://poolsuite.net",
-      "blurb": "It's an entire sun-bleached 90s computer desktop that plays endless summer radio — the kind of committed-to-the-bit web world you'll want to steal interface ideas from while it scores your next side quest.",
+      "title": "WigglyPaint",
+      "url": "https://www.wigglypaint.art/",
+      "blurb": "Every line you draw squirms and squeaks like it's alive, and you can export the whole wobbly mess as a GIF — it's the most charmingly imperfect drawing tool on the internet and I fully expect to see it in your next persona shoot's title cards.",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Tedium: The Dull Side of the Internet",
-      "url": "https://tedium.co",
-      "blurb": "It goes absurdly deep on the unglamorous stuff — dead software, forgotten gadgets, weird old fonts — and every issue reads like a side quest someone left out for you to pick up.",
+      "title": "Strictly Sweden — the strict list",
+      "url": "https://strictlythegoodstuff.substack.com/p/strictly-sweden",
+      "blurb": "Denna curates like you do — obsessively specific, zero filler — and this fresh Sweden deep-dive is basically a side quest itinerary waiting for you to claim it.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Spiced Tamarind Mocktail",
-      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
-      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
+      "title": "Spicy Passion Fruit Mocktail (AKA \"Mockarita\")",
+      "url": "https://minimalistbaker.com/spicy-passion-fruit-mocktail/",
+      "blurb": "Four ingredients, but you get to char a jalapeño over open flame for smoky depth — a tiny bit of theatre for a drink that's tart, tropical, and named like it's in on the joke.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "An Epic Use of Glass Blocks (Sight Unseen)",
-      "url": "https://www.sightunseen.com/2025/09/a-new-nyc-vintage-source-an-epic-use-of-glass-blocks-brutalist-furniture-in-london-and-more/",
-      "blurb": "",
+      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
+      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
+      "blurb": "This is a rental absolutely crammed with color and collected junk-with-soul, and it'll give you permission to stop leaving empty walls and just hang the thing.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Behind Clay — the hidden room behind the pizza oven",
-      "url": "https://thesmartlocal.com/read/restaurants-cafes-2026/",
-      "blurb": "There's no sign and no door — you walk straight through a riverside pizzeria, past the wood-fired oven, into a secret 52-seat lounge serving mala pork belly out of a paper bag and foie gras pizza with tamarind, which feels like a place built specifically for you to show up overdressed and make an entire night of it.",
+      "title": "Bibik Violet, Temasek Shophouse",
+      "url": "https://www.aspirantsg.com/bibik-violet/",
+      "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
