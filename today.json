@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-08",
+  "generatedAt": "2026-11-09",
   "perWindow": {
     "window-1": {
-      "title": "WigglyPaint",
-      "url": "https://www.wigglypaint.art/",
-      "blurb": "Every line you draw squirms and squeaks like it's alive, and you can export the whole wobbly mess as a GIF — it's the most charmingly imperfect drawing tool on the internet and I fully expect to see it in your next persona shoot's title cards.",
-      "previewImage": "assets/previews/window-1-og.webp",
-      "isWildcard": false
+      "title": "Weavesilk",
+      "url": "https://weavesilk.com",
+      "blurb": "Drag your cursor and it blooms into mirrored glowing filaments — it's less a toy than an instrument, and you'll absolutely end up screenshotting one and building a whole poster around it.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Strictly Sweden — the strict list",
-      "url": "https://strictlythegoodstuff.substack.com/p/strictly-sweden",
-      "blurb": "Denna curates like you do — obsessively specific, zero filler — and this fresh Sweden deep-dive is basically a side quest itinerary waiting for you to claim it.",
-      "previewImage": "assets/previews/window-2.webp",
-      "isWildcard": false
+      "title": "One Photographer's Decade of Dressing up as Dolly Parton",
+      "url": "https://www.anothermag.com/art-photography/14782/dolly-parton-alice-hawkin-interview-dear-dolly-baron",
+      "blurb": "Ten years of one woman fully becoming Dolly — it's the most committed-to-the-bit persona project I've seen in ages, and it's basically your side-quest philosophy with a wig and a rhinestone budget.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
-      "title": "Spicy Passion Fruit Mocktail (AKA \"Mockarita\")",
-      "url": "https://minimalistbaker.com/spicy-passion-fruit-mocktail/",
-      "blurb": "Four ingredients, but you get to char a jalapeño over open flame for smoky depth — a tiny bit of theatre for a drink that's tart, tropical, and named like it's in on the joke.",
-      "previewImage": "assets/previews/window-3.webp",
-      "isWildcard": false
+      "title": "Sour Plum Drink (Suan Mei Tang – 酸梅汤)",
+      "url": "https://thewoksoflife.com/sour-plum-drink-suan-mei-tang/",
+      "blurb": "A smoky, deep-magenta grandma-era cooler you simmer for an hour instead of shaking — heritage in a glass, and it photographs like a dream on film.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-3.webp"
     },
     "window-4": {
-      "title": "Tour a Family of Four's Maximalist East Harlem Apartment",
-      "url": "https://www.apartmenttherapy.com/maximalist-east-harlem-apartment-37537104",
-      "blurb": "This is a rental absolutely crammed with color and collected junk-with-soul, and it'll give you permission to stop leaving empty walls and just hang the thing.",
-      "previewImage": "assets/previews/window-4.webp",
-      "isWildcard": false
+      "title": "The Vintage Kitchen in This NYC Apartment Is Renter-Friendly",
+      "url": "https://www.apartmenttherapy.com/accent-walls-nyc-apartment-tour-37541786",
+      "blurb": "It's a rental made to look like it has decades of history behind it using nothing but paint and good junk-shop instincts — basically a side quest with your name on it.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-4.webp"
     },
     "window-5": {
-      "title": "Bibik Violet, Temasek Shophouse",
-      "url": "https://www.aspirantsg.com/bibik-violet/",
-      "blurb": "",
-      "previewImage": "assets/previews/window-5.webp",
-      "isWildcard": false
+      "title": "Wanglee Cafe, Toa Payoh",
+      "url": "https://danielfooddiary.com/2025/08/13/wangleecafe/",
+      "blurb": "Three brothers from a zi char family running a retro air-con kopitiam of kaya toast and chilli pan mee — it's heritage nostalgia you can actually eat, and the whole place is begging to be shot on 35mm.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-5.webp"
     }
   }
 }
