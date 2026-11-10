@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-09",
+  "generatedAt": "2026-11-10",
   "perWindow": {
     "window-1": {
-      "title": "Weavesilk",
-      "url": "https://weavesilk.com",
-      "blurb": "Drag your cursor and it blooms into mirrored glowing filaments — it's less a toy than an instrument, and you'll absolutely end up screenshotting one and building a whole poster around it.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-1-og.webp"
+      "title": "Anna's Secret Garden",
+      "url": "https://annasgarden.vercel.app/",
+      "blurb": "",
+      "previewImage": "assets/previews/window-1-og.webp",
+      "isWildcard": false
     },
     "window-2": {
-      "title": "One Photographer's Decade of Dressing up as Dolly Parton",
-      "url": "https://www.anothermag.com/art-photography/14782/dolly-parton-alice-hawkin-interview-dear-dolly-baron",
-      "blurb": "Ten years of one woman fully becoming Dolly — it's the most committed-to-the-bit persona project I've seen in ages, and it's basically your side-quest philosophy with a wig and a rhinestone budget.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-2.webp"
+      "title": "Cool but not “cool cool” — Kiko Mizuhara on Blackbird Spyplane",
+      "url": "https://www.blackbirdspyplane.com/p/cool-but-not-cool-cool-kiko-mizuhara-interview",
+      "blurb": "Spyplane at its goofiest and most obsessive, interviewing a Tokyo shapeshifter who acts, models, and designs — basically your side-quest energy in interview form.",
+      "previewImage": "assets/previews/window-2.webp",
+      "isWildcard": false
     },
     "window-3": {
-      "title": "Sour Plum Drink (Suan Mei Tang – 酸梅汤)",
-      "url": "https://thewoksoflife.com/sour-plum-drink-suan-mei-tang/",
-      "blurb": "A smoky, deep-magenta grandma-era cooler you simmer for an hour instead of shaking — heritage in a glass, and it photographs like a dream on film.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-3.webp"
+      "title": "Sparkling Hibiscus Sangria Mocktail",
+      "url": "https://mindfulmocktail.com/sparkling-hibiscus-sangria-mocktail/",
+      "blurb": "It's a whole magenta pitcher of hibiscus and floating fruit — basically built to be batched for your people, photographed on 35mm, and refilled twice before anyone notices there's no booze in it.",
+      "previewImage": "assets/previews/window-3.webp",
+      "isWildcard": false
     },
     "window-4": {
-      "title": "The Vintage Kitchen in This NYC Apartment Is Renter-Friendly",
-      "url": "https://www.apartmenttherapy.com/accent-walls-nyc-apartment-tour-37541786",
-      "blurb": "It's a rental made to look like it has decades of history behind it using nothing but paint and good junk-shop instincts — basically a side quest with your name on it.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-4.webp"
+      "title": "Barcelona Remodel by Conti Cert: '70s Style Redux",
+      "url": "https://www.remodelista.com/posts/conti-cert-mitre-project-barcelona/",
+      "blurb": "You already know how to commit to a persona, so here's a whole apartment doing it — '70s Barcelona reworked with real warmth instead of costume-y nostalgia, and about five ideas in here you could steal for one corner of your place this weekend.",
+      "previewImage": "assets/previews/window-4.webp",
+      "isWildcard": false
     },
     "window-5": {
-      "title": "Wanglee Cafe, Toa Payoh",
-      "url": "https://danielfooddiary.com/2025/08/13/wangleecafe/",
-      "blurb": "Three brothers from a zi char family running a retro air-con kopitiam of kaya toast and chilli pan mee — it's heritage nostalgia you can actually eat, and the whole place is begging to be shot on 35mm.",
-      "isWildcard": false,
-      "previewImage": "assets/previews/window-5.webp"
+      "title": "MOZmoji 陌迹, Chinatown",
+      "url": "https://confirmgood.com/post/new-cafe-opening-mozmoji/",
+      "blurb": "You climb a staircase off Temple Street into a shophouse ceramics gallery where you get to pick your own handmade cup — each one modelled after a season or festival in the Chinese calendar — and then just sit there with cotton cheesecake and black sesame coffee like you live there.",
+      "previewImage": "assets/previews/window-5.webp",
+      "isWildcard": false
     }
   }
 }
