@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-10",
+  "generatedAt": "2026-11-11",
   "perWindow": {
     "window-1": {
-      "title": "Anna's Secret Garden",
-      "url": "https://annasgarden.vercel.app/",
-      "blurb": "",
-      "previewImage": "assets/previews/window-1-og.webp",
+      "title": "Koalas to the Max",
+      "url": "https://www.koalastothemax.com/",
+      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
+      "previewImage": "assets/previews/window-1.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Cool but not “cool cool” — Kiko Mizuhara on Blackbird Spyplane",
-      "url": "https://www.blackbirdspyplane.com/p/cool-but-not-cool-cool-kiko-mizuhara-interview",
-      "blurb": "Spyplane at its goofiest and most obsessive, interviewing a Tokyo shapeshifter who acts, models, and designs — basically your side-quest energy in interview form.",
+      "title": "Tedium: The Dull Side of the Internet",
+      "url": "https://tedium.co",
+      "blurb": "It goes absurdly deep on the unglamorous stuff — dead software, forgotten gadgets, weird old fonts — and every issue reads like a side quest someone left out for you to pick up.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Sparkling Hibiscus Sangria Mocktail",
-      "url": "https://mindfulmocktail.com/sparkling-hibiscus-sangria-mocktail/",
-      "blurb": "It's a whole magenta pitcher of hibiscus and floating fruit — basically built to be batched for your people, photographed on 35mm, and refilled twice before anyone notices there's no booze in it.",
+      "title": "Carrot Shrub (Nonalcoholic)",
+      "url": "https://punchdrink.com/recipes/carrot-shrub/",
+      "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Barcelona Remodel by Conti Cert: '70s Style Redux",
-      "url": "https://www.remodelista.com/posts/conti-cert-mitre-project-barcelona/",
-      "blurb": "You already know how to commit to a persona, so here's a whole apartment doing it — '70s Barcelona reworked with real warmth instead of costume-y nostalgia, and about five ideas in here you could steal for one corner of your place this weekend.",
+      "title": "The Modern House — Journal",
+      "url": "https://www.themodernhouse.com/journal/",
+      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "MOZmoji 陌迹, Chinatown",
-      "url": "https://confirmgood.com/post/new-cafe-opening-mozmoji/",
-      "blurb": "You climb a staircase off Temple Street into a shophouse ceramics gallery where you get to pick your own handmade cup — each one modelled after a season or festival in the Chinese calendar — and then just sit there with cotton cheesecake and black sesame coffee like you live there.",
+      "title": "Cookboys, I12 Katong",
+      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
+      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
