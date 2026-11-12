@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-11",
+  "generatedAt": "2026-11-12",
   "perWindow": {
     "window-1": {
-      "title": "Koalas to the Max",
-      "url": "https://www.koalastothemax.com/",
-      "blurb": "Drag to split one big dot into thousands until a hidden picture emerges — and then feed it your own image so your friends have to slowly unpick a photo of your grandma, dot by dot.",
-      "previewImage": "assets/previews/window-1.webp",
+      "title": "laurel.world — Laurel Schwulst's site",
+      "url": "https://laurelschwulst.com",
+      "blurb": "It's less a portfolio than a soft cream-colored room you wander through, where every project links sideways to another by year, medium, or friend — the kind of hand-made web object that'll make you want to rebuild your own site by midnight.",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Tedium: The Dull Side of the Internet",
-      "url": "https://tedium.co",
-      "blurb": "It goes absurdly deep on the unglamorous stuff — dead software, forgotten gadgets, weird old fonts — and every issue reads like a side quest someone left out for you to pick up.",
+      "title": "Cool but not “cool cool” — Kiko Mizuhara on Blackbird Spyplane",
+      "url": "https://www.blackbirdspyplane.com/p/cool-but-not-cool-cool-kiko-mizuhara-interview",
+      "blurb": "Spyplane at its goofiest and most obsessive, interviewing a Tokyo shapeshifter who acts, models, and designs — basically your side-quest energy in interview form.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Carrot Shrub (Nonalcoholic)",
-      "url": "https://punchdrink.com/recipes/carrot-shrub/",
-      "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
+      "title": "Spiced Tamarind Mocktail",
+      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
+      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "The Modern House — Journal",
-      "url": "https://www.themodernhouse.com/journal/",
-      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
+      "title": "Ignant — Interiors & Home Visits",
+      "url": "https://www.ignant.com/category/interiors/",
+      "blurb": "It's a rolling feed of real people's homes — the kind stacked with books, odd ceramics and lamps with a story — and you'll want to rearrange your whole living room within ten minutes of scrolling.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Cookboys, I12 Katong",
-      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
-      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
+      "title": "Pout Rooftop Cafe, South Bridge Road",
+      "url": "https://therantingpanda.com/2025/11/15/food-review-pout-rooftop-cafe-at-south-bridge-road-hidden-cafe-with-gorgeous-view-of-singapores-skyline/",
+      "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
