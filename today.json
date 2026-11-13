@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-12",
+  "generatedAt": "2026-11-13",
   "perWindow": {
     "window-1": {
-      "title": "laurel.world — Laurel Schwulst's site",
-      "url": "https://laurelschwulst.com",
-      "blurb": "It's less a portfolio than a soft cream-colored room you wander through, where every project links sideways to another by year, medium, or friend — the kind of hand-made web object that'll make you want to rebuild your own site by midnight.",
-      "previewImage": "assets/previews/window-1-og.webp",
+      "title": "Max Bittker's Projects",
+      "url": "https://maxbittker.com/projects/",
+      "blurb": "This is the whole toybox of the guy who made river.maxbittker.com — falling-sand worlds, generative gardens, tiny strange tools — and I think you'll fall down it for an hour and come out with three new side quests.",
+      "previewImage": "assets/previews/window-1.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Cool but not “cool cool” — Kiko Mizuhara on Blackbird Spyplane",
-      "url": "https://www.blackbirdspyplane.com/p/cool-but-not-cool-cool-kiko-mizuhara-interview",
-      "blurb": "Spyplane at its goofiest and most obsessive, interviewing a Tokyo shapeshifter who acts, models, and designs — basically your side-quest energy in interview form.",
+      "title": "Type of Culture",
+      "url": "https://keyavadgama.substack.com/p/a-reintroduction-and-a-rebrand",
+      "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Spiced Tamarind Mocktail",
-      "url": "https://www.cookwithmanali.com/spiced-tamarind-mocktail/",
-      "blurb": "Sour, salty, gingery chaat energy in a glass — it's the rare mocktail that tastes like a snack stall instead of a juice bar, and the kala namak makes it weirdly addictive.",
+      "title": "Chrysanthemum Osmanthus Citrus Sparkler",
+      "url": "https://www.teatherapy.com.sg/blogs/wellness/chrysanthemum-osmanthus-citrus-sparkler-a-floral-mocktail-for-gut-health-glow",
+      "blurb": "It's your grandma's dried-flower tea jar turned into a golden, fizzy spritz — heritage flavors you already know by heart, dressed up enough to photograph.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Ignant — Interiors & Home Visits",
-      "url": "https://www.ignant.com/category/interiors/",
-      "blurb": "It's a rolling feed of real people's homes — the kind stacked with books, odd ceramics and lamps with a story — and you'll want to rearrange your whole living room within ten minutes of scrolling.",
+      "title": "The Modern House — Journal",
+      "url": "https://www.themodernhouse.com/journal/",
+      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Pout Rooftop Cafe, South Bridge Road",
-      "url": "https://therantingpanda.com/2025/11/15/food-review-pout-rooftop-cafe-at-south-bridge-road-hidden-cafe-with-gorgeous-view-of-singapores-skyline/",
-      "blurb": "",
+      "title": "Mad Roaster's Slow Bar, Enabling Village",
+      "url": "https://nom.sg/blogs/news/hidden-cafes-singapore",
+      "blurb": "A slow bar buried inside Enabling Village, run by a team that hires refugees and pours coffee like it's a ritual — exactly the kind of place you'd sit in for three hours, sketch something, and end up befriending the barista.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
