@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-13",
+  "generatedAt": "2026-11-14",
   "perWindow": {
     "window-1": {
-      "title": "Max Bittker's Projects",
-      "url": "https://maxbittker.com/projects/",
-      "blurb": "This is the whole toybox of the guy who made river.maxbittker.com — falling-sand worlds, generative gardens, tiny strange tools — and I think you'll fall down it for an hour and come out with three new side quests.",
+      "title": "The Deep Sea",
+      "url": "https://neal.fun/deep-sea/",
+      "blurb": "Wildcard detour — scroll straight down eleven kilometres into the black and watch the light die out as glowing, impossible creatures drift past at their real depths; it's the most patient, eerie, beautiful thing on the web and I guarantee you'll come out the other end wanting to build an anglerfish costume.",
       "previewImage": "assets/previews/window-1.webp",
-      "isWildcard": false
+      "isWildcard": true
     },
     "window-2": {
-      "title": "Type of Culture",
-      "url": "https://keyavadgama.substack.com/p/a-reintroduction-and-a-rebrand",
-      "blurb": "",
+      "title": "Naive Weekly",
+      "url": "https://www.naiveweekly.com/",
+      "blurb": "It's a weekly letter from the quiet corners of the internet — hand-made sites, net art, digital gardens — basically the reading version of every web toy you've ever fallen down a hole with.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Chrysanthemum Osmanthus Citrus Sparkler",
-      "url": "https://www.teatherapy.com.sg/blogs/wellness/chrysanthemum-osmanthus-citrus-sparkler-a-floral-mocktail-for-gut-health-glow",
-      "blurb": "It's your grandma's dried-flower tea jar turned into a golden, fizzy spritz — heritage flavors you already know by heart, dressed up enough to photograph.",
+      "title": "Carrot Shrub (Nonalcoholic)",
+      "url": "https://punchdrink.com/recipes/carrot-shrub/",
+      "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
@@ -30,9 +30,9 @@
       "isWildcard": false
     },
     "window-5": {
-      "title": "Mad Roaster's Slow Bar, Enabling Village",
-      "url": "https://nom.sg/blogs/news/hidden-cafes-singapore",
-      "blurb": "A slow bar buried inside Enabling Village, run by a team that hires refugees and pours coffee like it's a ritual — exactly the kind of place you'd sit in for three hours, sketch something, and end up befriending the barista.",
+      "title": "Heap Seng Leong — Kaya Butter Toast & Kopi Gu You",
+      "url": "https://www.burpple.com/dishes/1053601/kaya-butter-toast",
+      "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
