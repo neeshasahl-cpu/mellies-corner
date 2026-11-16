@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-15",
+  "generatedAt": "2026-11-16",
   "perWindow": {
     "window-1": {
-      "title": "Coffee Receipt Stories",
-      "url": "https://coffeereceiptstories.com",
-      "blurb": "Tiny illustrated stories drawn on the backs of real coffee receipts by Odding — pure analog, hand-made scrapbook charm, exactly the kind of quiet find you'd want to click through one receipt at a time.",
-      "previewImage": "assets/previews/window-1-og.webp",
-      "isWildcard": false
+      "title": "A Map Of Us (AMOU)",
+      "url": "https://amapof.us/",
+      "blurb": "A living world map where strangers pin their most personal memories — start by eavesdropping on someone's Lisbon street corner, then drop your own pins for your grandmother's address and every side quest you've lived, and watch it quietly turn into the ancestry archive you keep meaning to build.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-1-og.webp"
     },
     "window-2": {
-      "title": "Announcing the 2026 LensCulture Art Photography Award Winners",
-      "url": "https://www.lensculture.com/articles/laura-sackett-announcing-the-2026-lensculture-art-photography-award-winners",
-      "blurb": "A fresh dump of photographers nobody's told you about yet — staged worlds, strange grain, invented selves — basically a scroll designed to give you your next shoot idea before you finish it.",
-      "previewImage": "assets/previews/window-2.webp",
-      "isWildcard": false
+      "title": "Dirt — internet culture newsletter",
+      "url": "https://dirt.fyi",
+      "blurb": "It's the newsletter for people who take memes, movies and fandom as seriously as you do — short, sharp dispatches from writers who are online in the good way, and you'll be screenshotting lines from it into your notes app by the second paragraph.",
+      "isWildcard": false,
+      "previewImage": "assets/previews/window-2.webp"
     },
     "window-3": {
       "title": "Doctor Pepo's Tonic (Zero-Proof)",
