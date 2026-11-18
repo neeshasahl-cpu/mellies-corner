@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-17",
+  "generatedAt": "2026-11-18",
   "perWindow": {
     "window-1": {
-      "title": "Artcontext",
-      "url": "https://www.artcontext.org/en/",
-      "blurb": "It's one artist's decades-deep warren of collaborative browser drawing tools and net experiments, and you can actually leave your own marks inside it — old-web, zero polish, exactly your kind of rabbit hole.",
+      "title": "Internet Artifacts",
+      "url": "https://neal.fun/internet-artifacts/",
+      "blurb": "It's a scrollable museum of the early internet where you can actually poke the floppy disks and ICQ pings — pure Y2K-nostalgia raw material for your next persona shoot.",
       "previewImage": "assets/previews/window-1.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Announcing the 2026 LensCulture Art Photography Award Winners",
-      "url": "https://www.lensculture.com/articles/laura-sackett-announcing-the-2026-lensculture-art-photography-award-winners",
-      "blurb": "A fresh dump of photographers nobody's told you about yet — staged worlds, strange grain, invented selves — basically a scroll designed to give you your next shoot idea before you finish it.",
+      "title": "Web Curios",
+      "url": "https://www.webcurios.co.uk/",
+      "blurb": "It's one guy, every week, dragging back armfuls of the weirdest and most wonderful things on the internet with running commentary that's funnier than it has any right to be — pure side-quest fuel for you.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Cucumber Basil & Citrus Mocktail",
-      "url": "https://camillestyles.com/food/cucumber-basil-citrus-mocktail/",
-      "blurb": "You make your own basil syrup and pack the glass with hand-cut cucumber matchsticks — it's less a drink than a tiny green installation, and exactly the kind of fussy-on-purpose hosting move you'd commit to fully.",
+      "title": "Non-Alcoholic Old-Fashioned Mocktail",
+      "url": "https://feastandwest.com/old-fashioned-mocktail/",
+      "blurb": "",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Earthy, Layered Interiors in a Notting Hill Apartment",
-      "url": "https://www.thenordroom.com/earthy-layered-interiors-notting-hill-apartment/",
-      "blurb": "This one's a masterclass in making a room feel warm through texture alone — clay tones, worn textiles, soft pools of lamplight — and I think it'd be a dream reference for that lived-in corner you keep almost building.",
+      "title": "Freunde von Freunden — Home Visits",
+      "url": "https://www.freundevonfreunden.com/",
+      "blurb": "It's the nosy-friend archive of creatives' actual apartments — unstyled shelves, thrifted lamps, projects mid-sprawl — and it'll convince you that a room full of your own side-quest evidence beats any showroom.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
-      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
-      "blurb": "",
+      "title": "Takara House, Haji Lane",
+      "url": "https://hungrygowhere.com/food-news/takara-house-haji-lane/",
+      "blurb": "A blue-fronted vintage shop with a tiny patisserie hiding up the stairs — you'd go for the tart, stay two hours digging through the trinkets, and leave with three new project ideas and a roll of photobooth strips.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
