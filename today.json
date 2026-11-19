@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-18",
+  "generatedAt": "2026-11-19",
   "perWindow": {
     "window-1": {
-      "title": "Internet Artifacts",
-      "url": "https://neal.fun/internet-artifacts/",
-      "blurb": "It's a scrollable museum of the early internet where you can actually poke the floppy disks and ICQ pings — pure Y2K-nostalgia raw material for your next persona shoot.",
+      "title": "WikiRoulette",
+      "url": "https://wikiroulette.co/",
+      "blurb": "",
       "previewImage": "assets/previews/window-1.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Web Curios",
-      "url": "https://www.webcurios.co.uk/",
-      "blurb": "It's one guy, every week, dragging back armfuls of the weirdest and most wonderful things on the internet with running commentary that's funnier than it has any right to be — pure side-quest fuel for you.",
+      "title": "Colossal",
+      "url": "https://www.thisiscolossal.com",
+      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Non-Alcoholic Old-Fashioned Mocktail",
-      "url": "https://feastandwest.com/old-fashioned-mocktail/",
+      "title": "Mad World (Nonalcoholic)",
+      "url": "https://punchdrink.com/recipes/mad-world/",
       "blurb": "",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Freunde von Freunden — Home Visits",
-      "url": "https://www.freundevonfreunden.com/",
-      "blurb": "It's the nosy-friend archive of creatives' actual apartments — unstyled shelves, thrifted lamps, projects mid-sprawl — and it'll convince you that a room full of your own side-quest evidence beats any showroom.",
+      "title": "The Modern House — Journal",
+      "url": "https://www.themodernhouse.com/journal/",
+      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Takara House, Haji Lane",
-      "url": "https://hungrygowhere.com/food-news/takara-house-haji-lane/",
-      "blurb": "A blue-fronted vintage shop with a tiny patisserie hiding up the stairs — you'd go for the tart, stay two hours digging through the trinkets, and leave with three new project ideas and a roll of photobooth strips.",
+      "title": "Labyrinth — Asia's 50 Best 2026, No. 40",
+      "url": "https://www.theworlds50best.com/asia/en/the-list/Labyrinth.html",
+      "blurb": "It's your whole heritage-meets-remix obsession plated up — chai tao kuay and chilli crab reimagined by a chef who refuses to serve anything that didn't grow here, and exactly the kind of place worth inventing an occasion for.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
