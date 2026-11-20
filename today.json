@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-19",
+  "generatedAt": "2026-11-20",
   "perWindow": {
     "window-1": {
-      "title": "WikiRoulette",
-      "url": "https://wikiroulette.co/",
-      "blurb": "",
+      "title": "Piano Keyboard 🎹 — dweet d/35177 by dee-gomma",
+      "url": "https://www.dwitter.net/d/35177",
+      "blurb": "Someone built a whole animated piano in 140 characters of code, and there's a remix button right there — which means you're about six minutes away from a new side quest.",
       "previewImage": "assets/previews/window-1.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Colossal",
-      "url": "https://www.thisiscolossal.com",
-      "blurb": "It's a daily drip of people who went way too far on a handmade idea — thread portraits, stop-motion obsessives, clay worlds — and you'll come away with three new side quests before lunch.",
+      "title": "Announcing the 2026 LensCulture Art Photography Award Winners",
+      "url": "https://www.lensculture.com/articles/laura-sackett-announcing-the-2026-lensculture-art-photography-award-winners",
+      "blurb": "A fresh dump of photographers nobody's told you about yet — staged worlds, strange grain, invented selves — basically a scroll designed to give you your next shoot idea before you finish it.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Mad World (Nonalcoholic)",
-      "url": "https://punchdrink.com/recipes/mad-world/",
-      "blurb": "",
+      "title": "Sparkling Hibiscus Sangria Mocktail",
+      "url": "https://mindfulmocktail.com/sparkling-hibiscus-sangria-mocktail/",
+      "blurb": "It's a whole magenta pitcher of hibiscus and floating fruit — basically built to be batched for your people, photographed on 35mm, and refilled twice before anyone notices there's no booze in it.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "The Modern House — Journal",
-      "url": "https://www.themodernhouse.com/journal/",
-      "blurb": "Every home in here treats a lifetime of accumulated stuff as the actual decor — books on the floor, one perfect lamp, zero styling — which is permission to let all your side-quest objects live out in the open instead of in bins.",
+      "title": "Apartamento × LOEWE: Carlota Guerrero at Home, shot by Coco Capitán",
+      "url": "https://www.apartamentomagazine.com/stories/carlota-guerrero/",
+      "blurb": "Three women artists photographed inside their own homes by Coco Capitán — rooms styled like self-portraits, which is basically your whole thesis on living, so go build yourself a corner that photographs like a story about you.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Labyrinth — Asia's 50 Best 2026, No. 40",
-      "url": "https://www.theworlds50best.com/asia/en/the-list/Labyrinth.html",
-      "blurb": "It's your whole heritage-meets-remix obsession plated up — chai tao kuay and chilli crab reimagined by a chef who refuses to serve anything that didn't grow here, and exactly the kind of place worth inventing an occasion for.",
+      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
+      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
+      "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
