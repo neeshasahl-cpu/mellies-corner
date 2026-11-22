@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-21",
+  "generatedAt": "2026-11-22",
   "perWindow": {
     "window-1": {
-      "title": "Thisissand — Gallery",
-      "url": "https://thisissand.com/gallery/",
-      "blurb": "",
-      "previewImage": "assets/previews/window-1.webp",
+      "title": "WindowSwap",
+      "url": "https://www.window-swap.com/",
+      "blurb": "It drops you into a stranger's window somewhere in the world — ten minutes of someone's laundry line in Tellaro or rain on a Seoul balcony — and it's quiet, weirdly moving, and endlessly re-openable, plus it was built by a couple right there in Singapore.",
+      "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "★ july newsletter ★ — film friends",
-      "url": "https://filmfriends.substack.com/p/july-newsletter",
-      "blurb": "It's a scrappy little film-photography newsletter that reads like a group chat of people who all shoot on expired stock and actually finish their rolls — grainy, warm, and exactly the kind of thing that'll have you digging out the point-and-shoot by Saturday.",
+      "title": "Dirt",
+      "url": "https://dirt.fyi",
+      "blurb": "It's the culture newsletter that treats a Ghibli frame, a dead website and a pop star's tour merch with equal seriousness — exactly your brain, but in essay form.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Cucumber Basil & Citrus Mocktail",
-      "url": "https://camillestyles.com/food/cucumber-basil-citrus-mocktail/",
-      "blurb": "You make your own basil syrup and pack the glass with hand-cut cucumber matchsticks — it's less a drink than a tiny green installation, and exactly the kind of fussy-on-purpose hosting move you'd commit to fully.",
+      "title": "Golden Hour Chrysanthemum Mocktail",
+      "url": "https://www.meijergardens.org/golden-hour-chrysanthemum-mocktail/",
+      "blurb": "It takes the dried chrysanthemum flowers sitting in your grandma's tea tin and shakes them into something golden and bar-worthy with maple and lemon — heritage drink, full persona change.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Home Tour | Collector's House by Betsy Brown",
-      "url": "https://estliving.com/home-tour-collectors-house-betsy-brown-shepard-davis-architects/",
-      "blurb": "",
+      "title": "Barcelona Remodel by Conti Cert: '70s Style Redux",
+      "url": "https://www.remodelista.com/posts/conti-cert-mitre-project-barcelona/",
+      "blurb": "You already know how to commit to a persona, so here's a whole apartment doing it — '70s Barcelona reworked with real warmth instead of costume-y nostalgia, and about five ideas in here you could steal for one corner of your place this weekend.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Chye Seng Huat Hardware (CSHH Coffee Bar)",
-      "url": "https://pppcoffee.com/pages/cshh-coffee-bar",
-      "blurb": "",
+      "title": "MOZmoji 陌迹, Chinatown",
+      "url": "https://confirmgood.com/post/new-cafe-opening-mozmoji/",
+      "blurb": "You climb a staircase off Temple Street into a shophouse ceramics gallery where you get to pick your own handmade cup — each one modelled after a season or festival in the Chinese calendar — and then just sit there with cotton cheesecake and black sesame coffee like you live there.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
