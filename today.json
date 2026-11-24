@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-23",
+  "generatedAt": "2026-11-24",
   "perWindow": {
     "window-1": {
-      "title": "WindowSwap",
-      "url": "https://www.window-swap.com/",
-      "blurb": "It drops you into a stranger's window somewhere in the world — ten minutes of someone's laundry line in Tellaro or rain on a Seoul balcony — and it's quiet, weirdly moving, and endlessly re-openable, plus it was built by a couple right there in Singapore.",
+      "title": "Silk — Interactive Generative Art",
+      "url": "https://weavesilk.com/",
+      "blurb": "Drag your cursor across the black and it blooms into mirrored threads of light — the rare web toy that feels hand-made and meditative rather than clever, and I think you'll lose a happy twenty minutes to it before screenshotting half of them as pattern refs.",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Dirt",
-      "url": "https://dirt.fyi",
-      "blurb": "It's the culture newsletter that treats a Ghibli frame, a dead website and a pop star's tour merch with equal seriousness — exactly your brain, but in essay form.",
+      "title": "Type of Culture",
+      "url": "https://keyavadgama.substack.com/p/a-reintroduction-and-a-rebrand",
+      "blurb": "",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Golden Hour Chrysanthemum Mocktail",
-      "url": "https://www.meijergardens.org/golden-hour-chrysanthemum-mocktail/",
-      "blurb": "It takes the dried chrysanthemum flowers sitting in your grandma's tea tin and shakes them into something golden and bar-worthy with maple and lemon — heritage drink, full persona change.",
+      "title": "Negroni Mocktail",
+      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/negroni-mocktail-17018703",
+      "blurb": "",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Barcelona Remodel by Conti Cert: '70s Style Redux",
-      "url": "https://www.remodelista.com/posts/conti-cert-mitre-project-barcelona/",
-      "blurb": "You already know how to commit to a persona, so here's a whole apartment doing it — '70s Barcelona reworked with real warmth instead of costume-y nostalgia, and about five ideas in here you could steal for one corner of your place this weekend.",
+      "title": "The Selby — Inside Creative People's Homes",
+      "url": "https://theselby.com/",
+      "blurb": "It's basically permission to let your rooms look like your brain — every shelf, taped photo and inherited lamp doing the decorating for you.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "MOZmoji 陌迹, Chinatown",
-      "url": "https://confirmgood.com/post/new-cafe-opening-mozmoji/",
-      "blurb": "You climb a staircase off Temple Street into a shophouse ceramics gallery where you get to pick your own handmade cup — each one modelled after a season or festival in the Chinese calendar — and then just sit there with cotton cheesecake and black sesame coffee like you live there.",
+      "title": "Cookboys, I12 Katong",
+      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
+      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
