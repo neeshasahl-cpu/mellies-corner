@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-24",
+  "generatedAt": "2026-11-25",
   "perWindow": {
     "window-1": {
-      "title": "Silk — Interactive Generative Art",
-      "url": "https://weavesilk.com/",
-      "blurb": "Drag your cursor across the black and it blooms into mirrored threads of light — the rare web toy that feels hand-made and meditative rather than clever, and I think you'll lose a happy twenty minutes to it before screenshotting half of them as pattern refs.",
+      "title": "Orb Farm",
+      "url": "https://orb.farm/",
+      "blurb": "It's a tiny sealed pixel ecosystem you seed with sand, algae and little shrimp and then fuss over for hours — basically a side quest in a jar, and I know you'll name the fish.",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Type of Culture",
-      "url": "https://keyavadgama.substack.com/p/a-reintroduction-and-a-rebrand",
-      "blurb": "",
+      "title": "Naive Weekly",
+      "url": "https://www.naiveweekly.com/",
+      "blurb": "It's a weekly letter from the quiet corners of the internet — hand-made sites, net art, digital gardens — basically the reading version of every web toy you've ever fallen down a hole with.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Negroni Mocktail",
-      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/negroni-mocktail-17018703",
+      "title": "Mad World (Nonalcoholic)",
+      "url": "https://punchdrink.com/recipes/mad-world/",
       "blurb": "",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "The Selby — Inside Creative People's Homes",
-      "url": "https://theselby.com/",
-      "blurb": "It's basically permission to let your rooms look like your brain — every shelf, taped photo and inherited lamp doing the decorating for you.",
+      "title": "Sight Unseen: Inside a Vintage-Filled NYC Home",
+      "url": "https://www.sightunseen.com/2025/12/enter-our-12k-furniture-and-lighting-giveaway-tour-a-vintage-filled-nyc-home-and-more/",
+      "blurb": "",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Cookboys, I12 Katong",
-      "url": "https://hungrygowhere.com/what-to-eat/new-openings-2026/",
-      "blurb": "It's a whole 1970s Hainanese cookboy universe built out in vintage signboards and old shopfronts — basically a persona shoot you can order kopi in, and I need you to photograph the signage before anyone else does.",
+      "title": "Wok & Toast 街坊, Serangoon",
+      "url": "https://eatbook.sg/wok-and-toast/",
+      "blurb": "The Neighbourwok crew just opened a kopitiam-meets-wok-kitchen called 街坊 — literally \"neighbour\" — where $5.80 kaya toast sets share a counter with proper charred Hokkien mee, and it's exactly the kind of unglamorous heritage remix you'd end up photographing on film and building a whole mood around.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
