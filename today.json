@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-25",
+  "generatedAt": "2026-11-26",
   "perWindow": {
     "window-1": {
-      "title": "Orb Farm",
-      "url": "https://orb.farm/",
-      "blurb": "It's a tiny sealed pixel ecosystem you seed with sand, algae and little shrimp and then fuss over for hours — basically a side quest in a jar, and I know you'll name the fish.",
+      "title": "Anna's Secret Garden",
+      "url": "https://annasgarden.vercel.app/",
+      "blurb": "",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Naive Weekly",
-      "url": "https://www.naiveweekly.com/",
-      "blurb": "It's a weekly letter from the quiet corners of the internet — hand-made sites, net art, digital gardens — basically the reading version of every web toy you've ever fallen down a hole with.",
+      "title": "Moats That Matter, Cross-Species Communication, & Taking Back Our Attention",
+      "url": "https://www.implications.com/p/cross-species-communication-the-moat",
+      "blurb": "Belsky reads the near-future like a designer rather than a tech bro, and this one detours from what makes an idea truly yours into AI-decoded animal language and clawing your attention back — basically three side quests in one newsletter.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Mad World (Nonalcoholic)",
-      "url": "https://punchdrink.com/recipes/mad-world/",
-      "blurb": "",
+      "title": "Carrot Shrub (Nonalcoholic)",
+      "url": "https://punchdrink.com/recipes/carrot-shrub/",
+      "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Sight Unseen: Inside a Vintage-Filled NYC Home",
-      "url": "https://www.sightunseen.com/2025/12/enter-our-12k-furniture-and-lighting-giveaway-tour-a-vintage-filled-nyc-home-and-more/",
-      "blurb": "",
+      "title": "Apartamento × LOEWE: Carlota Guerrero at Home, shot by Coco Capitán",
+      "url": "https://www.apartamentomagazine.com/stories/carlota-guerrero/",
+      "blurb": "Three women artists photographed inside their own homes by Coco Capitán — rooms styled like self-portraits, which is basically your whole thesis on living, so go build yourself a corner that photographs like a story about you.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Wok & Toast 街坊, Serangoon",
-      "url": "https://eatbook.sg/wok-and-toast/",
-      "blurb": "The Neighbourwok crew just opened a kopitiam-meets-wok-kitchen called 街坊 — literally \"neighbour\" — where $5.80 kaya toast sets share a counter with proper charred Hokkien mee, and it's exactly the kind of unglamorous heritage remix you'd end up photographing on film and building a whole mood around.",
+      "title": "Slow Boat Vinyl Listening Café, Tanjong Pagar",
+      "url": "https://www.factmagazines.com/singapore/nightlife/the-best-listening-bars-in-singapore-for-vibes-vinyl-and-cocktails",
+      "blurb": "A sibling-run listening café up a shophouse staircase where you pay by the hour and DJ your own afternoon — analogue, unhurried, and made for you and a disposable camera.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
