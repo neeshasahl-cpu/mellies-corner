@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-26",
+  "generatedAt": "2026-11-27",
   "perWindow": {
     "window-1": {
-      "title": "Anna's Secret Garden",
-      "url": "https://annasgarden.vercel.app/",
-      "blurb": "",
+      "title": "WindowSwap",
+      "url": "https://www.window-swap.com/",
+      "blurb": "It drops you into a stranger's window somewhere in the world — ten minutes of someone's laundry line in Tellaro or rain on a Seoul balcony — and it's quiet, weirdly moving, and endlessly re-openable, plus it was built by a couple right there in Singapore.",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "Moats That Matter, Cross-Species Communication, & Taking Back Our Attention",
-      "url": "https://www.implications.com/p/cross-species-communication-the-moat",
-      "blurb": "Belsky reads the near-future like a designer rather than a tech bro, and this one detours from what makes an idea truly yours into AI-decoded animal language and clawing your attention back — basically three side quests in one newsletter.",
+      "title": "The end of short-form content — Embedded",
+      "url": "https://embedded.substack.com/p/the-end-of-short-form-content",
+      "blurb": "Kate Lindsay calls the time of death on the endless scroll and makes the case for going long — which feels like permission for exactly the kind of elaborate, deep-dive side quests you already throw yourself into.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Carrot Shrub (Nonalcoholic)",
-      "url": "https://punchdrink.com/recipes/carrot-shrub/",
-      "blurb": "It's a vinegar-bright, sesame-peppery, glowing-orange drink that starts with you pickling your own baby carrots — a side quest in a glass, and the exact shade of orange that photographs like a dream on film.",
+      "title": "Golden Hour Chrysanthemum Mocktail",
+      "url": "https://www.meijergardens.org/golden-hour-chrysanthemum-mocktail/",
+      "blurb": "It takes the dried chrysanthemum flowers sitting in your grandma's tea tin and shakes them into something golden and bar-worthy with maple and lemon — heritage drink, full persona change.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Apartamento × LOEWE: Carlota Guerrero at Home, shot by Coco Capitán",
-      "url": "https://www.apartamentomagazine.com/stories/carlota-guerrero/",
-      "blurb": "Three women artists photographed inside their own homes by Coco Capitán — rooms styled like self-portraits, which is basically your whole thesis on living, so go build yourself a corner that photographs like a story about you.",
+      "title": "Inside Jen Mankins' Scandi-Inspired Brooklyn Brownstone, Redone",
+      "url": "https://www.remodelista.com/posts/scandi-style-brooklyn/",
+      "blurb": "This one's the home of the woman who built Brooklyn's coolest indie boutique, so every corner has that shop-owner's eye — collected, warm, zero showroom energy — and I think you'll steal at least three ideas from the small details.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Slow Boat Vinyl Listening Café, Tanjong Pagar",
-      "url": "https://www.factmagazines.com/singapore/nightlife/the-best-listening-bars-in-singapore-for-vibes-vinyl-and-cocktails",
-      "blurb": "A sibling-run listening café up a shophouse staircase where you pay by the hour and DJ your own afternoon — analogue, unhurried, and made for you and a disposable camera.",
+      "title": "Bibik Violet, Temasek Shophouse",
+      "url": "https://www.aspirantsg.com/bibik-violet/",
+      "blurb": "",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
