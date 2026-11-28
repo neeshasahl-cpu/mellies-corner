@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-27",
+  "generatedAt": "2026-11-28",
   "perWindow": {
     "window-1": {
-      "title": "WindowSwap",
-      "url": "https://www.window-swap.com/",
-      "blurb": "It drops you into a stranger's window somewhere in the world — ten minutes of someone's laundry line in Tellaro or rain on a Seoul balcony — and it's quiet, weirdly moving, and endlessly re-openable, plus it was built by a couple right there in Singapore.",
+      "title": "Anna's Secret Garden",
+      "url": "https://annasgarden.vercel.app/",
+      "blurb": "",
       "previewImage": "assets/previews/window-1-og.webp",
       "isWildcard": false
     },
     "window-2": {
-      "title": "The end of short-form content — Embedded",
-      "url": "https://embedded.substack.com/p/the-end-of-short-form-content",
-      "blurb": "Kate Lindsay calls the time of death on the endless scroll and makes the case for going long — which feels like permission for exactly the kind of elaborate, deep-dive side quests you already throw yourself into.",
+      "title": "2026 is the Year of the Zine — Commonplace Zines",
+      "url": "https://commonplacezines.substack.com/p/2026-is-the-year-of-the-zine",
+      "blurb": "A tiny independent newsletter making the case that folded, stapled, gloriously imperfect paper is having its moment again — which feels like an engraved invitation for you to start a zine as your next side quest.",
       "previewImage": "assets/previews/window-2.webp",
       "isWildcard": false
     },
     "window-3": {
-      "title": "Golden Hour Chrysanthemum Mocktail",
-      "url": "https://www.meijergardens.org/golden-hour-chrysanthemum-mocktail/",
-      "blurb": "It takes the dried chrysanthemum flowers sitting in your grandma's tea tin and shakes them into something golden and bar-worthy with maple and lemon — heritage drink, full persona change.",
+      "title": "Red Shiso Mocktail",
+      "url": "https://www.nishikidori.com/en/blog/japanese-cocktail-recipe-red-shiso-mocktail-n119",
+      "blurb": "Red shiso steeps into a shocking electric-magenta that flips color the second citrus hits it, so you get a drink that's half herbal Japanese summer, half chemistry-set party trick — fully worth the photo.",
       "previewImage": "assets/previews/window-3.webp",
       "isWildcard": false
     },
     "window-4": {
-      "title": "Inside Jen Mankins' Scandi-Inspired Brooklyn Brownstone, Redone",
-      "url": "https://www.remodelista.com/posts/scandi-style-brooklyn/",
-      "blurb": "This one's the home of the woman who built Brooklyn's coolest indie boutique, so every corner has that shop-owner's eye — collected, warm, zero showroom energy — and I think you'll steal at least three ideas from the small details.",
+      "title": "The Lafayette Hotel's Vintage Lamps",
+      "url": "https://www.homesandgardens.com/interior-design/lafayette-hotel-inspired-table-lamp",
+      "blurb": "You already know a room lives or dies by its lamps — this one's a love letter to the moody, thrifted, hotel-lobby glow you'd absolutely build a whole shoot around.",
       "previewImage": "assets/previews/window-4.webp",
       "isWildcard": false
     },
     "window-5": {
-      "title": "Bibik Violet, Temasek Shophouse",
-      "url": "https://www.aspirantsg.com/bibik-violet/",
-      "blurb": "",
+      "title": "Miura, Joo Chiat",
+      "url": "https://eatbook.sg/miura-joo-chiat/",
+      "blurb": "You have to walk through a three-storey Joo Chiat shophouse full of independent labels before you find this tiny matcha-and-wagashi counter hiding at the back, which makes getting a daifuku feel like a small side quest you completed.",
       "previewImage": "assets/previews/window-5.webp",
       "isWildcard": false
     }
